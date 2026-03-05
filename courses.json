@@ -21553,6 +21553,26 @@
     ]
   },
   {
+    "source": "C07.htm",
+    "dept_block": "TGFXB.外語學院共同科日 ELECTIVES COURSES BY COLLEGE OF FOREIGN LANGUAGES AND LITERATURES",
+    "grade": "4",
+    "seq": "3232",
+    "code": "X0001",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 0,
+    "group": "",
+    "title": "英語能力檢定 限延修生已修足畢業學分，僅未通過外語檢定畢業門檻者修習(請至註課中心辦理選課)。",
+    "cap": "",
+    "teacher": "",
+    "times": [
+      "/ /"
+    ]
+  },
+  {
     "source": "C09.htm",
     "dept_block": "TGRHB.榮譽進階專業－國 HONORS PROGRAM",
     "grade": "0",
@@ -21749,7 +21769,7 @@
     "cap": 90,
     "teacher": "虢恕仁",
     "times": [
-      "五 / 3,4 / B 709"
+      "五 / 3,4 / B 616"
     ]
   },
   {
@@ -21789,7 +21809,7 @@
     "cap": 90,
     "teacher": "邱松嵐",
     "times": [
-      "五 / 3,4 / B 508"
+      "五 / 3,4 / B 312"
     ]
   },
   {
@@ -40777,7 +40797,7 @@
     "cap": 85,
     "teacher": "林嘉琪",
     "times": [
-      "三 / 3,4 / O 306"
+      "三 / 3,4 / O 504"
     ]
   },
   {
@@ -49619,7 +49639,7 @@
     "cap": 120,
     "teacher": "賴偉淇",
     "times": [
-      "一 / 6,7 / E 508"
+      "一 / 6,7 / E 513"
     ]
   },
   {
@@ -54541,7 +54561,7 @@
     "cap": 175,
     "teacher": "劉寅春",
     "times": [
-      "一 / 6,7 / E 513"
+      "一 / 6,7 / E 508"
     ]
   },
   {
@@ -54803,7 +54823,7 @@
     "cap": 70,
     "teacher": "周永山",
     "times": [
-      "一 / 8,9 / E 508",
+      "一 / 8,9 / E 813",
       "四 / 7 / E 305"
     ]
   },
@@ -54824,7 +54844,7 @@
     "cap": 70,
     "teacher": "助教",
     "times": [
-      "一 / 10 / E 508"
+      "一 / 10 / E 813"
     ]
   },
   {
@@ -63218,6 +63238,26 @@
     ]
   },
   {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "4",
+    "seq": "3227",
+    "code": "X0006",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 0,
+    "group": "",
+    "title": "日語能力檢定 限延修生已修足畢業學分，僅未通過日語檢定畢業門檻者修習(請至註課中心辦理選課)。",
+    "cap": "",
+    "teacher": "",
+    "times": [
+      "/ /"
+    ]
+  },
+  {
     "source": "TFJXE.htm",
     "dept_block": "TFJXE.日文系（進學） DEPARTMENT OF JAPANESE",
     "grade": "1",
@@ -65719,6 +65759,26 @@
     ]
   },
   {
+    "source": "TFOAB.htm",
+    "dept_block": "TFOAB.歐語系法文組 DIVISION OF FRENCH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "4",
+    "seq": "3228",
+    "code": "X0004",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 0,
+    "group": "",
+    "title": "法語能力檢定 限延修生已修足畢業學分，僅未通過法語檢定畢業門檻者修習(請至註課中心辦理選課)。",
+    "cap": "",
+    "teacher": "",
+    "times": [
+      "/ /"
+    ]
+  },
+  {
     "source": "TFOGB.htm",
     "dept_block": "TFOGB.歐語系德文組 DIVISION OF GERMAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
     "grade": "1",
@@ -66243,6 +66303,26 @@
     ]
   },
   {
+    "source": "TFOGB.htm",
+    "dept_block": "TFOGB.歐語系德文組 DIVISION OF GERMAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "4",
+    "seq": "3229",
+    "code": "X0005",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 0,
+    "group": "",
+    "title": "德語能力檢定 限延修生已修足畢業學分，僅未通過德語檢定畢業門檻者修習(請至註課中心辦理選課)。",
+    "cap": "",
+    "teacher": "",
+    "times": [
+      "/ /"
+    ]
+  },
+  {
     "source": "TFOSB.htm",
     "dept_block": "TFOSB.歐語系西文組 DIVISION OF SPANISH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
     "grade": "1",
@@ -66710,6 +66790,26 @@
     ]
   },
   {
+    "source": "TFOSB.htm",
+    "dept_block": "TFOSB.歐語系西文組 DIVISION OF SPANISH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "4",
+    "seq": "3230",
+    "code": "X0003",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 0,
+    "group": "",
+    "title": "西語能力檢定 限延修生已修足畢業學分，僅未通過西語檢定畢業門檻者修習(請至註課中心辦理選課)。",
+    "cap": "",
+    "teacher": "",
+    "times": [
+      "/ /"
+    ]
+  },
+  {
     "source": "TFOUB.htm",
     "dept_block": "TFOUB.歐語系俄文組 DIVISION OF RUSSIAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
     "grade": "1",
@@ -67074,6 +67174,26 @@
     "teacher": "張慶國",
     "times": [
       "三 / 3,4 / H 114"
+    ]
+  },
+  {
+    "source": "TFOUB.htm",
+    "dept_block": "TFOUB.歐語系俄文組 DIVISION OF RUSSIAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "4",
+    "seq": "3231",
+    "code": "X0007",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 0,
+    "group": "",
+    "title": "俄語能力檢定 限延修生已修足畢業學分，僅未通過日語檢定畢業門檻者修習(請至註課中心辦理選課)。",
+    "cap": "",
+    "teacher": "",
+    "times": [
+      "/ /"
     ]
   },
   {
@@ -70366,7 +70486,7 @@
     "cap": 80,
     "teacher": "蕭莉芃",
     "times": [
-      "四 / 1 / B 111"
+      "四 / 1 / B 515"
     ]
   },
   {
@@ -70386,7 +70506,7 @@
     "cap": 80,
     "teacher": "助教",
     "times": [
-      "四 / 2 / B 111"
+      "四 / 2 / B 515"
     ]
   },
   {
@@ -74686,7 +74806,7 @@
     "cap": 160,
     "teacher": "助教",
     "times": [
-      "三 / 1 / B 111"
+      "三 / 1 / B 312"
     ]
   },
   {
@@ -76922,7 +77042,7 @@
     "cap": 90,
     "teacher": "賴錦璋",
     "times": [
-      "三 / 6,7 / B 515"
+      "三 / 6,7 / B 513"
     ]
   },
   {
@@ -85426,7 +85546,7 @@
     "cap": "",
     "teacher": "陳俊穎",
     "times": [
-      "六 / 1,2,3 /"
+      "/ /"
     ]
   },
   {
@@ -86088,7 +86208,7 @@
     "cap": 80,
     "teacher": "助教",
     "times": [
-      "三 / 5 / B 602"
+      "三 / 5 / B 606"
     ]
   },
   {
@@ -86630,7 +86750,7 @@
     "cap": 80,
     "teacher": "李順發",
     "times": [
-      "三 / 6,7 / B 513"
+      "三 / 6,7 / B 515"
     ]
   },
   {
@@ -86650,7 +86770,7 @@
     "cap": 80,
     "teacher": "助教",
     "times": [
-      "三 / 5 / B 513"
+      "三 / 5 / B 515"
     ]
   },
   {
@@ -88687,7 +88807,7 @@
     "teacher": "李長欣",
     "times": [
       "二 / 3,4 / Q 409",
-      "三 / 4 / C 002"
+      "三 / 4 / O 306"
     ]
   },
   {
