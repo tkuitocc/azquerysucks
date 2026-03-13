@@ -12819,7 +12819,7 @@
     "cap": 70,
     "teacher": "黃文智",
     "times": [
-      "一 / 9,10 / B 120"
+      "一 / 9,10 / L 302"
     ]
   },
   {
@@ -12959,7 +12959,7 @@
     "cap": 70,
     "teacher": "黃文智",
     "times": [
-      "二 / 1,2 / C 001"
+      "二 / 1,2 / L 412"
     ]
   },
   {
@@ -12979,7 +12979,7 @@
     "cap": 70,
     "teacher": "黃文智",
     "times": [
-      "二 / 1,2 / C 001"
+      "二 / 1,2 / L 412"
     ]
   },
   {
@@ -13246,26 +13246,6 @@
     "source": "A15.htm",
     "dept_block": "TNUKB.核心課程Ｋ群－日 THE OPERATION OF STUDENTS’ CLUBS AND TEAM DEVELOPMENT",
     "grade": "0",
-    "seq": "2566",
-    "code": "T0800",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "K",
-    "title": "社團服務學習 本課程不得替代「社團學習與實作」必修學分，僅計為外系選修之畢業學分數。 ◇專業知能服務學習課程",
-    "cap": 60,
-    "teacher": "陳致源",
-    "times": [
-      "五 / 6,7 / C 012"
-    ]
-  },
-  {
-    "source": "A15.htm",
-    "dept_block": "TNUKB.核心課程Ｋ群－日 THE OPERATION OF STUDENTS’ CLUBS AND TEAM DEVELOPMENT",
-    "grade": "0",
     "seq": "2567",
     "code": "T2794",
     "major": null,
@@ -13479,7 +13459,7 @@
     "cap": 70,
     "teacher": "黃文智",
     "times": [
-      "一 / 9,10 / B 120"
+      "一 / 9,10 / L 302"
     ]
   },
   {
@@ -18085,26 +18065,6 @@
   },
   {
     "source": "C01.htm",
-    "dept_block": "TNUXB.校共通課程－日 COMMON ELECTIVE COURSES",
-    "grade": "0",
-    "seq": "2851",
-    "code": "Z1029",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "高齡者服務實習 高齡健康服務人才培力學分學程。本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 30,
-    "teacher": "朱瓊苓",
-    "times": [
-      "二 / 7,8 / SG 323"
-    ]
-  },
-  {
-    "source": "C01.htm",
     "dept_block": "TNUXE.校共通課程－進",
     "grade": "0",
     "seq": "6137",
@@ -18120,7 +18080,7 @@
     "cap": 175,
     "teacher": "徐佐銘",
     "times": [
-      "四 / 11 / E 401"
+      "日 / 8 /"
     ]
   },
   {
@@ -25553,7 +25513,7 @@
     "cap": 90,
     "teacher": "劉佩勳",
     "times": [
-      "四 / 7,8 / T 311"
+      "四 / 7,8 / T 404"
     ]
   },
   {
@@ -29700,7 +29660,7 @@
     "cap": 75,
     "teacher": "李文基",
     "times": [
-      "四 / 6,7,8 / T 404"
+      "四 / 6,7,8 / T 311"
     ]
   },
   {
@@ -30896,7 +30856,7 @@
     "teacher": "何景榮",
     "times": [
       "一 / 6,7 / T 704",
-      "四 / 6 / T 311"
+      "四 / 6 / T 404"
     ]
   },
   {
@@ -31983,7 +31943,7 @@
     "cap": "",
     "teacher": "沈俊毅",
     "times": [
-      "四 / 6,7,8 / ED 202"
+      "四 / 6,7,8 / ED 204"
     ]
   },
   {
@@ -32003,7 +31963,7 @@
     "cap": "",
     "teacher": "何俐安",
     "times": [
-      "四 / 6,7,8 / ED 204"
+      "四 / 6,7,8 / ED 202"
     ]
   },
   {
@@ -36982,7 +36942,7 @@
     "cap": "",
     "teacher": "賴婷鈴",
     "times": [
-      "二 / 2,3,4 / ED 202"
+      "二 / 1,2,3 / ED 202"
     ]
   },
   {
@@ -40757,7 +40717,7 @@
     "cap": 85,
     "teacher": "林嘉琪",
     "times": [
-      "三 / 3,4 / O 504"
+      "三 / 3,4 / B 309"
     ]
   },
   {
@@ -64622,26 +64582,6 @@
     "source": "TFLXE.htm",
     "dept_block": "TFLXE.英文系（進學） DEPARTMENT OF ENGLISH",
     "grade": "3",
-    "seq": "6059",
-    "code": "F0869",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "語言學習策略與應用",
-    "cap": 80,
-    "teacher": "葉書吟",
-    "times": [
-      "六 / 8,9 / B 513"
-    ]
-  },
-  {
-    "source": "TFLXE.htm",
-    "dept_block": "TFLXE.英文系（進學） DEPARTMENT OF ENGLISH",
-    "grade": "3",
     "seq": "6060",
     "code": "F0915",
     "major": null,
@@ -75331,8 +75271,7 @@
     "cap": 85,
     "teacher": "羅惠瓊",
     "times": [
-      "三 / 8,9 / B 706",
-      "三 / 10 / B 706"
+      "三 / 8,9,10 / B 706"
     ]
   },
   {
@@ -84441,7 +84380,7 @@
     "cap": 70,
     "teacher": "陳菀蕙",
     "times": [
-      "四 / 1,2,3 / B 615"
+      "四 / 1,2,3 / B 508"
     ]
   },
   {
@@ -84461,7 +84400,7 @@
     "cap": 70,
     "teacher": "助教",
     "times": [
-      "四 / 4 / B 615"
+      "四 / 4 / B 508"
     ]
   },
   {
