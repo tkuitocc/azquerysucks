@@ -38097,6 +38097,246 @@
     ]
   },
   {
+    "source": "T01.htm",
+    "dept_block": "TABXB.資圖系（日） DEPARTMENT OF INFORMATION AND LIBRARY SCIENCE",
+    "grade": "1",
+    "seq": "0007",
+    "code": "A2308",
+    "major": null,
+    "term_order": "0",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "圖書館學統計 限本系生優先選",
+    "cap": 70,
+    "teacher": "張嘉玲",
+    "times": [
+      "一 / 1,2 / L 507"
+    ]
+  },
+  {
+    "source": "T01.htm",
+    "dept_block": "TDJXB.教設系（日） DEPARTMENT OF EDUCATION AND FUTURES DESIGN",
+    "grade": "4",
+    "seq": "0235",
+    "code": "D0755",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "趨勢議題分析與應用",
+    "cap": 70,
+    "teacher": "朱庭逸",
+    "times": [
+      "二 / 8,9 / ED 303"
+    ]
+  },
+  {
+    "source": "T01.htm",
+    "dept_block": "TDTXB.教科系（日） DEPARTMENT OF EDUCATIONAL TECHNOLOGY",
+    "grade": "2",
+    "seq": "0275",
+    "code": "A1627",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "教學設計 限本系、輔系及雙主修生",
+    "cap": 62,
+    "teacher": "鄭宜佳",
+    "times": [
+      "一 / 6,7,8 / L 102"
+    ]
+  },
+  {
+    "source": "T01.htm",
+    "dept_block": "TEAXB.建築系（日） DEPARTMENT OF ARCHITECTURE",
+    "grade": "2",
+    "seq": "0320",
+    "code": "E0617",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "結構學 限本系生",
+    "cap": 175,
+    "teacher": "姚忠達",
+    "times": [
+      "五 / 8,9 / E 411"
+    ]
+  },
+  {
+    "source": "T01.htm",
+    "dept_block": "TFOAB.歐語系法文組 DIVISION OF FRENCH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "4",
+    "seq": "1191",
+    "code": "F0710",
+    "major": null,
+    "term_order": "0",
+    "class": "P",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "媒體法文 限本組四年級及申請本組雙主修生。",
+    "cap": 175,
+    "teacher": "廖潤珮",
+    "times": [
+      "三 / 3,4 / T 406"
+    ]
+  },
+  {
+    "source": "T01.htm",
+    "dept_block": "TLGXB.管科系（日） DEPARTMENT OF MANAGEMENT SCIENCES",
+    "grade": "4",
+    "seq": "2257",
+    "code": "M1105",
+    "major": null,
+    "term_order": "0",
+    "class": "P",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "網路行銷",
+    "cap": 75,
+    "teacher": "陳水蓮",
+    "times": [
+      "三 / 3,4 / B 502"
+    ]
+  },
+  {
+    "source": "T01.htm",
+    "dept_block": "TLYXB.經濟系（日） DEPARTMENT OF ECONOMICS",
+    "grade": "3",
+    "seq": "2543",
+    "code": "B0453",
+    "major": "A",
+    "term_order": "2",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "財務經濟學",
+    "cap": 85,
+    "teacher": "林亦珍",
+    "times": [
+      "一 / 9,10 / B 606"
+    ]
+  },
+  {
+    "source": "T01.htm",
+    "dept_block": "TLYXB.經濟系（日） DEPARTMENT OF ECONOMICS",
+    "grade": "4",
+    "seq": "2556",
+    "code": "B0370",
+    "major": "A",
+    "term_order": "0",
+    "class": "P",
+    "group_div": null,
+    "required": "選",
+    "credits": 3,
+    "group": "",
+    "title": "環境經濟學",
+    "cap": 70,
+    "teacher": "林彥伶",
+    "times": [
+      "二 / 6,7,8 / B 701"
+    ]
+  },
+  {
+    "source": "T02.htm",
+    "dept_block": "TDTXB.教科系（日） DEPARTMENT OF EDUCATIONAL TECHNOLOGY",
+    "grade": "2",
+    "seq": "0277",
+    "code": "D0142",
+    "major": null,
+    "term_order": "0",
+    "class": "P",
+    "group_div": null,
+    "required": "選",
+    "credits": 3,
+    "group": "",
+    "title": "３Ｄ動畫製作",
+    "cap": 70,
+    "teacher": "林逸農",
+    "times": [
+      "四 / 2,3,4 / L 110"
+    ]
+  },
+  {
+    "source": "T02.htm",
+    "dept_block": "TLCXB.企管系（日） DEPARTMENT OF BUSINESS ADMINISTRATION",
+    "grade": "2",
+    "seq": "2097",
+    "code": "M0003",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "人力資源管理 限本班生",
+    "cap": 85,
+    "teacher": "汪美伶",
+    "times": [
+      "二 / 6,7,8 / B 117"
+    ]
+  },
+  {
+    "source": "T02.htm",
+    "dept_block": "TLGXB.管科系（日） DEPARTMENT OF MANAGEMENT SCIENCES",
+    "grade": "1",
+    "seq": "2233",
+    "code": "E4346",
+    "major": null,
+    "term_order": "2",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
+    "cap": 70,
+    "teacher": "曾紫嵐",
+    "times": [
+      "三 / 3,4 / B 204"
+    ]
+  },
+  {
+    "source": "T02.htm",
+    "dept_block": "TLGXB.管科系（日） DEPARTMENT OF MANAGEMENT SCIENCES",
+    "grade": "1",
+    "seq": null,
+    "code": "E4346",
+    "major": null,
+    "term_order": "2",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": "",
+    "group": "",
+    "title": "數位科技與ＡＩ應用 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
+      "三 / 5 / B 204"
+    ]
+  },
+  {
     "source": "TABAJ.htm",
     "dept_block": "TABAJ.資圖系數位碩專班 E-LEARNING EXECUTIVE MASTER’S PROGRAM IN DIGITAL PUBLISHING AND ARCHIVING",
     "grade": "2",
@@ -38214,26 +38454,6 @@
     "teacher": "王翊宇",
     "times": [
       "一 / 6,7 / B 216"
-    ]
-  },
-  {
-    "source": "TABXB.htm",
-    "dept_block": "TABXB.資圖系（日） DEPARTMENT OF INFORMATION AND LIBRARY SCIENCE",
-    "grade": "1",
-    "seq": "0007",
-    "code": "A2308",
-    "major": null,
-    "term_order": "0",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "圖書館學統計 限本系生優先選",
-    "cap": 70,
-    "teacher": "張嘉玲",
-    "times": [
-      "一 / 1,2 / L 507"
     ]
   },
   {
@@ -43175,26 +43395,6 @@
     "source": "TDJXB.htm",
     "dept_block": "TDJXB.教設系（日） DEPARTMENT OF EDUCATION AND FUTURES DESIGN",
     "grade": "4",
-    "seq": "0235",
-    "code": "D0755",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "趨勢議題分析與應用",
-    "cap": 70,
-    "teacher": "朱庭逸",
-    "times": [
-      "二 / 8,9 / ED 303"
-    ]
-  },
-  {
-    "source": "TDJXB.htm",
-    "dept_block": "TDJXB.教設系（日） DEPARTMENT OF EDUCATION AND FUTURES DESIGN",
-    "grade": "4",
     "seq": "0236",
     "code": "D0854",
     "major": null,
@@ -43569,46 +43769,6 @@
     "teacher": "蔡志遠",
     "times": [
       "三 / 9,10 /"
-    ]
-  },
-  {
-    "source": "TDTXB.htm",
-    "dept_block": "TDTXB.教科系（日） DEPARTMENT OF EDUCATIONAL TECHNOLOGY",
-    "grade": "2",
-    "seq": "0275",
-    "code": "A1627",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 3,
-    "group": "",
-    "title": "教學設計 限本系、輔系及雙主修生",
-    "cap": 62,
-    "teacher": "鄭宜佳",
-    "times": [
-      "一 / 6,7,8 / L 102"
-    ]
-  },
-  {
-    "source": "TDTXB.htm",
-    "dept_block": "TDTXB.教科系（日） DEPARTMENT OF EDUCATIONAL TECHNOLOGY",
-    "grade": "2",
-    "seq": "0277",
-    "code": "D0142",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "３Ｄ動畫製作",
-    "cap": 70,
-    "teacher": "林逸農",
-    "times": [
-      "四 / 2,3,4 / L 110"
     ]
   },
   {
@@ -44319,26 +44479,6 @@
     "teacher": "黃華真",
     "times": [
       "二 / 7,8 / T 311"
-    ]
-  },
-  {
-    "source": "TEAXB.htm",
-    "dept_block": "TEAXB.建築系（日） DEPARTMENT OF ARCHITECTURE",
-    "grade": "2",
-    "seq": "0320",
-    "code": "E0617",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "結構學 限本系生",
-    "cap": 175,
-    "teacher": "姚忠達",
-    "times": [
-      "五 / 8,9 / E 411"
     ]
   },
   {
@@ -65242,26 +65382,6 @@
     "source": "TFOAB.htm",
     "dept_block": "TFOAB.歐語系法文組 DIVISION OF FRENCH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
     "grade": "4",
-    "seq": "1191",
-    "code": "F0710",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "媒體法文 限本組四年級及申請本組雙主修生。",
-    "cap": 175,
-    "teacher": "廖潤珮",
-    "times": [
-      "三 / 3,4 / T 406"
-    ]
-  },
-  {
-    "source": "TFOAB.htm",
-    "dept_block": "TFOAB.歐語系法文組 DIVISION OF FRENCH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
-    "grade": "4",
     "seq": "1192",
     "code": "F0760",
     "major": null,
@@ -74553,26 +74673,6 @@
     "source": "TLCXB.htm",
     "dept_block": "TLCXB.企管系（日） DEPARTMENT OF BUSINESS ADMINISTRATION",
     "grade": "2",
-    "seq": "2097",
-    "code": "M0003",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 3,
-    "group": "",
-    "title": "人力資源管理 限本班生",
-    "cap": 85,
-    "teacher": "汪美伶",
-    "times": [
-      "二 / 6,7,8 / B 117"
-    ]
-  },
-  {
-    "source": "TLCXB.htm",
-    "dept_block": "TLCXB.企管系（日） DEPARTMENT OF BUSINESS ADMINISTRATION",
-    "grade": "2",
     "seq": "2098",
     "code": "M0003",
     "major": null,
@@ -76094,26 +76194,6 @@
     "teacher": "李順發",
     "times": [
       "四 / 3,4 / B 516"
-    ]
-  },
-  {
-    "source": "TLEXB.htm",
-    "dept_block": "TLEXB.產經系（日） DEPARTMENT OF INDUSTRIAL ECONOMICS",
-    "grade": "3",
-    "seq": "2233",
-    "code": "B0146",
-    "major": null,
-    "term_order": "2",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "財政學",
-    "cap": 70,
-    "teacher": "劉家樺",
-    "times": [
-      "四 / 1,2 / B 116"
     ]
   },
   {
@@ -78550,26 +78630,6 @@
     "teacher": "李旭華",
     "times": [
       "三 / 8,9,10 / B 609"
-    ]
-  },
-  {
-    "source": "TLGXB.htm",
-    "dept_block": "TLGXB.管科系（日） DEPARTMENT OF MANAGEMENT SCIENCES",
-    "grade": "4",
-    "seq": "2257",
-    "code": "M1105",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "網路行銷",
-    "cap": 75,
-    "teacher": "陳水蓮",
-    "times": [
-      "三 / 3,4 / B 502"
     ]
   },
   {
@@ -86499,26 +86559,6 @@
     "source": "TLYXB.htm",
     "dept_block": "TLYXB.經濟系（日） DEPARTMENT OF ECONOMICS",
     "grade": "3",
-    "seq": "2543",
-    "code": "B0453",
-    "major": "A",
-    "term_order": "2",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "財務經濟學",
-    "cap": 85,
-    "teacher": "林亦珍",
-    "times": [
-      "一 / 9,10 / B 606"
-    ]
-  },
-  {
-    "source": "TLYXB.htm",
-    "dept_block": "TLYXB.經濟系（日） DEPARTMENT OF ECONOMICS",
-    "grade": "3",
     "seq": "2544",
     "code": "B0453",
     "major": "A",
@@ -86694,26 +86734,6 @@
     "teacher": "廖仁傑",
     "times": [
       "五 / 6,7 / B 607"
-    ]
-  },
-  {
-    "source": "TLYXB.htm",
-    "dept_block": "TLYXB.經濟系（日） DEPARTMENT OF ECONOMICS",
-    "grade": "4",
-    "seq": "2556",
-    "code": "B0370",
-    "major": "A",
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "環境經濟學",
-    "cap": 70,
-    "teacher": "林彥伶",
-    "times": [
-      "二 / 6,7,8 / B 701"
     ]
   },
   {
@@ -87236,7 +87256,7 @@
     "cap": "",
     "teacher": "胡慶山",
     "times": [
-      "四 / 8,9 / T 408"
+      "四 / 8,9 / T 503"
     ]
   },
   {
@@ -87276,7 +87296,7 @@
     "cap": "",
     "teacher": "胡慶山",
     "times": [
-      "四 / 6,7 / T 408"
+      "四 / 6,7 / T 503"
     ]
   },
   {
