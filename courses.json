@@ -66509,26 +66509,6 @@
     ]
   },
   {
-    "source": "TFOSB.htm",
-    "dept_block": "TFOSB.歐語系西文組 DIVISION OF SPANISH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
-    "grade": "4",
-    "seq": "3230",
-    "code": "X0003",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 0,
-    "group": "",
-    "title": "西語能力檢定 限延修生已修足畢業學分，僅未通過西語檢定畢業門檻者修習(請至註課中心辦理選課)。",
-    "cap": "",
-    "teacher": "",
-    "times": [
-      "/ /"
-    ]
-  },
-  {
     "source": "TFOUB.htm",
     "dept_block": "TFOUB.歐語系俄文組 DIVISION OF RUSSIAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
     "grade": "1",
@@ -66893,26 +66873,6 @@
     "teacher": "張慶國",
     "times": [
       "三 / 3,4 / H 114"
-    ]
-  },
-  {
-    "source": "TFOUB.htm",
-    "dept_block": "TFOUB.歐語系俄文組 DIVISION OF RUSSIAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
-    "grade": "4",
-    "seq": "3231",
-    "code": "X0007",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 0,
-    "group": "",
-    "title": "俄語能力檢定 限延修生已修足畢業學分，僅未通過日語檢定畢業門檻者修習(請至註課中心辦理選課)。",
-    "cap": "",
-    "teacher": "",
-    "times": [
-      "/ /"
     ]
   },
   {
