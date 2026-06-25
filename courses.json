@@ -7316,7 +7316,7 @@
     "cap": 55,
     "teacher": "助教",
     "times": [
-      "四 / 6 / V 201"
+      "四 / 6 / L 310"
     ]
   },
   {
@@ -7356,7 +7356,7 @@
     "cap": 55,
     "teacher": "助教",
     "times": [
-      "一 / 3 / L 202"
+      "一 / 3 / L 101"
     ]
   },
   {
@@ -7516,7 +7516,7 @@
     "cap": 55,
     "teacher": "助教",
     "times": [
-      "四 / 6 / L 106"
+      "四 / 6 / L 104"
     ]
   },
   {
@@ -7556,7 +7556,7 @@
     "cap": 55,
     "teacher": "助教",
     "times": [
-      "四 / 7 / L 106"
+      "四 / 7 / L 104"
     ]
   },
   {
@@ -7671,7 +7671,7 @@
     "group_div": null,
     "required": "必",
     "credits": 2,
-    "group": "QE",
+    "group": "QC",
     "title": "西班牙文（二） 母語為西班牙文者、西班牙文系學生皆不得選修",
     "cap": 60,
     "teacher": "陳小雀",
@@ -17405,6 +17405,366 @@
     ]
   },
   {
+    "source": "C01.htm",
+    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
+    "grade": "0",
+    "seq": "2461",
+    "code": "E4392",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 3,
+    "group": "",
+    "title": "人工智慧倫理 ◇講座課程◇以實整虛課程",
+    "cap": 70,
+    "teacher": "林嘉琪",
+    "times": [
+      "一 / 8,9,10 / L 307"
+    ]
+  },
+  {
+    "source": "C01.htm",
+    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
+    "grade": "0",
+    "seq": "2462",
+    "code": "M2601",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "交通安全分析與事故預防",
+    "cap": 175,
+    "teacher": "陳菀蕙",
+    "times": [
+      "四 / 1,2 / B 712"
+    ]
+  },
+  {
+    "source": "C01.htm",
+    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
+    "grade": "0",
+    "seq": "2463",
+    "code": "T0234",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "安全衛生教育 ◇講座課程",
+    "cap": 160,
+    "teacher": "江昭龍",
+    "times": [
+      "五 / 6,7 / B 712"
+    ]
+  },
+  {
+    "source": "C01.htm",
+    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
+    "grade": "0",
+    "seq": "2464",
+    "code": "T0645",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "森林生態與樹木保護 ◇專業知能服務學習課程",
+    "cap": 260,
+    "teacher": "蕭文偉",
+    "times": [
+      "一 / 6,7 / B 713"
+    ]
+  },
+  {
+    "source": "C01.htm",
+    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
+    "grade": "0",
+    "seq": "2465",
+    "code": "T1234",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "弱勢團體與社會福利 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇專業知能服務學習課程",
+    "cap": 175,
+    "teacher": "陳建甫",
+    "times": [
+      "二 / 5,6 / B 713"
+    ]
+  },
+  {
+    "source": "C01.htm",
+    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
+    "grade": "0",
+    "seq": "2466",
+    "code": "T2984",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "運動與生活概論",
+    "cap": 30,
+    "teacher": "郭馥滋",
+    "times": [
+      "五 / 3,4 / SG 402"
+    ]
+  },
+  {
+    "source": "C01.htm",
+    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
+    "grade": "0",
+    "seq": "2467",
+    "code": "T3295",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "水下文化資產概論",
+    "cap": 175,
+    "teacher": "劉金源",
+    "times": [
+      "三 / 3,4 / L 201"
+    ]
+  },
+  {
+    "source": "C01.htm",
+    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
+    "grade": "0",
+    "seq": "2468",
+    "code": "T3330",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "智慧財產權管理與永續發展",
+    "cap": 175,
+    "teacher": "陳麗娟",
+    "times": [
+      "二 / 8,9 / L 401"
+    ]
+  },
+  {
+    "source": "C01.htm",
+    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
+    "grade": "0",
+    "seq": "2469",
+    "code": "T3331",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 1,
+    "group": "",
+    "title": "跨域探索-人工智慧與永續發展 跨域探索4門課至多承認2學分為畢業學分。限大一學生選修。本科目為通識教育跨領域微學程課程。 ◇遠距非同步課程",
+    "cap": 175,
+    "teacher": "崔琳,蔡志群,黃大肯,林仁祥",
+    "times": [
+      "二 / 11 /"
+    ]
+  },
+  {
+    "source": "C01.htm",
+    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
+    "grade": "0",
+    "seq": "2470",
+    "code": "T3332",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 1,
+    "group": "",
+    "title": "跨域探索-人文社會與智慧管理 跨域探索4門課至多承認2學分為畢業學分。限大一學生選修。 ◇遠距非同步課程◇全英語授課",
+    "cap": 175,
+    "teacher": "陳維立,劉佩勳,朱政安,潘艾柔",
+    "times": [
+      "四 / 11 /"
+    ]
+  },
+  {
+    "source": "C01.htm",
+    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
+    "grade": "0",
+    "seq": "2471",
+    "code": "T3333",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 1,
+    "group": "",
+    "title": "跨域探索-文創與智慧設計 跨域探索4門課至多承認2學分為畢業學分。限大一學生選修。本科目為通識教育跨領域微學程課程。 ◇遠距非同步課程",
+    "cap": 175,
+    "teacher": "蕭吉甫,古怡青,林逸農,黃家琪",
+    "times": [
+      "一 / 11 /"
+    ]
+  },
+  {
+    "source": "C01.htm",
+    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
+    "grade": "0",
+    "seq": "2472",
+    "code": "T3334",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 1,
+    "group": "",
+    "title": "跨域探索-智慧人文商管與社會創新 跨域探索4門課至多承認2學分為畢業學分。限大一學生選修。本科目為通識教育跨領域微學程課程。 ◇遠距非同步課程",
+    "cap": 175,
+    "teacher": "蘇淑燕,楊立人,唐大崙,張明弘",
+    "times": [
+      "三 / 11 /"
+    ]
+  },
+  {
+    "source": "C01.htm",
+    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
+    "grade": "0",
+    "seq": "2473",
+    "code": "T3336",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "e筆書法暨繪畫創作",
+    "cap": 175,
+    "teacher": "張炳煌",
+    "times": [
+      "二 / 3,4 / B 206"
+    ]
+  },
+  {
+    "source": "C01.htm",
+    "dept_block": "TNUCE.校共與社會－進 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
+    "grade": "0",
+    "seq": "6108",
+    "code": "T9607",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "校園與社區服務學習 補修班，限進學班重、補修生。 ◇遠距非同步課程",
+    "cap": 175,
+    "teacher": "徐佐銘",
+    "times": [
+      "日 / 8 /"
+    ]
+  },
+  {
+    "source": "C01.htm",
+    "dept_block": "TNUCE.校共與社會－進 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
+    "grade": "0",
+    "seq": "6109",
+    "code": "T9607",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "校園與社區服務學習 補修班，限進學班重、補修生。 ◇遠距非同步課程",
+    "cap": 175,
+    "teacher": "陳建甫",
+    "times": [
+      "六 / 12 / B 504"
+    ]
+  },
+  {
+    "source": "C01.htm",
+    "dept_block": "TNUCE.校共與社會－進 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
+    "grade": "0",
+    "seq": "6110",
+    "code": "T9703",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "全民國防教育軍事訓練（一）－國防科技 補修班，限進學班重、補修生。 ◇遠距非同步課程",
+    "cap": 175,
+    "teacher": "王志遠",
+    "times": [
+      "五 / 11,12 / B 514"
+    ]
+  },
+  {
+    "source": "C01.htm",
+    "dept_block": "TNUCE.校共與社會－進 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
+    "grade": "0",
+    "seq": "6111",
+    "code": "T9882",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－體重控制興趣班 補修班，限進學班重、補修生。 ◇遠距非同步課程",
+    "cap": 175,
+    "teacher": "吳采陵",
+    "times": [
+      "三 / 11,12 /"
+    ]
+  },
+  {
+    "source": "C01.htm",
+    "dept_block": "TNUCE.校共與社會－進 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
+    "grade": "0",
+    "seq": "6112",
+    "code": "T9886",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－太極拳興趣班 補修班，限進學班重、補修生。 ◇遠距非同步課程",
+    "cap": 175,
+    "teacher": "陳文和",
+    "times": [
+      "四 / 11,12 /"
+    ]
+  },
+  {
     "source": "C02.htm",
     "dept_block": "TGAEB.文學院英文 ENGLISH BY COLLEGE OF LIBERAL ARTS",
     "grade": "1",
@@ -18781,7 +19141,7 @@
     "group": "",
     "title": "ESG永續發展科技探索",
     "cap": 140,
-    "teacher": "",
+    "teacher": "梁奮鵬",
     "times": [
       "五 / 8,9,10 / E 787"
     ]
@@ -18904,7 +19264,7 @@
     "cap": 40,
     "teacher": "高宏宇",
     "times": [
-      "四 / 2,3,4 / T 411"
+      "四 / 2,3,4 /"
     ]
   },
   {
@@ -18924,7 +19284,7 @@
     "cap": 50,
     "teacher": "陳宜欣",
     "times": [
-      "一 / 2,3,4 / T 410"
+      "一 / 2,3,4 /"
     ]
   },
   {
@@ -18944,7 +19304,7 @@
     "cap": 50,
     "teacher": "韓秉軒",
     "times": [
-      "四 / 6,7,8 / T 511"
+      "四 / 6,7,8 /"
     ]
   },
   {
@@ -19652,6 +20012,26 @@
     "source": "C05.htm",
     "dept_block": "TGLXB.商管學院共同科日 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT",
     "grade": "0",
+    "seq": "0000",
+    "code": "B1892",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "ＡＩ商業管理應用",
+    "cap": 80,
+    "teacher": "毛筱艷",
+    "times": [
+      "三 / 1,2 / SG 506"
+    ]
+  },
+  {
+    "source": "C05.htm",
+    "dept_block": "TGLXB.商管學院共同科日 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT",
+    "grade": "0",
     "seq": "1619",
     "code": "B1893",
     "major": null,
@@ -20207,7 +20587,7 @@
     "cap": 30,
     "teacher": "蔡炎龍",
     "times": [
-      "二 / 9,10,11 / B 605"
+      "二 / 9,10,11 /"
     ]
   },
   {
@@ -22451,7 +22831,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "三 / 8 / L 202"
+      "三 / 8 / L 101"
     ]
   },
   {
@@ -22491,7 +22871,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "五 / 4 / V 102"
+      "五 / 4 / V 201"
     ]
   },
   {
@@ -23597,186 +23977,6 @@
     "teacher": "林亦珍",
     "times": [
       "二 / 9,10 / B 516"
-    ]
-  },
-  {
-    "source": "E01.htm",
-    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
-    "grade": "0",
-    "seq": "2469",
-    "code": "T3331",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 1,
-    "group": "",
-    "title": "跨域探索-人工智慧與永續發展 跨域探索4門課至多承認2學分為畢業學分。限大一學生選修。本科目為通識教育跨領域微學程課程。 ◇遠距非同步課程",
-    "cap": 175,
-    "teacher": "崔琳,蔡志群,黃大肯,林仁祥",
-    "times": [
-      "二 / 11 /"
-    ]
-  },
-  {
-    "source": "E01.htm",
-    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
-    "grade": "0",
-    "seq": "2470",
-    "code": "T3332",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 1,
-    "group": "",
-    "title": "跨域探索-人文社會與智慧管理 跨域探索4門課至多承認2學分為畢業學分。限大一學生選修。 ◇遠距非同步課程◇全英語授課",
-    "cap": 175,
-    "teacher": "陳維立,劉佩勳,朱政安,潘艾柔",
-    "times": [
-      "四 / 11 /"
-    ]
-  },
-  {
-    "source": "E01.htm",
-    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
-    "grade": "0",
-    "seq": "2471",
-    "code": "T3333",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 1,
-    "group": "",
-    "title": "跨域探索-文創與智慧設計 跨域探索4門課至多承認2學分為畢業學分。限大一學生選修。本科目為通識教育跨領域微學程課程。 ◇遠距非同步課程",
-    "cap": 175,
-    "teacher": "蕭吉甫,古怡青,林逸農,黃家琪",
-    "times": [
-      "一 / 11 /"
-    ]
-  },
-  {
-    "source": "E01.htm",
-    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
-    "grade": "0",
-    "seq": "2472",
-    "code": "T3334",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 1,
-    "group": "",
-    "title": "跨域探索-智慧人文商管與社會創新 跨域探索4門課至多承認2學分為畢業學分。限大一學生選修。本科目為通識教育跨領域微學程課程。 ◇遠距非同步課程",
-    "cap": 175,
-    "teacher": "蘇淑燕,楊立人,唐大崙,張明弘",
-    "times": [
-      "三 / 11 /"
-    ]
-  },
-  {
-    "source": "E01.htm",
-    "dept_block": "TNUCE.校共與社會－進 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
-    "grade": "0",
-    "seq": "6108",
-    "code": "T9607",
-    "major": null,
-    "term_order": "1",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "",
-    "title": "校園與社區服務學習 補修班，限進學班重、補修生。 ◇遠距非同步課程",
-    "cap": 175,
-    "teacher": "徐佐銘",
-    "times": [
-      "日 / 8 /"
-    ]
-  },
-  {
-    "source": "E01.htm",
-    "dept_block": "TNUCE.校共與社會－進 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
-    "grade": "0",
-    "seq": "6109",
-    "code": "T9607",
-    "major": null,
-    "term_order": "1",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "",
-    "title": "校園與社區服務學習 補修班，限進學班重、補修生。 ◇遠距非同步課程",
-    "cap": 175,
-    "teacher": "陳建甫",
-    "times": [
-      "六 / 12 / B 504"
-    ]
-  },
-  {
-    "source": "E01.htm",
-    "dept_block": "TNUCE.校共與社會－進 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
-    "grade": "0",
-    "seq": "6110",
-    "code": "T9703",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "",
-    "title": "全民國防教育軍事訓練（一）－國防科技 補修班，限進學班重、補修生。 ◇遠距非同步課程",
-    "cap": 175,
-    "teacher": "王志遠",
-    "times": [
-      "五 / 11,12 / B 514"
-    ]
-  },
-  {
-    "source": "E01.htm",
-    "dept_block": "TNUCE.校共與社會－進 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
-    "grade": "0",
-    "seq": "6111",
-    "code": "T9882",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "",
-    "title": "男、女生體育－體重控制興趣班 補修班，限進學班重、補修生。 ◇遠距非同步課程",
-    "cap": 175,
-    "teacher": "吳采陵",
-    "times": [
-      "三 / 11,12 /"
-    ]
-  },
-  {
-    "source": "E01.htm",
-    "dept_block": "TNUCE.校共與社會－進 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
-    "grade": "0",
-    "seq": "6112",
-    "code": "T9886",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "",
-    "title": "男、女生體育－太極拳興趣班 補修班，限進學班重、補修生。 ◇遠距非同步課程",
-    "cap": 175,
-    "teacher": "陳文和",
-    "times": [
-      "四 / 11,12 /"
     ]
   },
   {
@@ -31472,7 +31672,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "三 / 6 / L 104"
+      "三 / 6 / L 202"
     ]
   },
   {
@@ -31512,7 +31712,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "三 / 9 / L 104"
+      "三 / 9 / L 101"
     ]
   },
   {
@@ -31552,7 +31752,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "二 / 9 / L 202"
+      "二 / 9 / L 101"
     ]
   },
   {
@@ -31592,7 +31792,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "一 / 6 / L 202"
+      "一 / 6 / L 101"
     ]
   },
   {
@@ -31712,7 +31912,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "三 / 6 / L 310"
+      "三 / 6 / L 202"
     ]
   },
   {
@@ -32152,7 +32352,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "三 / 8 / L 202"
+      "三 / 8 / L 101"
     ]
   },
   {
@@ -32172,7 +32372,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "五 / 4 / V 102"
+      "五 / 4 / V 201"
     ]
   },
   {
@@ -32212,7 +32412,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "一 / 10 / L 101"
+      "一 / 2 / V 102"
     ]
   },
   {
@@ -32332,7 +32532,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "一 / 10 / L 202"
+      "一 / 2 / V 102"
     ]
   },
   {
@@ -32412,7 +32612,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "五 / 3 / L 104"
+      "五 / 3 / L 202"
     ]
   },
   {
@@ -33435,46 +33635,6 @@
     "teacher": "蕭莉芃",
     "times": [
       "三 / 3,4 / B 605"
-    ]
-  },
-  {
-    "source": "F02.htm",
-    "dept_block": "TLCXB.企管系（日） DEPARTMENT OF BUSINESS ADMINISTRATION",
-    "grade": "1",
-    "seq": "1999",
-    "code": "M0518",
-    "major": null,
-    "term_order": "1",
-    "class": "C",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "會計學 ◇雙語授課(中文/英文)",
-    "cap": 110,
-    "teacher": "張雅淇",
-    "times": [
-      "二 / 5,6 / B 607"
-    ]
-  },
-  {
-    "source": "F02.htm",
-    "dept_block": "TLCXB.企管系（日） DEPARTMENT OF BUSINESS ADMINISTRATION",
-    "grade": "1",
-    "seq": null,
-    "code": "M0518",
-    "major": null,
-    "term_order": "1",
-    "class": "C",
-    "group_div": null,
-    "required": "必",
-    "credits": "",
-    "group": "",
-    "title": "會計學",
-    "cap": 110,
-    "teacher": "助教",
-    "times": [
-      "四 / 1 / B 614"
     ]
   },
   {
@@ -35754,46 +35914,6 @@
   },
   {
     "source": "G01.htm",
-    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
-    "grade": "0",
-    "seq": "2461",
-    "code": "E4392",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "人工智慧倫理 ◇講座課程◇以實整虛課程",
-    "cap": 70,
-    "teacher": "林嘉琪",
-    "times": [
-      "一 / 8,9,10 / L 307"
-    ]
-  },
-  {
-    "source": "G01.htm",
-    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
-    "grade": "0",
-    "seq": "2463",
-    "code": "T0234",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "安全衛生教育 ◇講座課程",
-    "cap": 160,
-    "teacher": "江昭龍",
-    "times": [
-      "五 / 6,7 / B 712"
-    ]
-  },
-  {
-    "source": "G01.htm",
     "dept_block": "TSAXB.尖端材料科學學程 BACHELOR’S PROGRAM IN ADVANCED MATERIALS SCIENCE",
     "grade": "4",
     "seq": "2871",
@@ -36558,46 +36678,6 @@
     "teacher": "林彥伶",
     "times": [
       "四 / 2,3,4 /"
-    ]
-  },
-  {
-    "source": "Q01.htm",
-    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
-    "grade": "0",
-    "seq": "2464",
-    "code": "T0645",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "森林生態與樹木保護 ◇專業知能服務學習課程",
-    "cap": 260,
-    "teacher": "蕭文偉",
-    "times": [
-      "一 / 6,7 / B 713"
-    ]
-  },
-  {
-    "source": "Q01.htm",
-    "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
-    "grade": "0",
-    "seq": "2465",
-    "code": "T1234",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "弱勢團體與社會福利 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇專業知能服務學習課程",
-    "cap": 175,
-    "teacher": "陳建甫",
-    "times": [
-      "二 / 5,6 / B 713"
     ]
   },
   {
@@ -40043,7 +40123,7 @@
     "cap": 40,
     "teacher": "林俊賢",
     "times": [
-      "五 / 3,4 / SG 603"
+      "一 / 9,10 / Q 202"
     ]
   },
   {
@@ -40765,26 +40845,6 @@
     "teacher": "李長潔",
     "times": [
       "一 / 8 / O 303"
-    ]
-  },
-  {
-    "source": "TAMXB.htm",
-    "dept_block": "TAMXB.大傳系（日） DEPARTMENT OF MASS COMMUNICATION",
-    "grade": "2",
-    "seq": "0204",
-    "code": "A1502",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "整合行銷傳播",
-    "cap": "",
-    "teacher": "張依萍",
-    "times": [
-      "四 / 3,4 / L 301"
     ]
   },
   {
@@ -44857,7 +44917,7 @@
     "term_order": "0",
     "class": "B",
     "group_div": null,
-    "required": "選",
+    "required": "必",
     "credits": 4,
     "group": "",
     "title": "高等建築設計(一)",
@@ -53343,7 +53403,8 @@
     "cap": 25,
     "teacher": "黃中信",
     "times": [
-      "一 / 4 / E 110"
+      "一 / 4 / E 110",
+      "三 / 1,2 / E 110"
     ]
   },
   {
@@ -53363,7 +53424,6 @@
     "cap": 25,
     "teacher": "黃中信",
     "times": [
-      "三 / 1,2 / E 110",
       "四 / 6,7,8 / E 110"
     ]
   },
@@ -60851,7 +60911,7 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "日文習作（一） A3 限本系生、雙主修生",
+    "title": "日文習作（一） B1 限本系生、雙主修生",
     "cap": 25,
     "teacher": "賴鈺菁",
     "times": [
@@ -60871,7 +60931,7 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "日文習作（一） B1 限本系生、雙主修生",
+    "title": "日文習作（一） B2 限本系生、雙主修生",
     "cap": 25,
     "teacher": "和田奈穗實",
     "times": [
@@ -60891,7 +60951,7 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "日文習作（一） B2 限本系生、雙主修生",
+    "title": "日文習作（一） C1 限本系生、雙主修生",
     "cap": 25,
     "teacher": "藤本紀子",
     "times": [
@@ -60911,7 +60971,7 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "日文習作（一） B3 限本系生、雙主修生",
+    "title": "日文習作（一） C2 限本系生、雙主修生",
     "cap": 25,
     "teacher": "李麗雲",
     "times": [
@@ -60931,7 +60991,7 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "日文習作（一） C1 限本系生、雙主修生",
+    "title": "日文習作（一） A3+B3 限本系生、雙主修生",
     "cap": 25,
     "teacher": "吳淑圓",
     "times": [
@@ -60951,7 +61011,7 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "日文習作（一） C2 限本系生、雙主修生",
+    "title": "日文習作（一） B3+C3 限本系生、雙主修生",
     "cap": 25,
     "teacher": "黃琬茜",
     "times": [
@@ -62217,7 +62277,7 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "日語會話（三） A+B(A3+B3) 限本系生、雙主修、輔系生",
+    "title": "日語會話（三） A3+B3+C3 限本系生、雙主修、輔系生",
     "cap": 18,
     "teacher": "江裴倩",
     "times": [
@@ -62717,7 +62777,7 @@
     "required": "必",
     "credits": 2,
     "group": "B",
-    "title": "日本應用文 A1限本系大四生、雙主修生",
+    "title": "日本應用文 A1 限本系大四生、雙主修生",
     "cap": 25,
     "teacher": "林寄雯",
     "times": [
@@ -62737,7 +62797,7 @@
     "required": "必",
     "credits": 2,
     "group": "B",
-    "title": "日本應用文 A2限本系大四生、雙主修生",
+    "title": "日本應用文 A2 限本系大四生、雙主修生",
     "cap": 25,
     "teacher": "施信余",
     "times": [
@@ -62757,7 +62817,7 @@
     "required": "必",
     "credits": 2,
     "group": "B",
-    "title": "日本應用文 A3限本系大四生、雙主修生",
+    "title": "日本應用文 B1 限本系大四生、雙主修生",
     "cap": 25,
     "teacher": "王嘉臨",
     "times": [
@@ -62777,7 +62837,7 @@
     "required": "必",
     "credits": 2,
     "group": "B",
-    "title": "日本應用文 B1 限本系大四生、雙主修生",
+    "title": "日本應用文 B2 限本系大四生、雙主修生",
     "cap": 25,
     "teacher": "吳瓊怡",
     "times": [
@@ -62797,7 +62857,7 @@
     "required": "必",
     "credits": 2,
     "group": "B",
-    "title": "日本應用文 B2 限本系大四生、雙主修生",
+    "title": "日本應用文 C1 限本系大四生、雙主修生",
     "cap": 25,
     "teacher": "江雯薰",
     "times": [
@@ -62817,7 +62877,7 @@
     "required": "必",
     "credits": 2,
     "group": "B",
-    "title": "日本應用文 B3 限本系大四生、雙主修生",
+    "title": "日本應用文 C2 限本系大四生、雙主修生",
     "cap": 25,
     "teacher": "戶田一康",
     "times": [
@@ -62837,7 +62897,7 @@
     "required": "必",
     "credits": 2,
     "group": "B",
-    "title": "日本應用文 C1 限本系大四生、雙主修生",
+    "title": "日本應用文 A3+B3 限本系大四生、雙主修生",
     "cap": 25,
     "teacher": "樋口達郎",
     "times": [
@@ -62857,7 +62917,7 @@
     "required": "必",
     "credits": 2,
     "group": "B",
-    "title": "日本應用文 C2 限本系大四生、雙主修生",
+    "title": "日本應用文 B3+C3 限本系大四生、雙主修生",
     "cap": 25,
     "teacher": "吳瓊怡",
     "times": [
@@ -63883,7 +63943,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "三 / 6 / L 104"
+      "三 / 6 / L 202"
     ]
   },
   {
@@ -63903,7 +63963,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "三 / 9 / L 104"
+      "三 / 9 / L 101"
     ]
   },
   {
@@ -63963,7 +64023,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "二 / 9 / L 202"
+      "二 / 9 / L 101"
     ]
   },
   {
@@ -63983,7 +64043,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "一 / 6 / L 202"
+      "一 / 6 / L 101"
     ]
   },
   {
@@ -64043,7 +64103,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "三 / 6 / L 310"
+      "三 / 6 / L 202"
     ]
   },
   {
@@ -64163,7 +64223,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "三 / 8 / L 202"
+      "三 / 8 / L 101"
     ]
   },
   {
@@ -64183,7 +64243,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "五 / 4 / V 102"
+      "五 / 4 / V 201"
     ]
   },
   {
@@ -64203,7 +64263,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "一 / 10 / L 101"
+      "一 / 2 / V 102"
     ]
   },
   {
@@ -64263,7 +64323,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "一 / 10 / L 202"
+      "一 / 2 / V 102"
     ]
   },
   {
@@ -64303,7 +64363,7 @@
     "cap": 22,
     "teacher": "助教",
     "times": [
-      "五 / 3 / L 104"
+      "五 / 3 / L 202"
     ]
   },
   {
@@ -65807,26 +65867,6 @@
     "teacher": "劉愛玲",
     "times": [
       "一 / 2,3,4 /"
-    ]
-  },
-  {
-    "source": "TFOSF.htm",
-    "dept_block": "TFOSF.歐語西文－３０＋ DIVISION OF SPANISH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES-30+",
-    "grade": "1",
-    "seq": "0000",
-    "code": "F1896",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "法國語言與文化 台北校園上課。30+大學:歐風文藝與跨文化對話學分學程",
-    "cap": 20,
-    "teacher": "陳麗娟",
-    "times": [
-      "五 / 3,4 / D 312"
     ]
   },
   {
@@ -70006,7 +70046,7 @@
     "group": "",
     "title": "衍生性金融商品",
     "cap": 120,
-    "teacher": "王雅弘",
+    "teacher": "新／待聘",
     "times": [
       "二 / 1,2 / B 312"
     ]
@@ -70550,7 +70590,7 @@
     "group": "",
     "title": "會計資訊系統",
     "cap": 75,
-    "teacher": "陳慧玲",
+    "teacher": "葉念祖",
     "times": [
       "三 / 8,9,10 / B 426"
     ]
@@ -70572,8 +70612,8 @@
     "cap": 75,
     "teacher": "",
     "times": [
-      "二 / 6 / B 218",
-      "三 / 1,2 / B 113"
+      "三 / 1,2 / B 113",
+      "二 / 6 / B 218"
     ]
   },
   {
@@ -70591,7 +70631,7 @@
     "group": "",
     "title": "會計資訊系統",
     "cap": 75,
-    "teacher": "葉念祖",
+    "teacher": "陳慧玲",
     "times": [
       "三 / 8,9,10 / B 601"
     ]
@@ -70613,8 +70653,8 @@
     "cap": 75,
     "teacher": "",
     "times": [
-      "二 / 1,2 / B 130",
-      "二 / 5 / B 130"
+      "二 / 5 / B 130",
+      "二 / 1,2 / B 130"
     ]
   },
   {
@@ -70913,7 +70953,7 @@
     "group": "",
     "title": "審計學習作 本課程不列入畢業學分，需搭配同一班級的正課課程，不可單獨選修。",
     "cap": 80,
-    "teacher": "郭博文",
+    "teacher": "華浤安",
     "times": [
       "四 / 7 / B 606"
     ]
@@ -74156,6 +74196,26 @@
     "teacher": "助教",
     "times": [
       "三 / 1 / B 427"
+    ]
+  },
+  {
+    "source": "TLCXB.htm",
+    "dept_block": "TLCXB.企管系（日） DEPARTMENT OF BUSINESS ADMINISTRATION",
+    "grade": "1",
+    "seq": "1999",
+    "code": "M0518",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "會計學",
+    "cap": 110,
+    "teacher": "張雅淇",
+    "times": [
+      "二 / 5,6 / B 607"
     ]
   },
   {
@@ -78603,7 +78663,7 @@
     "group": "",
     "title": "會計學",
     "cap": 80,
-    "teacher": "林曄",
+    "teacher": "新／待聘",
     "times": [
       "四 / 1,2 / B 603"
     ]
@@ -89226,7 +89286,7 @@
     "credits": 3,
     "group": "",
     "title": "2D影像處理",
-    "cap": 175,
+    "cap": 70,
     "teacher": "吳孟年",
     "times": [
       "一 / 8 / S 106",
@@ -89246,7 +89306,7 @@
     "required": "必",
     "credits": 3,
     "group": "",
-    "title": "數值分析 限重修生",
+    "title": "數值分析",
     "cap": 70,
     "teacher": "吳孟年",
     "times": [
@@ -89267,7 +89327,7 @@
     "required": "必",
     "credits": "",
     "group": "",
-    "title": "數值分析 限重修生",
+    "title": "數值分析",
     "cap": 70,
     "teacher": "助教",
     "times": [
@@ -89287,7 +89347,7 @@
     "required": "必",
     "credits": 3,
     "group": "",
-    "title": "數值分析",
+    "title": "數值分析 限重修生",
     "cap": 70,
     "teacher": "楊定揮",
     "times": [
@@ -89308,7 +89368,7 @@
     "required": "必",
     "credits": "",
     "group": "",
-    "title": "數值分析",
+    "title": "數值分析 限重修生",
     "cap": 70,
     "teacher": "助教",
     "times": [
@@ -91257,7 +91317,7 @@
     "term_order": "2",
     "class": "A",
     "group_div": null,
-    "required": "選",
+    "required": "必",
     "credits": 2,
     "group": "",
     "title": "健康管理產業實習 ◇非全時全職校外實習課程",
@@ -91417,7 +91477,7 @@
     "term_order": "2",
     "class": "A",
     "group_div": null,
-    "required": "選",
+    "required": "必",
     "credits": 2,
     "group": "",
     "title": "健康管理產業實習 ◇非全時全職校外實習課程",
@@ -91637,7 +91697,7 @@
     "term_order": "2",
     "class": "A",
     "group_div": null,
-    "required": "選",
+    "required": "必",
     "credits": 2,
     "group": "",
     "title": "智慧照護產業實習 ◇非全時全職校外實習課程",
@@ -91857,7 +91917,7 @@
     "term_order": "2",
     "class": "A",
     "group_div": null,
-    "required": "選",
+    "required": "必",
     "credits": 2,
     "group": "",
     "title": "智慧照護產業實習 ◇非全時全職校外實習課程",
