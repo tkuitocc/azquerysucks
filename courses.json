@@ -1752,7 +1752,7 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "中國語文能力表達 台北校園上課",
+    "title": "中國語文能力表達 台北校園上課。",
     "cap": 35,
     "teacher": "張溶玲",
     "times": [
@@ -6596,7 +6596,7 @@
     "cap": 55,
     "teacher": "助教",
     "times": [
-      "四 / 5 / L 202"
+      "四 / 5 / L 101"
     ]
   },
   {
@@ -10956,7 +10956,7 @@
     "cap": 75,
     "teacher": "陳玉樺",
     "times": [
-      "二 / 6,7 / C 010"
+      "二 / 6,7 / SG 319"
     ]
   },
   {
@@ -11034,7 +11034,7 @@
     "group": "N",
     "title": "思考方法與技巧",
     "cap": 75,
-    "teacher": "張貴傑",
+    "teacher": "新／待聘",
     "times": [
       "三 / 1,2 / E 412"
     ]
@@ -11736,7 +11736,7 @@
     "cap": 70,
     "teacher": "林敏慧",
     "times": [
-      "五 / 3 / L 110"
+      "五 / 3 / L 105"
     ]
   },
   {
@@ -11756,7 +11756,7 @@
     "cap": 70,
     "teacher": "林敏慧",
     "times": [
-      "五 / 4 / L 110"
+      "五 / 4 / L 105"
     ]
   },
   {
@@ -11976,7 +11976,7 @@
     "cap": 70,
     "teacher": "陳信良",
     "times": [
-      "五 / 1 / E 830"
+      "五 / 1 / E 314"
     ]
   },
   {
@@ -11996,7 +11996,7 @@
     "cap": 70,
     "teacher": "陳信良",
     "times": [
-      "五 / 2 / E 830"
+      "五 / 2 / E 314"
     ]
   },
   {
@@ -12016,7 +12016,7 @@
     "cap": 70,
     "teacher": "鍾隆維",
     "times": [
-      "五 / 1 / E 309"
+      "五 / 1 / E 236"
     ]
   },
   {
@@ -12036,7 +12036,7 @@
     "cap": 70,
     "teacher": "鍾隆維",
     "times": [
-      "五 / 2 / E 309"
+      "五 / 2 / E 236"
     ]
   },
   {
@@ -12696,7 +12696,7 @@
     "cap": 70,
     "teacher": "張載晴",
     "times": [
-      "五 / 4 / L 105"
+      "五 / 4 / L 110"
     ]
   },
   {
@@ -12716,7 +12716,7 @@
     "cap": 70,
     "teacher": "張載晴",
     "times": [
-      "五 / 3 / L 105"
+      "五 / 3 / L 110"
     ]
   },
   {
@@ -16601,7 +16601,7 @@
     "cap": 70,
     "teacher": "",
     "times": [
-      "二 / 9,10 /"
+      "一 / 1,2 /"
     ]
   },
   {
@@ -16621,7 +16621,7 @@
     "cap": 70,
     "teacher": "",
     "times": [
-      "一 / 1,2 /"
+      "二 / 9,10 /"
     ]
   },
   {
@@ -17517,7 +17517,7 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "運動與生活概論",
+    "title": "運動與生活概論 本學期課程將進行青銀共學，有興趣修課者(含已選課者)第一週請務必到課(僅開放第一週旁聽)。",
     "cap": 30,
     "teacher": "郭馥滋",
     "times": [
@@ -18059,7 +18059,7 @@
     "group": "",
     "title": "創意文案專案開發 淡江大學智慧人文實務創新學分學程",
     "cap": 50,
-    "teacher": "",
+    "teacher": "林君萍",
     "times": [
       "二 / 3,4 / O 303"
     ]
@@ -20506,8 +20506,8 @@
     "cap": 10,
     "teacher": "陳文和",
     "times": [
-      "六 / / D 323",
-      "六 / ,3,4 / D 117"
+      "六 / 2 / D 323",
+      "六 / 3,4 / D 117"
     ]
   },
   {
@@ -20907,7 +20907,7 @@
     "cap": 66,
     "teacher": "袁寧均",
     "times": [
-      "三 / 1,2 / L 416"
+      "三 / 3,4 / L 416"
     ]
   },
   {
@@ -20967,7 +20967,7 @@
     "cap": 70,
     "teacher": "袁寧均",
     "times": [
-      "三 / 3,4 / L 416"
+      "三 / 1,2 / B 204"
     ]
   },
   {
@@ -21187,7 +21187,7 @@
     "cap": 70,
     "teacher": "宋凱莉",
     "times": [
-      "二 / 6,7 / L 304"
+      "二 / 6,7 / T 605"
     ]
   },
   {
@@ -22388,7 +22388,7 @@
     "cap": 65,
     "teacher": "何俐安",
     "times": [
-      "一 / 6,7,8 / L 105"
+      "一 / 6,7,8 / L 110"
     ]
   },
   {
@@ -23491,7 +23491,7 @@
     "required": "必",
     "credits": 3,
     "group": "",
-    "title": "成本分析與管理 ◇遠距非同步課程",
+    "title": "成本分析與管理 台北校園上課。 ◇遠距非同步課程",
     "cap": 35,
     "teacher": "趙慕芬",
     "times": [
@@ -24583,26 +24583,6 @@
   },
   {
     "source": "F01.htm",
-    "dept_block": "TDTXM.教科系碩士班 MASTER’S PROGRAM, DEPARTMENT OF EDUCATIONAL TECHNOLOGY",
-    "grade": "2",
-    "seq": "8070",
-    "code": "A1606",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "教育創新與推廣 ◇全英語授課",
-    "cap": "",
-    "teacher": "郭盈芝",
-    "times": [
-      "一 / 6,7,8 / ED 204"
-    ]
-  },
-  {
-    "source": "F01.htm",
     "dept_block": "TEAXB.建築系（日） DEPARTMENT OF ARCHITECTURE",
     "grade": "5",
     "seq": "0420",
@@ -24818,7 +24798,7 @@
     "cap": "",
     "teacher": "王銀添",
     "times": [
-      "二 / 7,8,9 / E 101A"
+      "二 / 7,8,9 / E 101a"
     ]
   },
   {
@@ -24858,7 +24838,7 @@
     "cap": "",
     "teacher": "顏子評",
     "times": [
-      "四 / 6 / E 101A"
+      "四 / 6 / E 101a"
     ]
   },
   {
@@ -27813,8 +27793,8 @@
     "cap": 40,
     "teacher": "阮恆江英",
     "times": [
-      "二 / 6,7 / B 709",
-      "二 / 9 / B 709"
+      "一 / 7 / B 703",
+      "二 / 8,9 / B 709"
     ]
   },
   {
@@ -27835,7 +27815,7 @@
     "teacher": "李函俞",
     "times": [
       "二 / 6,7 / B 116",
-      "二 / 9 / B 110"
+      "二 / 10 / B 110"
     ]
   },
   {
@@ -29105,7 +29085,7 @@
     "cap": 55,
     "teacher": "助教",
     "times": [
-      "四 / 5 / L 202"
+      "四 / 5 / L 101"
     ]
   },
   {
@@ -30769,46 +30749,6 @@
     "source": "F01.htm",
     "dept_block": "ULSXB.統計系（日） DEPARTMENT OF STATISTICS AND DATA SCIENCE",
     "grade": "2",
-    "seq": "3112",
-    "code": "S0439",
-    "major": null,
-    "term_order": "1",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "線性代數 ◇全英語授課",
-    "cap": 80,
-    "teacher": "吳錦全",
-    "times": [
-      "三 / 6,7 / B 607"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "ULSXB.統計系（日） DEPARTMENT OF STATISTICS AND DATA SCIENCE",
-    "grade": "2",
-    "seq": null,
-    "code": "S0439",
-    "major": null,
-    "term_order": "1",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": "",
-    "group": "",
-    "title": "線性代數",
-    "cap": 80,
-    "teacher": "助教",
-    "times": [
-      "三 / 9 / B 607"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "ULSXB.統計系（日） DEPARTMENT OF STATISTICS AND DATA SCIENCE",
-    "grade": "2",
     "seq": "3113",
     "code": "S0439",
     "major": null,
@@ -30843,26 +30783,6 @@
     "teacher": "助教",
     "times": [
       "三 / 5 / B 607"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "ULSXB.統計系（日） DEPARTMENT OF STATISTICS AND DATA SCIENCE",
-    "grade": "3",
-    "seq": "3123",
-    "code": "S0408",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 3,
-    "group": "",
-    "title": "實驗設計 ◇全英語授課",
-    "cap": 80,
-    "teacher": "李秀美",
-    "times": [
-      "二 / 6,7,8 / B 117"
     ]
   },
   {
@@ -35329,7 +35249,7 @@
     "cap": "",
     "teacher": "助教",
     "times": [
-      "四 / 5 / T 211"
+      "四 / 5 / L 202"
     ]
   },
   {
@@ -36902,26 +36822,6 @@
     ]
   },
   {
-    "source": "S01.htm",
-    "dept_block": "TLYXB.經濟系（日） DEPARTMENT OF ECONOMICS",
-    "grade": "4",
-    "seq": "2459",
-    "code": "B1926",
-    "major": "A",
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "永續經濟 ◇以實整虛課程",
-    "cap": 70,
-    "teacher": "林彥伶",
-    "times": [
-      "三 / 6,7,8 / B 702"
-    ]
-  },
-  {
     "source": "TABAJ.htm",
     "dept_block": "TABAJ.資圖系數位碩專班 E-LEARNING EXECUTIVE MASTER’S PROGRAM IN DIGITAL PUBLISHING AND ARCHIVING",
     "grade": "2",
@@ -37817,7 +37717,7 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "網絡分析",
+    "title": "網絡分析 淡江大學智慧人文實務創新學分學程",
     "cap": 35,
     "teacher": "蕭宗銘",
     "times": [
@@ -41587,7 +41487,7 @@
     "cap": "",
     "teacher": "新／待聘",
     "times": [
-      "四 / 8,9 / T 411"
+      "四 / 3,4 / T 411"
     ]
   },
   {
@@ -42572,7 +42472,7 @@
     "cap": 70,
     "teacher": "陳慶帆",
     "times": [
-      "二 / 2,3,4 / L 110"
+      "二 / 2,3,4 / L 105"
     ]
   },
   {
@@ -42592,7 +42492,7 @@
     "cap": 70,
     "teacher": "陳慶帆",
     "times": [
-      "四 / 6,7,8 / L 110"
+      "四 / 6,7,8 / L 105"
     ]
   },
   {
@@ -42612,7 +42512,7 @@
     "cap": 62,
     "teacher": "李世忠",
     "times": [
-      "二 / 6,7,8 / L 110"
+      "二 / 6,7,8 / L 105"
     ]
   },
   {
@@ -42632,7 +42532,7 @@
     "cap": 70,
     "teacher": "李世忠",
     "times": [
-      "三 / 6,7,8 / L 110"
+      "三 / 6,7,8 / L 105"
     ]
   },
   {
@@ -42652,7 +42552,7 @@
     "cap": 65,
     "teacher": "顧大維",
     "times": [
-      "四 / 2,3,4 / L 105"
+      "四 / 2,3,4 / L 110"
     ]
   },
   {
@@ -42692,7 +42592,7 @@
     "cap": 24,
     "teacher": "顧大維",
     "times": [
-      "三 / 3,4 / L 105"
+      "三 / 3,4 / L 110"
     ]
   },
   {
@@ -42712,7 +42612,7 @@
     "cap": 65,
     "teacher": "賴婷鈴",
     "times": [
-      "二 / 6,7,8 / L 105"
+      "二 / 6,7,8 / L 110"
     ]
   },
   {
@@ -42932,7 +42832,7 @@
     "cap": 80,
     "teacher": "史祖德",
     "times": [
-      "一 / 2,3,4 / L 105"
+      "一 / 2,3,4 / L 110"
     ]
   },
   {
@@ -42952,7 +42852,7 @@
     "cap": 65,
     "teacher": "蔡森暉",
     "times": [
-      "四 / 6,7 / L 105"
+      "四 / 6,7 / L 110"
     ]
   },
   {
@@ -42972,7 +42872,7 @@
     "cap": 65,
     "teacher": "蔡森暉",
     "times": [
-      "四 / 8,9 / L 105"
+      "四 / 8,9 / L 110"
     ]
   },
   {
@@ -43052,7 +42952,7 @@
     "cap": 70,
     "teacher": "徐新逸",
     "times": [
-      "三 / 2,3,4 / L 110"
+      "三 / 2,3,4 / L 105"
     ]
   },
   {
@@ -43072,7 +42972,7 @@
     "cap": 62,
     "teacher": "張瓊穗",
     "times": [
-      "四 / 2,3,4 / L 110"
+      "四 / 2,3,4 / L 105"
     ]
   },
   {
@@ -43112,7 +43012,7 @@
     "cap": 175,
     "teacher": "胡大謙",
     "times": [
-      "五 / 6,7,8 / L 110"
+      "五 / 6,7,8 / L 105"
     ]
   },
   {
@@ -43192,7 +43092,7 @@
     "cap": 65,
     "teacher": "郭盈芝",
     "times": [
-      "三 / 6,7 / L 105"
+      "三 / 6,7 / L 110"
     ]
   },
   {
@@ -43232,7 +43132,7 @@
     "cap": "",
     "teacher": "張瓊穗",
     "times": [
-      "二 / 3,4 / L 105"
+      "二 / 3,4 / L 110"
     ]
   },
   {
@@ -43353,6 +43253,26 @@
     "teacher": "沈俊毅",
     "times": [
       "三 / 2,3,4 / ED 204"
+    ]
+  },
+  {
+    "source": "TDTXM.htm",
+    "dept_block": "TDTXM.教科系碩士班 MASTER’S PROGRAM, DEPARTMENT OF EDUCATIONAL TECHNOLOGY",
+    "grade": "2",
+    "seq": "8070",
+    "code": "A1606",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 3,
+    "group": "",
+    "title": "教育創新與推廣",
+    "cap": "",
+    "teacher": "郭盈芝",
+    "times": [
+      "一 / 6,7,8 / ED 204"
     ]
   },
   {
@@ -46248,6 +46168,26 @@
     ]
   },
   {
+    "source": "TEBXD.htm",
+    "dept_block": "TEBXD.機械系博士班 DOCTORAL PROGRAM, DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
+    "grade": "2",
+    "seq": "9100",
+    "code": "T8000",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 0,
+    "group": "",
+    "title": "論文",
+    "cap": "",
+    "teacher": "王鈺詞",
+    "times": [
+      "/ /"
+    ]
+  },
+  {
     "source": "TEBXM.htm",
     "dept_block": "TEBXM.機械系碩士班 MASTER’S PROGRAM, DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
     "grade": "1",
@@ -46381,6 +46321,26 @@
     "credits": 3,
     "group": "",
     "title": "產線技術實習（一） ◇全時全職校外實習課程",
+    "cap": "",
+    "teacher": "王鈺詞",
+    "times": [
+      "/ /"
+    ]
+  },
+  {
+    "source": "TEBXM.htm",
+    "dept_block": "TEBXM.機械系碩士班 MASTER’S PROGRAM, DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
+    "grade": "2",
+    "seq": "8534",
+    "code": "T8000",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 0,
+    "group": "",
+    "title": "論文",
     "cap": "",
     "teacher": "王鈺詞",
     "times": [
@@ -51203,6 +51163,26 @@
     "times": [
       "二 / 3,4 / E 201",
       "四 / 9 / E 201"
+    ]
+  },
+  {
+    "source": "TEIXB.htm",
+    "dept_block": "TEIXB.資工系（日） DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING",
+    "grade": "4",
+    "seq": "3148",
+    "code": "X0008",
+    "major": null,
+    "term_order": "0",
+    "class": "P",
+    "group_div": null,
+    "required": "必",
+    "credits": 0,
+    "group": "",
+    "title": "程式能力檢定",
+    "cap": "",
+    "teacher": "陳世興",
+    "times": [
+      "/ /"
     ]
   },
   {
@@ -56797,9 +56777,9 @@
     "group": "",
     "title": "電路學 原電機組",
     "cap": 160,
-    "teacher": "",
+    "teacher": "施鴻源",
     "times": [
-      "三 / 3,4 / E 514"
+      "三 / 8,9 / E 312"
     ]
   },
   {
@@ -58435,7 +58415,7 @@
     "cap": 175,
     "teacher": "陳柏翔",
     "times": [
-      "二 / 3,4 / B 507"
+      "二 / 3,4 / C 013"
     ]
   },
   {
@@ -58798,6 +58778,26 @@
     "teacher": "鍾隆維",
     "times": [
       "二 / 14 / D 301"
+    ]
+  },
+  {
+    "source": "TETXJ.htm",
+    "dept_block": "TETXJ.電機系碩專班 EXECUTIVE MASTER’S PROGRAM, DEPARTMENT OF ELECTRICAL AND COMPUTER ENGINEERING",
+    "grade": "2",
+    "seq": "8533",
+    "code": "E4583",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 3,
+    "group": "",
+    "title": "機器人系統架構與ROS 2開發實務",
+    "cap": "",
+    "teacher": "",
+    "times": [
+      "/ /"
     ]
   },
   {
@@ -63628,66 +63628,6 @@
     ]
   },
   {
-    "source": "TFJXE.htm",
-    "dept_block": "TFJXE.日文系（進學） DEPARTMENT OF JAPANESE",
-    "grade": "4",
-    "seq": "6051",
-    "code": "F1353",
-    "major": null,
-    "term_order": "1",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "A",
-    "title": "日語會話（四）實務 ◇全時全職校外實習課程",
-    "cap": "",
-    "teacher": "蔡欣吟",
-    "times": [
-      "/ /"
-    ]
-  },
-  {
-    "source": "TFJXE.htm",
-    "dept_block": "TFJXE.日文系（進學） DEPARTMENT OF JAPANESE",
-    "grade": "4",
-    "seq": "6052",
-    "code": "F1354",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "B",
-    "title": "日本應用文實務 ◇全時全職校外實習課程",
-    "cap": "",
-    "teacher": "蔡欣吟",
-    "times": [
-      "/ /"
-    ]
-  },
-  {
-    "source": "TFJXE.htm",
-    "dept_block": "TFJXE.日文系（進學） DEPARTMENT OF JAPANESE",
-    "grade": "4",
-    "seq": "6053",
-    "code": "F1355",
-    "major": null,
-    "term_order": "1",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "C",
-    "title": "畢業專題寫作與指導實務 ◇全時全職校外實習課程",
-    "cap": "",
-    "teacher": "蔡欣吟",
-    "times": [
-      "/ /"
-    ]
-  },
-  {
     "source": "TFJXM.htm",
     "dept_block": "TFJXM.日文系碩士班 MASTER’S PROGRAM, DEPARTMENT OF JAPANESE",
     "grade": "1",
@@ -65044,7 +64984,7 @@
     "cap": 90,
     "teacher": "鄭安群",
     "times": [
-      "二 / 6,7 / T 605"
+      "二 / 6,7 / L 304"
     ]
   },
   {
@@ -66251,7 +66191,7 @@
     "cap": "",
     "teacher": "助教",
     "times": [
-      "四 / 5 / T 211"
+      "四 / 5 / L 202"
     ]
   },
   {
@@ -66271,7 +66211,7 @@
     "cap": "",
     "teacher": "助教",
     "times": [
-      "四 / 5 / T 211"
+      "四 / 5 / L 202"
     ]
   },
   {
@@ -68379,7 +68319,7 @@
     "cap": 54,
     "teacher": "徐忠寶",
     "times": [
-      "一 / 9,10 / B 813"
+      "一 / 9,10 / E 813"
     ]
   },
   {
@@ -68870,26 +68810,6 @@
     "source": "TLAXB.htm",
     "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
     "grade": "1",
-    "seq": "1755",
-    "code": "M2475",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "會計溝通與表達",
-    "cap": 80,
-    "teacher": "",
-    "times": [
-      "四 / 9,10 / B 516"
-    ]
-  },
-  {
-    "source": "TLAXB.htm",
-    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
-    "grade": "1",
     "seq": "1756",
     "code": "M2723",
     "major": null,
@@ -69264,7 +69184,7 @@
     "cap": 120,
     "teacher": "助教",
     "times": [
-      "四 / 2 / B 509"
+      "四 / 5 / B 509"
     ]
   },
   {
@@ -70933,7 +70853,7 @@
     "credits": 2,
     "group": "",
     "title": "成本控制與管理",
-    "cap": 175,
+    "cap": 120,
     "teacher": "史雅男",
     "times": [
       "一 / 3,4 / B 706"
@@ -71416,7 +71336,7 @@
     "cap": 70,
     "teacher": "陳智揚",
     "times": [
-      "五 / 3,4 / B 428"
+      "五 / 3,4 / B 113"
     ]
   },
   {
@@ -71456,7 +71376,7 @@
     "cap": 70,
     "teacher": "陳智揚",
     "times": [
-      "五 / 3,4 / B 428"
+      "五 / 3,4 / B 113"
     ]
   },
   {
@@ -74717,7 +74637,7 @@
     "group": "",
     "title": "統計學",
     "cap": 90,
-    "teacher": "黃世溥",
+    "teacher": "陳俊郎",
     "times": [
       "五 / 3,4 / B 514"
     ]
@@ -74797,7 +74717,7 @@
     "group": "",
     "title": "統計學",
     "cap": 90,
-    "teacher": "陳俊郎",
+    "teacher": "黃世溥",
     "times": [
       "一 / 6,7 / B 513"
     ]
@@ -74942,7 +74862,7 @@
     "cap": 90,
     "teacher": "羅惠瓊",
     "times": [
-      "二 / 8,9,10 / B 302b"
+      "二 / 8,9,10 / E 410"
     ]
   },
   {
@@ -75363,7 +75283,7 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "經濟學 台北校園上課",
+    "title": "經濟學 台北校園上課。",
     "cap": 35,
     "teacher": "陳怡雅",
     "times": [
@@ -75403,7 +75323,7 @@
     "required": "必",
     "credits": 3,
     "group": "",
-    "title": "企業概論 台北校園上課",
+    "title": "企業概論 台北校園上課。",
     "cap": 35,
     "teacher": "揭維恆",
     "times": [
@@ -75423,7 +75343,7 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "會計學 台北校園上課",
+    "title": "會計學 台北校園上課。",
     "cap": 35,
     "teacher": "朱承平",
     "times": [
@@ -75443,7 +75363,7 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "數位管理與全球趨勢 台北校園上課",
+    "title": "數位管理與全球趨勢 台北校園上課。",
     "cap": 55,
     "teacher": "汪正璽",
     "times": [
@@ -75463,7 +75383,7 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "微積分 台北校園上課",
+    "title": "微積分 台北校園上課。",
     "cap": 35,
     "teacher": "徐宏仁",
     "times": [
@@ -75523,7 +75443,7 @@
     "required": "必",
     "credits": 3,
     "group": "A",
-    "title": "組織行為",
+    "title": "組織行為 台北校園上課。",
     "cap": 35,
     "teacher": "竺天翔",
     "times": [
@@ -75543,7 +75463,7 @@
     "required": "必",
     "credits": 3,
     "group": "",
-    "title": "行銷管理",
+    "title": "行銷管理 台北校園上課。",
     "cap": 35,
     "teacher": "吳鳳儀",
     "times": [
@@ -75563,7 +75483,7 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "資料處理 限本班生",
+    "title": "資料處理 台北校園上課。限本班生。",
     "cap": 35,
     "teacher": "黃立行",
     "times": [
@@ -75583,7 +75503,7 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "統計學",
+    "title": "統計學 台北校園上課。",
     "cap": 35,
     "teacher": "陳淑嬌",
     "times": [
@@ -75603,7 +75523,7 @@
     "required": "必",
     "credits": 2,
     "group": "A",
-    "title": "企業倫理",
+    "title": "企業倫理 台北校園上課。",
     "cap": 35,
     "teacher": "陳玉珊",
     "times": [
@@ -75623,7 +75543,7 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "廣告學",
+    "title": "廣告學 淡水校園上課。",
     "cap": 55,
     "teacher": "廖震環",
     "times": [
@@ -75643,7 +75563,7 @@
     "required": "必",
     "credits": 3,
     "group": "",
-    "title": "作業管理",
+    "title": "作業管理 淡水校園上課。",
     "cap": 35,
     "teacher": "陳政恩",
     "times": [
@@ -75663,7 +75583,7 @@
     "required": "必",
     "credits": 3,
     "group": "",
-    "title": "財務管理",
+    "title": "財務管理 淡水校園上課。",
     "cap": 35,
     "teacher": "陳怡雅",
     "times": [
@@ -75683,7 +75603,7 @@
     "required": "必",
     "credits": 3,
     "group": "",
-    "title": "資訊管理",
+    "title": "資訊管理 淡水校園上課。",
     "cap": 35,
     "teacher": "蕭貴徽",
     "times": [
@@ -75703,7 +75623,7 @@
     "required": "選",
     "credits": 3,
     "group": "",
-    "title": "管理心理學",
+    "title": "管理心理學 淡水校園上課。",
     "cap": 55,
     "teacher": "張妤玥",
     "times": [
@@ -75723,7 +75643,7 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "人力資源訓練與發展",
+    "title": "人力資源訓練與發展 淡水校園上課。",
     "cap": 55,
     "teacher": "胡敦富",
     "times": [
@@ -75743,7 +75663,7 @@
     "required": "選",
     "credits": 3,
     "group": "",
-    "title": "財務報表分析",
+    "title": "財務報表分析 淡水校園上課。",
     "cap": 55,
     "teacher": "李青芬",
     "times": [
@@ -75763,7 +75683,7 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "專案管理",
+    "title": "專案管理 淡水校園上課。",
     "cap": 55,
     "teacher": "阮恆江英",
     "times": [
@@ -75783,7 +75703,7 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "中小企業管理",
+    "title": "中小企業管理 淡水校園上課。",
     "cap": 55,
     "teacher": "王盛弘",
     "times": [
@@ -75803,7 +75723,7 @@
     "required": "必",
     "credits": 3,
     "group": "",
-    "title": "策略管理",
+    "title": "策略管理 淡水校園上課。",
     "cap": 35,
     "teacher": "李賢勇",
     "times": [
@@ -75895,8 +75815,8 @@
     "source": "TLCXJ.htm",
     "dept_block": "TLCXJ.企管系碩專班 EXECUTIVE MASTER’S PROGRAM OF BUSINESS ADMINISTRATION (EMBA)IN GENERAL MANAGEMENT",
     "grade": "2",
-    "seq": "8292",
-    "code": "M2705",
+    "seq": "8535",
+    "code": "M2859",
     "major": null,
     "term_order": "0",
     "class": "A",
@@ -75904,11 +75824,12 @@
     "required": "選",
     "credits": 3,
     "group": "",
-    "title": "永續營運與數位創新實務專題",
+    "title": "營運管理與數位轉型",
     "cap": 20,
-    "teacher": "羅惠瓊",
+    "teacher": "",
     "times": [
-      "四 / 11,12,13 / D 404"
+      "/ /",
+      "/ /"
     ]
   },
   {
@@ -76036,8 +75957,8 @@
     "source": "TLCXM.htm",
     "dept_block": "TLCXM.企管系碩士班 MASTER’S PROGRAM, DEPARTMENT OF BUSINESS ADMINISTRATION",
     "grade": "1",
-    "seq": "8299",
-    "code": "M1805",
+    "seq": "8536",
+    "code": "M2860",
     "major": null,
     "term_order": "0",
     "class": "A",
@@ -76045,11 +75966,12 @@
     "required": "選",
     "credits": 3,
     "group": "",
-    "title": "作業管理研討",
+    "title": "營運與供應鏈管理",
     "cap": "",
-    "teacher": "羅惠瓊",
+    "teacher": "",
     "times": [
-      "三 / 2,3,4 / Q 407"
+      "/ /",
+      "/ /"
     ]
   },
   {
@@ -76855,6 +76777,46 @@
     "teacher": "林佩蒨",
     "times": [
       "日 / 2 /"
+    ]
+  },
+  {
+    "source": "TLEXM.htm",
+    "dept_block": "TLEXM.產經系碩士班 MASTER’S PROGRAM, DEPARTMENT OF INDUSTRIAL ECONOMICS",
+    "grade": "1",
+    "seq": "8292",
+    "code": "B0399",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "健康經濟學",
+    "cap": "",
+    "teacher": "胡登淵",
+    "times": [
+      "一 / 9,10 / L 410"
+    ]
+  },
+  {
+    "source": "TLEXM.htm",
+    "dept_block": "TLEXM.產經系碩士班 MASTER’S PROGRAM, DEPARTMENT OF INDUSTRIAL ECONOMICS",
+    "grade": "2",
+    "seq": "8299",
+    "code": "T8000",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 0,
+    "group": "",
+    "title": "論文",
+    "cap": "",
+    "teacher": "林佩蒨",
+    "times": [
+      "日 / 1 /"
     ]
   },
   {
@@ -78004,7 +77966,7 @@
     "group": "",
     "title": "經濟趨勢與策略管理",
     "cap": 20,
-    "teacher": "",
+    "teacher": "張明杰",
     "times": [
       "五 / 12,13,14 / D 406"
     ]
@@ -80783,7 +80745,7 @@
     "cap": 110,
     "teacher": "胡大謙",
     "times": [
-      "五 / 3,4 / B 113"
+      "五 / 3,4 / B 206"
     ]
   },
   {
@@ -86428,26 +86390,6 @@
     "source": "TLYXD.htm",
     "dept_block": "TLYXD.經濟系博士班 DOCTORAL PROGRAM, DEPARTMENT OF ECONOMICS",
     "grade": "2",
-    "seq": "9075",
-    "code": "B1401",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "高等產業經濟學",
-    "cap": "",
-    "teacher": "丁虹仁",
-    "times": [
-      "一 / 8,9,10 / T 213"
-    ]
-  },
-  {
-    "source": "TLYXD.htm",
-    "dept_block": "TLYXD.經濟系博士班 DOCTORAL PROGRAM, DEPARTMENT OF ECONOMICS",
-    "grade": "2",
     "seq": "9076",
     "code": "M1513",
     "major": null,
@@ -90188,7 +90130,7 @@
     "teacher": "王千真",
     "times": [
       "一 / 3,4 / L 412",
-      "五 / 2 / L 301"
+      "五 / 2 / L 401"
     ]
   },
   {
@@ -90229,7 +90171,7 @@
     "teacher": "王千真",
     "times": [
       "一 / 3,4 / L 412",
-      "五 / 2 / L 301"
+      "五 / 2 / L 401"
     ]
   },
   {
@@ -93826,6 +93768,26 @@
     "source": "ULSXB.htm",
     "dept_block": "ULSXB.統計系（日） DEPARTMENT OF STATISTICS AND DATA SCIENCE",
     "grade": "2",
+    "seq": "3112",
+    "code": "S0439",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "線性代數",
+    "cap": 80,
+    "teacher": "吳錦全",
+    "times": [
+      "三 / 6,7 / B 607"
+    ]
+  },
+  {
+    "source": "ULSXB.htm",
+    "dept_block": "ULSXB.統計系（日） DEPARTMENT OF STATISTICS AND DATA SCIENCE",
+    "grade": "2",
     "seq": null,
     "code": "S0439",
     "major": null,
@@ -94084,6 +94046,26 @@
     "times": [
       "二 / 6,7 / B 613",
       "二 / 9 / B 507"
+    ]
+  },
+  {
+    "source": "ULSXB.htm",
+    "dept_block": "ULSXB.統計系（日） DEPARTMENT OF STATISTICS AND DATA SCIENCE",
+    "grade": "3",
+    "seq": "3123",
+    "code": "S0408",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "實驗設計",
+    "cap": 80,
+    "teacher": "李秀美",
+    "times": [
+      "二 / 6,7,8 / B 117"
     ]
   },
   {
