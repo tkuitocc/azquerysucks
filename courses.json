@@ -10443,31 +10443,11 @@
     "source": "A12.htm",
     "dept_block": "TNUWB.核心課程Ｗ群－日 SOCIAL ANALYSIS",
     "grade": "0",
-    "seq": "2722",
-    "code": "D0425",
-    "major": null,
-    "term_order": "0",
-    "class": "C",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "W",
-    "title": "正向心理學 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 90,
-    "teacher": "宋鴻燕",
-    "times": [
-      "二 / 3,4 / B 506"
-    ]
-  },
-  {
-    "source": "A12.htm",
-    "dept_block": "TNUWB.核心課程Ｗ群－日 SOCIAL ANALYSIS",
-    "grade": "0",
     "seq": "2723",
     "code": "D0425",
     "major": null,
     "term_order": "0",
-    "class": "D",
+    "class": "C",
     "group_div": null,
     "required": "必",
     "credits": 2,
@@ -13576,7 +13556,7 @@
     "cap": 70,
     "teacher": "待聘兼任",
     "times": [
-      "二 / 5 / B 427"
+      "三 / 4 / B 602"
     ]
   },
   {
@@ -14839,7 +14819,7 @@
     "group": "N",
     "title": "大學學習 隔週上課，一年級限修本班。轉學生及大二(含)以上凡未取得本課程學分者，得以「學習與發展學門」課程替代。",
     "cap": 10,
-    "teacher": "陳佩筠,郭家珍",
+    "teacher": "蔡瑞敏,郭家珍",
     "times": [
       "一 / 9,10 / B 118"
     ]
@@ -15619,7 +15599,7 @@
     "group": "N",
     "title": "大學學習 隔週上課。一年級限修本班。轉學生及大二(含)以上凡未取得本課程學分者，得以「學習與發展學門」課程替代。",
     "cap": 10,
-    "teacher": "陳曜鴻,謝忠宏",
+    "teacher": "李長欣,謝忠宏",
     "times": [
       "三 / 9,10 / E 404"
     ]
@@ -19241,7 +19221,7 @@
     "credits": 2,
     "group": "",
     "title": "智慧永續治理 ◇講座課程",
-    "cap": 140,
+    "cap": 40,
     "teacher": "葛煥昭",
     "times": [
       "三 / 3,4 / E 510"
@@ -20152,46 +20132,6 @@
     "source": "C05.htm",
     "dept_block": "TGLXB.商管學院共同科日 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT",
     "grade": "0",
-    "seq": "1625",
-    "code": "B1953",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "ＡＩ與永續經營",
-    "cap": 120,
-    "teacher": "待聘專任",
-    "times": [
-      "四 / 3,4 / B 712"
-    ]
-  },
-  {
-    "source": "C05.htm",
-    "dept_block": "TGLXB.商管學院共同科日 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT",
-    "grade": "0",
-    "seq": "1626",
-    "code": "B1954",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "ＡＩ與企業經營應用",
-    "cap": 120,
-    "teacher": "待聘專任",
-    "times": [
-      "一 / 3,4 / L 401"
-    ]
-  },
-  {
-    "source": "C05.htm",
-    "dept_block": "TGLXB.商管學院共同科日 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT",
-    "grade": "0",
     "seq": "1627",
     "code": "M1629",
     "major": null,
@@ -20707,7 +20647,7 @@
     "cap": "",
     "teacher": "楊立人",
     "times": [
-      "二 / 3,4 / T 411"
+      "二 / 3,4 / Q 412"
     ]
   },
   {
@@ -22146,7 +22086,7 @@
     "group": "",
     "title": "資訊科技科教材教法",
     "cap": 20,
-    "teacher": "新／待聘",
+    "teacher": "楊鎮源",
     "times": [
       "二 / 9,10 / E 232"
     ]
@@ -24455,7 +24395,7 @@
     "credits": 2,
     "group": "",
     "title": "實用資訊傳播英文 初選依系送名單選課 ◇全英語授課",
-    "cap": 30,
+    "cap": "",
     "teacher": "楊智明",
     "times": [
       "三 / 6,7 / O 308"
@@ -24515,7 +24455,7 @@
     "credits": 3,
     "group": "",
     "title": "２Ｄ繪圖與動畫製作 ◇全英語授課",
-    "cap": 80,
+    "cap": 62,
     "teacher": "林逸農",
     "times": [
       "三 / 2,3,4 / L 102"
@@ -24838,7 +24778,7 @@
     "cap": "",
     "teacher": "顏子評",
     "times": [
-      "四 / 6 / E 101a"
+      "四 / 6 / E 811"
     ]
   },
   {
@@ -25180,7 +25120,7 @@
     "credits": 3,
     "group": "",
     "title": "資料結構 本地生(含僑生) ◇全英語授課",
-    "cap": 120,
+    "cap": 70,
     "teacher": "張峯誠",
     "times": [
       "三 / 3 / B 113",
@@ -27489,7 +27429,7 @@
     "group": "",
     "title": "商事法 ◇全英語授課",
     "cap": 80,
-    "teacher": "",
+    "teacher": "阮聘茹",
     "times": [
       "五 / 3,4 / B 608"
     ]
@@ -28284,47 +28224,6 @@
     "source": "F01.htm",
     "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
     "grade": "2",
-    "seq": "2130",
-    "code": "B0741",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "財金英文 ◇全英語授課",
-    "cap": 80,
-    "teacher": "",
-    "times": [
-      "一 / 3,4 / B 613",
-      "一 / 8 / B 702"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
-    "grade": "2",
-    "seq": "2131",
-    "code": "B0743",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "商業報告寫作 a1 ◇全英語授課",
-    "cap": 80,
-    "teacher": "",
-    "times": [
-      "二 / 7,8 / B 506"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
-    "grade": "2",
     "seq": "2132",
     "code": "B0743",
     "major": null,
@@ -28552,26 +28451,6 @@
     "source": "F01.htm",
     "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
     "grade": "3",
-    "seq": "2143",
-    "code": "B1432",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "行銷策略與實務 ◇全英語授課",
-    "cap": 120,
-    "teacher": "",
-    "times": [
-      "三 / 6,7 / B 713"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
-    "grade": "3",
     "seq": "2144",
     "code": "B1457",
     "major": null,
@@ -28632,26 +28511,6 @@
     "source": "F01.htm",
     "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
     "grade": "4",
-    "seq": "2147",
-    "code": "B0202",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "國際金融 ◇全英語授課",
-    "cap": 120,
-    "teacher": "",
-    "times": [
-      "四 / 8,9 / B 615"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
-    "grade": "4",
     "seq": "2148",
     "code": "B0221",
     "major": null,
@@ -28706,26 +28565,6 @@
     "teacher": "吳安琪",
     "times": [
       "五 / 7,8 / B 708"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
-    "grade": "4",
-    "seq": "2151",
-    "code": "B1253",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "服務業行銷與管理 ◇全英語授課",
-    "cap": 175,
-    "teacher": "",
-    "times": [
-      "四 / 3,4 / B 427"
     ]
   },
   {
@@ -30979,8 +30818,8 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "人工智慧與傳播導論 ◇雙語授課(中文/英文)",
-    "cap": 80,
+    "title": "人工智慧與傳播導論 初選依系送名單選課 ◇雙語授課(中文/英文)",
+    "cap": "",
     "teacher": "張惠嵐",
     "times": [
       "二 / 7,8 / SG 318"
@@ -31000,7 +30839,7 @@
     "credits": 3,
     "group": "",
     "title": "數位行銷 初選依系送名單選課;淡江大學智慧人文實務創新學分學程 ◇雙語授課(中文/英文)",
-    "cap": 75,
+    "cap": "",
     "teacher": "田詩薇",
     "times": [
       "四 / 6,7,8 / Q 203"
@@ -31710,7 +31549,7 @@
     "group": "",
     "title": "英語會話（一） ◇雙語授課(中文/英文)",
     "cap": 22,
-    "teacher": "熊婷惠",
+    "teacher": "蔡瑞敏",
     "times": [
       "四 / 3,4 / T 309"
     ]
@@ -31750,7 +31589,7 @@
     "group": "",
     "title": "英語會話（一） ◇雙語授課(中文/英文)",
     "cap": 22,
-    "teacher": "熊婷惠",
+    "teacher": "蔡瑞敏",
     "times": [
       "四 / 3,4 / T 309"
     ]
@@ -31950,7 +31789,7 @@
     "group": "",
     "title": "初級英作文（一） ◇雙語授課(中文/英文)",
     "cap": 25,
-    "teacher": "熊婷惠",
+    "teacher": "蔡瑞敏",
     "times": [
       "四 / 9,10 / T 308"
     ]
@@ -32130,7 +31969,7 @@
     "group": "",
     "title": "英國文學（一） 限本系生 ◇雙語授課(中文/英文)",
     "cap": 80,
-    "teacher": "熊婷惠",
+    "teacher": "羅艾琳",
     "times": [
       "三 / 6,7 / L 413"
     ]
@@ -32970,7 +32809,7 @@
     "group": "",
     "title": "翻譯與文化 ◇雙語授課(中文/英文)",
     "cap": 50,
-    "teacher": "陳佩筠",
+    "teacher": "蔡瑞敏",
     "times": [
       "二 / 9,10 / T 606"
     ]
@@ -33099,26 +32938,6 @@
     "source": "F02.htm",
     "dept_block": "TFLXD.英文系博士班 DOCTORAL PROGRAM, DEPARTMENT OF ENGLISH",
     "grade": "1",
-    "seq": "9050",
-    "code": "F1427",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "電腦科技與語言教學 ◇雙語授課(中文/英文)",
-    "cap": "",
-    "teacher": "蔡瑞敏",
-    "times": [
-      "一 / 6,7 / T 213"
-    ]
-  },
-  {
-    "source": "F02.htm",
-    "dept_block": "TFLXD.英文系博士班 DOCTORAL PROGRAM, DEPARTMENT OF ENGLISH",
-    "grade": "1",
     "seq": "9051",
     "code": "F1443",
     "major": null,
@@ -33213,26 +33032,6 @@
     "teacher": "劉佩勳",
     "times": [
       "五 / 3,4 / T 410"
-    ]
-  },
-  {
-    "source": "F02.htm",
-    "dept_block": "TFLXM.英文學系碩士班 MASTER’S PROGRAM, DEPARTMENT OF ENGLISH",
-    "grade": "1",
-    "seq": "8221",
-    "code": "F1588",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "離散華人研究專題 ◇雙語授課(中文/英文)",
-    "cap": "",
-    "teacher": "熊婷惠",
-    "times": [
-      "三 / 8,9 / T 407"
     ]
   },
   {
@@ -33633,7 +33432,7 @@
     "group": "",
     "title": "會計學 限本班生 ◇雙語授課(中文/英文)",
     "cap": 75,
-    "teacher": "待聘專任",
+    "teacher": "周玲儀",
     "times": [
       "一 / 3,4 / B 607"
     ]
@@ -34036,7 +33835,7 @@
     "cap": 18,
     "teacher": "梁蓉",
     "times": [
-      "一 / 3,4 / L 305"
+      "一 / 3,4 / T 607"
     ]
   },
   {
@@ -38924,7 +38723,7 @@
     "cap": 85,
     "teacher": "林煌達",
     "times": [
-      "三 / 6,7 / L 301"
+      "一 / 3,4 / L 301"
     ]
   },
   {
@@ -39331,26 +39130,6 @@
     "source": "TAHXB.htm",
     "dept_block": "TAHXB.歷史系（日） DEPARTMENT OF HISTORY",
     "grade": "4",
-    "seq": "0127",
-    "code": "A0118",
-    "major": null,
-    "term_order": "1",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "FB",
-    "title": "中國史學名著選讀",
-    "cap": 85,
-    "teacher": "林煌達",
-    "times": [
-      "一 / 3,4 / L 308"
-    ]
-  },
-  {
-    "source": "TAHXB.htm",
-    "dept_block": "TAHXB.歷史系（日） DEPARTMENT OF HISTORY",
-    "grade": "4",
     "seq": "0128",
     "code": "A0830",
     "major": null,
@@ -39431,26 +39210,6 @@
     "source": "TAHXB.htm",
     "dept_block": "TAHXB.歷史系（日） DEPARTMENT OF HISTORY",
     "grade": "4",
-    "seq": "0132",
-    "code": "A2745",
-    "major": null,
-    "term_order": "1",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 3,
-    "group": "HC",
-    "title": "宋元史",
-    "cap": 90,
-    "teacher": "林煌達",
-    "times": [
-      "四 / 6,7 / L 416"
-    ]
-  },
-  {
-    "source": "TAHXB.htm",
-    "dept_block": "TAHXB.歷史系（日） DEPARTMENT OF HISTORY",
-    "grade": "4",
     "seq": "0133",
     "code": "T2170",
     "major": null,
@@ -39464,6 +39223,7 @@
     "cap": 85,
     "teacher": "吳明勇",
     "times": [
+      "三 / 2 / L 306",
       "四 / 1,2 / L 413"
     ]
   },
@@ -39700,8 +39460,8 @@
     "required": "選",
     "credits": 3,
     "group": "",
-    "title": "溝通原理 大一代選",
-    "cap": 80,
+    "title": "溝通原理 初選依系送名單選課",
+    "cap": "",
     "teacher": "張惠嵐",
     "times": [
       "三 / 6,7,8 / SG 318"
@@ -39722,7 +39482,7 @@
     "group": "",
     "title": "視覺傳播概論 初選依系送名單選課",
     "cap": 65,
-    "teacher": "林俊賢",
+    "teacher": "待聘專任",
     "times": [
       "三 / 9,10 / SG 318"
     ]
@@ -39740,8 +39500,8 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "傳播心理學 大一代選",
-    "cap": 80,
+    "title": "傳播心理學 初選依系送名單選課",
+    "cap": "",
     "teacher": "卓美玲",
     "times": [
       "三 / 3,4 / SG 318"
@@ -39760,8 +39520,8 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "數位影像創意製作",
-    "cap": 60,
+    "title": "數位影像創意製作 初選依系送名單選課",
+    "cap": "",
     "teacher": "詹鎮邦",
     "times": [
       "四 / 7,8 / O 205"
@@ -39800,8 +39560,8 @@
     "required": "選",
     "credits": 3,
     "group": "",
-    "title": "傳播符號學 大一代選",
-    "cap": 65,
+    "title": "傳播符號學 初選依系送名單選課",
+    "cap": "",
     "teacher": "卓美玲",
     "times": [
       "二 / 3,4,5 / SG 318"
@@ -39820,8 +39580,8 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "數位攝影與科技應用 大一代選;淡江大學智慧人文實務創新學分學程",
-    "cap": 60,
+    "title": "數位攝影與科技應用 初選依系送名單選課;淡江大學智慧人文實務創新學分學程",
+    "cap": "",
     "teacher": "施建州",
     "times": [
       "二 / 9,10 / O 205"
@@ -39841,7 +39601,7 @@
     "credits": 2,
     "group": "",
     "title": "電腦繪圖 1.初選由註課中心代選。2.請參考教學計畫表說明再行加選。不提供交換生選修。智慧人文實務創新學分學程。",
-    "cap": 60,
+    "cap": "",
     "teacher": "陳柏年",
     "times": [
       "四 / 3,4 / O 205"
@@ -39941,7 +39701,7 @@
     "credits": 3,
     "group": "",
     "title": "說故事與腳本企劃 初選依系送名單選課;淡江大學智慧人文實務創新學分學程",
-    "cap": 40,
+    "cap": "",
     "teacher": "楊智明",
     "times": [
       "四 / 2,3,4 / L 305"
@@ -39961,7 +39721,7 @@
     "credits": 3,
     "group": "",
     "title": "2D動畫 初選依系送名單選課",
-    "cap": 60,
+    "cap": "",
     "teacher": "詹鎮邦",
     "times": [
       "三 / 8,9,10 / O 205"
@@ -39981,7 +39741,7 @@
     "credits": 3,
     "group": "",
     "title": "3D動畫 初選依系送名單選課",
-    "cap": 60,
+    "cap": "",
     "teacher": "黃祈禎",
     "times": [
       "二 / 2,3,4 / O 205"
@@ -40001,7 +39761,7 @@
     "credits": 2,
     "group": "",
     "title": "設計思考與洞察 初選依系送名單選課",
-    "cap": 40,
+    "cap": "",
     "teacher": "林俊賢",
     "times": [
       "一 / 9,10 / Q 202"
@@ -40041,7 +39801,7 @@
     "credits": 3,
     "group": "",
     "title": "遊戲程式設計 初選依系送名單選課",
-    "cap": 60,
+    "cap": "",
     "teacher": "施建州",
     "times": [
       "三 / 3,4,5 / O 205"
@@ -40161,7 +39921,7 @@
     "credits": 3,
     "group": "",
     "title": "數位編輯與出版 初選依系送名單選課;淡江大學智慧人文實務創新學分學程",
-    "cap": 60,
+    "cap": "",
     "teacher": "賴惠如",
     "times": [
       "二 / 6,7,8 / O 205"
@@ -40181,7 +39941,7 @@
     "credits": 2,
     "group": "",
     "title": "使用者數據分析 初選依系送名單選課",
-    "cap": 60,
+    "cap": "",
     "teacher": "卓美玲",
     "times": [
       "三 / 6,7 / O 205"
@@ -40201,7 +39961,7 @@
     "credits": 3,
     "group": "",
     "title": "社群流量趨勢洞察 初選依系送名單選課",
-    "cap": 70,
+    "cap": "",
     "teacher": "田詩薇",
     "times": [
       "二 / 2,3,4 / L 205"
@@ -40221,7 +39981,7 @@
     "credits": 3,
     "group": "",
     "title": "表達性藝術創作 初選依系送名單選課",
-    "cap": 30,
+    "cap": "",
     "teacher": "孫蒨鈺",
     "times": [
       "五 / 2,3,4 / L 305"
@@ -40281,7 +40041,7 @@
     "credits": 2,
     "group": "",
     "title": "創意數位媒體實務(三) 初選依系送名單選課",
-    "cap": 30,
+    "cap": "",
     "teacher": "賴惠如",
     "times": [
       "五 / 3,4 / Q 206"
@@ -40301,7 +40061,7 @@
     "credits": 3,
     "group": "",
     "title": "當代資訊傳播問題 初選依系送名單選課",
-    "cap": 50,
+    "cap": "",
     "teacher": "張惠嵐",
     "times": [
       "一 / 3,4,5 / Q 203"
@@ -41124,7 +40884,7 @@
     "group": "",
     "title": "ＡＩ視覺生成",
     "cap": 60,
-    "teacher": "李長潔",
+    "teacher": "李長潔,陳恩誠",
     "times": [
       "四 / 1 / O 205",
       "四 / 2 / O 205"
@@ -41328,7 +41088,7 @@
     "cap": 80,
     "teacher": "劉倚帆",
     "times": [
-      "四 / 3,4,5 / O 202"
+      "四 / 2,3,4 / O 202"
     ]
   },
   {
@@ -41348,7 +41108,7 @@
     "cap": 80,
     "teacher": "唐大崙",
     "times": [
-      "四 / 3,4,5 / O 303"
+      "四 / 2,3,4 / O 303"
     ]
   },
   {
@@ -48181,7 +47941,7 @@
     "group": "",
     "title": "有機化學實驗 A1",
     "cap": 32,
-    "teacher": "莊子超",
+    "teacher": "李長欣",
     "times": [
       "四 / 1,2,3 / C 202"
     ]
@@ -48201,7 +47961,7 @@
     "group": "",
     "title": "有機化學實驗 A2",
     "cap": 32,
-    "teacher": "陳曜鴻",
+    "teacher": "莊子超",
     "times": [
       "二 / 1,2,3 / C 202"
     ]
@@ -58798,7 +58558,7 @@
     "cap": "",
     "teacher": "",
     "times": [
-      "三 / 11,12,13 /"
+      "三 / 11,12,13 / D 317"
     ]
   },
   {
@@ -68902,7 +68662,7 @@
     "group": "",
     "title": "微積分",
     "cap": 80,
-    "teacher": "新／待聘",
+    "teacher": "余俊憲",
     "times": [
       "五 / 7,8 / B 616"
     ]
@@ -68942,7 +68702,7 @@
     "group": "",
     "title": "微積分",
     "cap": 80,
-    "teacher": "新／待聘",
+    "teacher": "余俊憲",
     "times": [
       "五 / 7,8 / B 616"
     ]
@@ -70551,10 +70311,10 @@
     "credits": 2,
     "group": "",
     "title": "財務報告分析",
-    "cap": 80,
+    "cap": 160,
     "teacher": "郭博文",
     "times": [
-      "三 / 6,7 / L 212"
+      "三 / 6,7 / L 307"
     ]
   },
   {
@@ -70612,10 +70372,10 @@
     "group": "",
     "title": "會計資訊系統",
     "cap": 75,
-    "teacher": "",
+    "teacher": "周玲儀",
     "times": [
-      "三 / 1,2 / B 113",
-      "二 / 6 / B 218"
+      "二 / 6 / B 218",
+      "三 / 1,2 / B 113"
     ]
   },
   {
@@ -70653,10 +70413,10 @@
     "group": "",
     "title": "會計資訊系統",
     "cap": 75,
-    "teacher": "",
+    "teacher": "周玲儀",
     "times": [
-      "二 / 5 / B 130",
-      "二 / 1,2 / B 130"
+      "二 / 1,2 / B 130",
+      "二 / 5 / B 130"
     ]
   },
   {
@@ -70674,7 +70434,7 @@
     "group": "",
     "title": "審計學 先修科目為審計學上學期(40分以上)，需同時選修同一班級的習作課程。",
     "cap": 80,
-    "teacher": "新／待聘",
+    "teacher": "余俊憲",
     "times": [
       "五 / 6 / B 708",
       "五 / 9,10 / B 606"
@@ -77853,27 +77613,6 @@
     "source": "TLFAB.htm",
     "dept_block": "TLFAB.國企系經貿管理組 DIVISION OF INTERNATIONAL ECONOMICS AND MANAGEMENT, DEPARTMENT OF INTERNATIONAL BUSINESS",
     "grade": "4",
-    "seq": "2103",
-    "code": "B0310",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "資料分析",
-    "cap": 54,
-    "teacher": "",
-    "times": [
-      "二 / 2 / B 309",
-      "二 / 4,5 / B 116"
-    ]
-  },
-  {
-    "source": "TLFAB.htm",
-    "dept_block": "TLFAB.國企系經貿管理組 DIVISION OF INTERNATIONAL ECONOMICS AND MANAGEMENT, DEPARTMENT OF INTERNATIONAL BUSINESS",
-    "grade": "4",
     "seq": "2104",
     "code": "B0807",
     "major": null,
@@ -77928,26 +77667,6 @@
     "teacher": "曾義明",
     "times": [
       "一 / 2,3 / B 120"
-    ]
-  },
-  {
-    "source": "TLFAB.htm",
-    "dept_block": "TLFAB.國企系經貿管理組 DIVISION OF INTERNATIONAL ECONOMICS AND MANAGEMENT, DEPARTMENT OF INTERNATIONAL BUSINESS",
-    "grade": "4",
-    "seq": "2107",
-    "code": "M0598",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "國際採購",
-    "cap": 120,
-    "teacher": "",
-    "times": [
-      "三 / 3,4 / B 713"
     ]
   },
   {
@@ -79676,7 +79395,7 @@
     "group": "",
     "title": "會計學 限本班生",
     "cap": 75,
-    "teacher": "待聘專任",
+    "teacher": "周玲儀",
     "times": [
       "一 / 6,7 / B 609"
     ]
@@ -85634,7 +85353,7 @@
     "group": "",
     "title": "統計學",
     "cap": 80,
-    "teacher": "陳麗菁",
+    "teacher": "",
     "times": [
       "二 / 6,7 / B 514"
     ]
@@ -85674,7 +85393,7 @@
     "group": "",
     "title": "統計學",
     "cap": 80,
-    "teacher": "陳麗菁",
+    "teacher": "",
     "times": [
       "二 / 9,10 / B 514"
     ]
@@ -87672,27 +87391,6 @@
     "source": "TSCXB.htm",
     "dept_block": "TSCXB.化學系（日） DEPARTMENT OF CHEMISTRY",
     "grade": "1",
-    "seq": "2880",
-    "code": "S0781",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "生物學導論",
-    "cap": 100,
-    "teacher": "陳曜鴻",
-    "times": [
-      "三 / 6 / C 010",
-      "四 / 1,2 / C 004"
-    ]
-  },
-  {
-    "source": "TSCXB.htm",
-    "dept_block": "TSCXB.化學系（日） DEPARTMENT OF CHEMISTRY",
-    "grade": "1",
     "seq": "2881",
     "code": "S0874",
     "major": null,
@@ -88172,7 +87870,7 @@
     "group": "",
     "title": "物理化學實驗 A4",
     "cap": 32,
-    "teacher": "陳曜鴻",
+    "teacher": "李長欣",
     "times": [
       "四 / 8,9,10 / C 102"
     ]
@@ -88520,7 +88218,7 @@
     "group": "",
     "title": "專題研究（Ⅰ）",
     "cap": 175,
-    "teacher": "李長欣",
+    "teacher": "莊子超",
     "times": [
       "/ /"
     ]
