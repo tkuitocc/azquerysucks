@@ -6796,7 +6796,7 @@
     "cap": 55,
     "teacher": "助教",
     "times": [
-      "四 / 9 / L 101"
+      "四 / 9 / T 211"
     ]
   },
   {
@@ -7116,7 +7116,7 @@
     "cap": 55,
     "teacher": "助教",
     "times": [
-      "四 / 8 / L 101"
+      "四 / 8 / T 211"
     ]
   },
   {
@@ -11814,7 +11814,7 @@
     "group": "",
     "title": "人工智慧導論 一年級限修本班。111學年度前入學者認列為自由選修學分。<通識教育跨領域微學程課程>",
     "cap": 75,
-    "teacher": "張緒芝",
+    "teacher": "賓浩宇",
     "times": [
       "三 / 2 / E 416"
     ]
@@ -11834,7 +11834,7 @@
     "group": "",
     "title": "人工智慧導論 一年級限修本班。111學年度前入學者認列為自由選修學分。<通識教育跨領域微學程課程>",
     "cap": 75,
-    "teacher": "張緒芝",
+    "teacher": "賓浩宇",
     "times": [
       "三 / 1 / E 413"
     ]
@@ -14615,9 +14615,8 @@
     "group": "N",
     "title": "大學學習 隔週上課，一年級限修本班。轉學生及大二(含)以上凡未取得本課程學分者，得以「學習與發展學門」課程替代。",
     "cap": 10,
-    "teacher": "",
+    "teacher": "曾憲威,紀俞任",
     "times": [
-      "五 / 9,10 / E 412",
       "五 / 9,10 / E 412"
     ]
   },
@@ -14636,9 +14635,8 @@
     "group": "N",
     "title": "大學學習 隔週上課，一年級限修本班。轉學生及大二(含)以上凡未取得本課程學分者，得以「學習與發展學門」課程替代。",
     "cap": 10,
-    "teacher": "",
+    "teacher": "楊維斌,陳信良",
     "times": [
-      "三 / 9,10 / E 412",
       "三 / 9,10 / E 412"
     ]
   },
@@ -14657,9 +14655,8 @@
     "group": "N",
     "title": "大學學習 隔週上課，一年級限修本班。轉學生及大二(含)以上凡未取得本課程學分者，得以「學習與發展學門」課程替代。",
     "cap": 10,
-    "teacher": "",
+    "teacher": "劉智誠,衛信文",
     "times": [
-      "五 / 9,10 / B 506",
       "五 / 9,10 / B 506"
     ]
   },
@@ -14678,9 +14675,8 @@
     "group": "N",
     "title": "大學學習 隔週上課，一年級限修本班。轉學生及大二(含)以上凡未取得本課程學分者，得以「學習與發展學門」課程替代。",
     "cap": 10,
-    "teacher": "",
+    "teacher": "鍾隆維,何政昌",
     "times": [
-      "五 / 9,10 / E 311",
       "五 / 9,10 / E 311"
     ]
   },
@@ -17385,6 +17381,27 @@
     ]
   },
   {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "0000",
+    "code": "T9867",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－高爾夫球興趣班 第1週SG245,第2週起改至佑昇高爾夫球場,校外場地上課需另付球資,未完成繳費予以退選",
+    "cap": 40,
+    "teacher": "",
+    "times": [
+      "/ /",
+      "/ /"
+    ]
+  },
+  {
     "source": "C01.htm",
     "dept_block": "TNUCB.校共與社會－日 COMMON ELECTIVE AND SOCIAL PRACTICE COURSES",
     "grade": "0",
@@ -17397,7 +17414,7 @@
     "required": "選",
     "credits": 3,
     "group": "",
-    "title": "人工智慧倫理 ◇講座課程◇以實整虛課程",
+    "title": "人工智慧倫理 ◇講座課程",
     "cap": 70,
     "teacher": "林嘉琪",
     "times": [
@@ -20364,26 +20381,6 @@
     "group": "",
     "title": "企業倫理",
     "cap": 40,
-    "teacher": "田峻吉",
-    "times": [
-      "四 / 11,12,13 / D 403"
-    ]
-  },
-  {
-    "source": "C05.htm",
-    "dept_block": "TGLXJ.商管學院共同碩專 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT-EMBA",
-    "grade": "0",
-    "seq": "8234",
-    "code": "M0800",
-    "major": null,
-    "term_order": "0",
-    "class": "C",
-    "group_div": null,
-    "required": "必",
-    "credits": 3,
-    "group": "",
-    "title": "企業倫理",
-    "cap": 40,
     "teacher": "張勝雄",
     "times": [
       "二 / 11,12,13 / D 408"
@@ -22871,7 +22868,7 @@
     "cap": 18,
     "teacher": "陳瑋靜",
     "times": [
-      "四 / 8,9 / T 211"
+      "四 / 8,9 / L 101"
     ]
   },
   {
@@ -22892,6 +22889,26 @@
     "teacher": "顏徽玲",
     "times": [
       "三 / 9,10 / L 310"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TFOSB.歐語系西文組 DIVISION OF SPANISH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "2",
+    "seq": "1351",
+    "code": "A1452",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "西班牙文作文（一） ◇遠距非同步課程◇雙語授課(中文/西語)",
+    "cap": 35,
+    "teacher": "劉莉美",
+    "times": [
+      "五 / 6,7 / T 704"
     ]
   },
   {
@@ -24475,7 +24492,7 @@
     "credits": 3,
     "group": "",
     "title": "２Ｄ繪圖與動畫製作 ◇全英語授課",
-    "cap": 80,
+    "cap": 62,
     "teacher": "林逸農",
     "times": [
       "四 / 2,3,4 / L 102"
@@ -28590,66 +28607,6 @@
   {
     "source": "F01.htm",
     "dept_block": "TLFCM.國企產學全英碩 INTERNATIONAL INTENSE MASTER’S PROGRAM IN INTERNATIONAL ECONOMY AND TRADE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
-    "grade": "1",
-    "seq": "8312",
-    "code": "B0202",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "國際金融 ◇全英語授課",
-    "cap": "",
-    "teacher": "薛勝斌",
-    "times": [
-      "三 / 7,8 / Q 412"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TLFCM.國企產學全英碩 INTERNATIONAL INTENSE MASTER’S PROGRAM IN INTERNATIONAL ECONOMY AND TRADE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
-    "grade": "1",
-    "seq": "8313",
-    "code": "B0236",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "國際經濟學 ◇全英語授課",
-    "cap": "",
-    "teacher": "許佳惠",
-    "times": [
-      "一 / 3,4 / T 314"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TLFCM.國企產學全英碩 INTERNATIONAL INTENSE MASTER’S PROGRAM IN INTERNATIONAL ECONOMY AND TRADE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
-    "grade": "1",
-    "seq": "8314",
-    "code": "M1081",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "國際行銷 ◇全英語授課",
-    "cap": "",
-    "teacher": "",
-    "times": [
-      "三 / 3,4 / T 506"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TLFCM.國企產學全英碩 INTERNATIONAL INTENSE MASTER’S PROGRAM IN INTERNATIONAL ECONOMY AND TRADE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
     "grade": "2",
     "seq": "8315",
     "code": "M2305",
@@ -31088,7 +31045,7 @@
     "cap": 120,
     "teacher": "廖淑娟",
     "times": [
-      "一 / 6,7 / E 830",
+      "一 / 6,7 / E 509",
       "二 / 7 / E 401"
     ]
   },
@@ -34339,7 +34296,7 @@
     "teacher": "李靜枝",
     "times": [
       "二 / 6,7 / T 502",
-      "四 / 3,4 / B 115"
+      "四 / 3,4 / T 505"
     ]
   },
   {
@@ -34483,7 +34440,7 @@
     "cap": 35,
     "teacher": "張芸綺",
     "times": [
-      "三 / 3,4 / L 417"
+      "三 / 3,4 / E 514"
     ]
   },
   {
@@ -34667,26 +34624,6 @@
     "times": [
       "二 / 7,8 / T 701",
       "四 / 5,6 / T 505"
-    ]
-  },
-  {
-    "source": "F10.htm",
-    "dept_block": "TFOSB.歐語系西文組 DIVISION OF SPANISH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
-    "grade": "2",
-    "seq": "1351",
-    "code": "A1452",
-    "major": null,
-    "term_order": "1",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "西班牙文作文（一） ◇雙語授課(中文/西語)",
-    "cap": 35,
-    "teacher": "劉莉美",
-    "times": [
-      "五 / 6,7 / T 704"
     ]
   },
   {
@@ -42470,7 +42407,7 @@
     "credits": 3,
     "group": "",
     "title": "教育測驗與評量",
-    "cap": 175,
+    "cap": 62,
     "teacher": "蔡森暉",
     "times": [
       "三 / 6,7,8 / L 102"
@@ -42670,7 +42607,7 @@
     "credits": 3,
     "group": "",
     "title": "互動教材設計與實習",
-    "cap": 65,
+    "cap": 62,
     "teacher": "林逸農",
     "times": [
       "一 / 2,3,4 / L 102"
@@ -42690,7 +42627,7 @@
     "credits": 3,
     "group": "",
     "title": "互動教材設計與實習",
-    "cap": 65,
+    "cap": 62,
     "teacher": "林逸農",
     "times": [
       "二 / 6,7,8 / L 102"
@@ -42750,7 +42687,7 @@
     "credits": 3,
     "group": "",
     "title": "調查方法 限本系學生、輔系及雙主修者才能選課。",
-    "cap": 70,
+    "cap": 62,
     "teacher": "蔡森暉",
     "times": [
       "二 / 2,3,4 / L 102"
@@ -42770,7 +42707,7 @@
     "credits": 3,
     "group": "",
     "title": "AI資料探勘概論",
-    "cap": 175,
+    "cap": 60,
     "teacher": "胡大謙",
     "times": [
       "五 / 6,7,8 / L 105"
@@ -42893,7 +42830,7 @@
     "cap": "",
     "teacher": "張瓊穗",
     "times": [
-      "二 / 3,4 / L 110"
+      "二 / 3,4 / L 203"
     ]
   },
   {
@@ -42913,7 +42850,7 @@
     "cap": "",
     "teacher": "顧大維",
     "times": [
-      "二 / 3,4 / L 203"
+      "二 / 3,4 / L 110"
     ]
   },
   {
@@ -42973,7 +42910,7 @@
     "cap": "",
     "teacher": "沈俊毅",
     "times": [
-      "二 / 3,4 / ED 113"
+      "二 / 3,4 / ED 205"
     ]
   },
   {
@@ -45172,7 +45109,7 @@
     "cap": 90,
     "teacher": "待聘專任",
     "times": [
-      "三 / 9 / E 514",
+      "三 / 9 / E 311",
       "四 / 8,9 / E 813"
     ]
   },
@@ -46544,7 +46481,7 @@
     "group": "",
     "title": "工程數學（一） 限本系本班生",
     "cap": 70,
-    "teacher": "",
+    "teacher": "張正興",
     "times": [
       "三 / 6 / E 305",
       "三 / 9,10 / E 413"
@@ -53206,7 +53143,7 @@
     "cap": 80,
     "teacher": "戴源遠",
     "times": [
-      "一 / 6,7 / E 509"
+      "一 / 6,7 / E 830"
     ]
   },
   {
@@ -55330,7 +55267,7 @@
     "group": "",
     "title": "電動機控制理論與實作",
     "cap": "",
-    "teacher": "廖兆祥",
+    "teacher": "",
     "times": [
       "四 / 7,8,9 / E 826"
     ]
@@ -55450,7 +55387,7 @@
     "group": "",
     "title": "感測器原理及應用",
     "cap": 27,
-    "teacher": "",
+    "teacher": "盧明智",
     "times": [
       "四 / 2,3,4 / E 238"
     ]
@@ -57146,9 +57083,10 @@
     "group": "",
     "title": "作業系統 原電資組",
     "cap": 160,
-    "teacher": "陳奕華",
+    "teacher": "曾憲威",
     "times": [
-      "五 / 2,3,4 / E 305"
+      "三 / 1,2 / E 409",
+      "三 / 8 / E 514"
     ]
   },
   {
@@ -57168,7 +57106,7 @@
     "cap": 160,
     "teacher": "助教",
     "times": [
-      "四 / 2 / E 307"
+      "三 / 9 / E 514"
     ]
   },
   {
@@ -58173,10 +58111,10 @@
     "credits": 2,
     "group": "",
     "title": "人工智慧實務 原電通組",
-    "cap": 175,
+    "cap": 70,
     "teacher": "陳柏翔",
     "times": [
-      "二 / 3,4 / C 013"
+      "二 / 1,2 / E 314"
     ]
   },
   {
@@ -65167,7 +65105,7 @@
     "cap": 25,
     "teacher": "顏徽玲",
     "times": [
-      "四 / 1,2 / T 407"
+      "四 / 1,2 / T 410"
     ]
   },
   {
@@ -65187,7 +65125,7 @@
     "cap": 25,
     "teacher": "顏徽玲",
     "times": [
-      "三 / 1,2 / T 407"
+      "三 / 1,2 / T 410"
     ]
   },
   {
@@ -65548,7 +65486,7 @@
     "cap": 80,
     "teacher": "劉愛玲",
     "times": [
-      "三 / 3,4 / Q 409"
+      "三 / 3,4 / T 505"
     ]
   },
   {
@@ -66032,7 +65970,7 @@
     "cap": "",
     "teacher": "鄭盈盈",
     "times": [
-      "四 / 8,9 / B 115"
+      "四 / 8,9 / B 120"
     ]
   },
   {
@@ -71077,7 +71015,7 @@
     "cap": 100,
     "teacher": "助教",
     "times": [
-      "四 / 10 / B 603"
+      "四 / 10 / B 117"
     ]
   },
   {
@@ -73395,7 +73333,7 @@
     "cap": "",
     "teacher": "魏筱昀",
     "times": [
-      "四 / 7,8,9 / Q 201"
+      "四 / 7,8,9 / L 303"
     ]
   },
   {
@@ -80390,6 +80328,26 @@
     "source": "TLMXB.htm",
     "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
     "grade": "4",
+    "seq": "2254",
+    "code": "M1955",
+    "major": null,
+    "term_order": "3",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "專題製作",
+    "cap": 75,
+    "teacher": "鄭元成",
+    "times": [
+      "/ /"
+    ]
+  },
+  {
+    "source": "TLMXB.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "4",
     "seq": null,
     "code": "M1955",
     "major": null,
@@ -80403,7 +80361,27 @@
     "cap": 75,
     "teacher": "助教",
     "times": [
-      "二 / 9 / B 617"
+      "二 / 9 / B 310"
+    ]
+  },
+  {
+    "source": "TLMXB.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "4",
+    "seq": "2255",
+    "code": "M1955",
+    "major": null,
+    "term_order": "3",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "專題製作",
+    "cap": 75,
+    "teacher": "周清江",
+    "times": [
+      "/ /"
     ]
   },
   {
@@ -80423,7 +80401,27 @@
     "cap": 75,
     "teacher": "助教",
     "times": [
-      "二 / 8 / B 617"
+      "二 / 8 / B 310"
+    ]
+  },
+  {
+    "source": "TLMXB.htm",
+    "dept_block": "TLMXB.資管系（日） DEPARTMENT OF INFORMATION MANAGEMENT",
+    "grade": "4",
+    "seq": "2256",
+    "code": "M1955",
+    "major": null,
+    "term_order": "3",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "專題製作",
+    "cap": 75,
+    "teacher": "陳有科",
+    "times": [
+      "/ /"
     ]
   },
   {
@@ -80443,7 +80441,7 @@
     "cap": 75,
     "teacher": "助教",
     "times": [
-      "二 / 6 / B 507"
+      "二 / 6 / B 310"
     ]
   },
   {
@@ -81914,26 +81912,6 @@
     "teacher": "何佳玲",
     "times": [
       "日 / 2 /"
-    ]
-  },
-  {
-    "source": "TLOXM.htm",
-    "dept_block": "TLOXM.風保碩士班 MASTER’S PROGRAM, DEPARTMENT OF RISK MANAGEMENT AND INSURANCE",
-    "grade": "1",
-    "seq": "8364",
-    "code": "B0244",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "保險業ESG與永續發展研究",
-    "cap": "",
-    "teacher": "田峻吉",
-    "times": [
-      "一 / 3,4,5 / T 603"
     ]
   },
   {
@@ -88463,7 +88441,7 @@
     "cap": "",
     "teacher": "李世元",
     "times": [
-      "一 / 2,3,4 / C 423"
+      "二 / 2,3,4 / Q 408"
     ]
   },
   {
@@ -90681,7 +90659,7 @@
     "teacher": "吳俊毅",
     "times": [
       "二 / 1,2 / S 103",
-      "二 / 6 / S 102"
+      "二 / 4 / S 102"
     ]
   },
   {
@@ -92672,7 +92650,7 @@
     "cap": "",
     "teacher": "曾耀霆",
     "times": [
-      "四 / 8 / T 607"
+      "四 / 8 / B 115"
     ]
   },
   {
@@ -92690,7 +92668,7 @@
     "group": "",
     "title": "論文",
     "cap": "",
-    "teacher": "李百靈",
+    "teacher": "陳麗菁",
     "times": [
       "六 / 1 /"
     ]
@@ -92793,7 +92771,7 @@
     "cap": "",
     "teacher": "高君豪",
     "times": [
-      "四 / 7 / Q 412"
+      "四 / 7 / Q 201"
     ]
   },
   {
