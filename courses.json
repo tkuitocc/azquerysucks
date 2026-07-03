@@ -212,7 +212,7 @@
     "required": "必",
     "credits": 2,
     "group": "O",
-    "title": "電腦入門與程式思維 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
+    "title": "電腦入門與程式思維 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇全英語授課",
     "cap": 70,
     "teacher": "洪復一",
     "times": [
@@ -272,7 +272,7 @@
     "required": "必",
     "credits": 2,
     "group": "O",
-    "title": "資通安全管理概論",
+    "title": "資通安全管理概論 ◇全英語授課",
     "cap": 70,
     "teacher": "楊博宏",
     "times": [
@@ -1977,26 +1977,6 @@
     "teacher": "張志強",
     "times": [
       "三 / 8,9 / B 429"
-    ]
-  },
-  {
-    "source": "A05.htm",
-    "dept_block": "TNUPB.核心課程Ｐ群－日 HISTORY STUDIES",
-    "grade": "0",
-    "seq": "2544",
-    "code": "A2062",
-    "major": null,
-    "term_order": "0",
-    "class": "D",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "P",
-    "title": "中國歷史與人物",
-    "cap": 69,
-    "teacher": "蔡忠志",
-    "times": [
-      "二 / 9,10 / SG 319"
     ]
   },
   {
@@ -14194,7 +14174,7 @@
     "group": "N",
     "title": "大學學習 隔週上課，一年級限修本班。轉學生及大二(含)以上凡未取得本課程學分者，得以「學習與發展學門」課程替代。",
     "cap": 10,
-    "teacher": "林煌達,吳明勇",
+    "teacher": "陳琮淵,蔡育潞",
     "times": [
       "四 / 9,10 / B 502"
     ]
@@ -15815,7 +15795,7 @@
     "group": "",
     "title": "男、女生體育",
     "cap": 70,
-    "teacher": "蔡慧敏",
+    "teacher": "徐詩涵",
     "times": [
       "三 / 1,2 /"
     ]
@@ -16135,7 +16115,7 @@
     "group": "",
     "title": "男、女生體育",
     "cap": 70,
-    "teacher": "吳承恩",
+    "teacher": "陳著",
     "times": [
       "五 / 9,10 /"
     ]
@@ -16395,7 +16375,7 @@
     "group": "",
     "title": "男、女生體育",
     "cap": 70,
-    "teacher": "楊明堂",
+    "teacher": "",
     "times": [
       "一 / 7,8 /"
     ]
@@ -16855,7 +16835,7 @@
     "group": "",
     "title": "男、女生體育",
     "cap": 70,
-    "teacher": "張嘉雄",
+    "teacher": "",
     "times": [
       "四 / 7,8 /"
     ]
@@ -17195,7 +17175,7 @@
     "group": "",
     "title": "男、女生體育 ◇全英語授課",
     "cap": 70,
-    "teacher": "吳承恩",
+    "teacher": "柯明辰",
     "times": [
       "三 / 7,8 /"
     ]
@@ -17235,7 +17215,7 @@
     "group": "",
     "title": "男、女生體育",
     "cap": 70,
-    "teacher": "謝豐宇",
+    "teacher": "楊明堂",
     "times": [
       "二 / 7,8 /"
     ]
@@ -17384,7 +17364,7 @@
     "source": "B05.htm",
     "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
     "grade": "2",
-    "seq": "0000",
+    "seq": "3149",
     "code": "T9867",
     "major": null,
     "term_order": "1",
@@ -17395,10 +17375,2509 @@
     "group": "",
     "title": "男、女生體育－高爾夫球興趣班 第1週SG245,第2週起改至佑昇高爾夫球場,校外場地上課需另付球資,未完成繳費予以退選",
     "cap": 40,
-    "teacher": "",
+    "teacher": "蕭淑芬",
     "times": [
-      "/ /",
-      "/ /"
+      "二 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3150",
+    "code": "T9867",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－高爾夫球興趣班 第1週SG245,第2週起改至佑昇高爾夫球場,校外場地上課需另付球資,未完成繳費予以退選",
+    "cap": 40,
+    "teacher": "蕭淑芬",
+    "times": [
+      "二 / 9,10 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3151",
+    "code": "T9867",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－高爾夫球興趣班 第1週SG245,第2週起改至佑昇高爾夫球場,校外場地上課需另付球資,未完成繳費予以退選",
+    "cap": 40,
+    "teacher": "王誼邦",
+    "times": [
+      "三 / 5,6 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3152",
+    "code": "T9867",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－高爾夫球興趣班 第1週SG245,第2週起改至佑昇高爾夫球場,校外場地上課需另付球資,未完成繳費予以退選",
+    "cap": 40,
+    "teacher": "陳逸政",
+    "times": [
+      "四 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3153",
+    "code": "T9867",
+    "major": null,
+    "term_order": "1",
+    "class": "E",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－高爾夫球興趣班 第1週游泳館N204,第2週起改至佑昇高爾夫球場,校外場地上課需另付球資,未完成繳費予以退選",
+    "cap": 40,
+    "teacher": "王誼邦",
+    "times": [
+      "二 / 5,6 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3154",
+    "code": "T9867",
+    "major": null,
+    "term_order": "1",
+    "class": "F",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－高爾夫球興趣班 第1週SG245,第2週起改至佑昇高爾夫球場,校外場地上課需另付球資,未完成繳費予以退選",
+    "cap": 40,
+    "teacher": "王誼邦",
+    "times": [
+      "三 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3155",
+    "code": "T9871",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－有氧舞蹈興趣班 體育館SG246舞蹈室",
+    "cap": 60,
+    "teacher": "郭馥滋",
+    "times": [
+      "一 / 3,4 / SG 246"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3156",
+    "code": "T9872",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－排球興趣班 五虎崗排球場(V2),雨備游泳館N202",
+    "cap": 50,
+    "teacher": "潘定均",
+    "times": [
+      "三 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3157",
+    "code": "T9872",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－排球興趣班 體育館4樓排球場",
+    "cap": 50,
+    "teacher": "劉宗德",
+    "times": [
+      "一 / 1,2 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3158",
+    "code": "T9872",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－排球興趣班 體育館4樓排球場",
+    "cap": 50,
+    "teacher": "雷小娟",
+    "times": [
+      "一 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3159",
+    "code": "T9872",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－排球興趣班 體育館4樓排球場",
+    "cap": 50,
+    "teacher": "雷小娟",
+    "times": [
+      "一 / 9,10 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3160",
+    "code": "T9872",
+    "major": null,
+    "term_order": "1",
+    "class": "E",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－排球興趣班 體育館4樓排球場",
+    "cap": 50,
+    "teacher": "劉宗德",
+    "times": [
+      "二 / 1,2 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3161",
+    "code": "T9872",
+    "major": null,
+    "term_order": "1",
+    "class": "F",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－排球興趣班 體育館4樓排球場",
+    "cap": 50,
+    "teacher": "陳逸政",
+    "times": [
+      "二 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3162",
+    "code": "T9872",
+    "major": null,
+    "term_order": "1",
+    "class": "G",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－排球興趣班 體育館4樓排球場",
+    "cap": 50,
+    "teacher": "劉宗德",
+    "times": [
+      "三 / 1,2 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3163",
+    "code": "T9872",
+    "major": null,
+    "term_order": "1",
+    "class": "H",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－排球興趣班 體育館4樓排球場",
+    "cap": 50,
+    "teacher": "劉宗德",
+    "times": [
+      "三 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3164",
+    "code": "T9872",
+    "major": null,
+    "term_order": "1",
+    "class": "I",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－排球興趣班 體育館4樓排球場",
+    "cap": 50,
+    "teacher": "楊總成",
+    "times": [
+      "三 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3165",
+    "code": "T9872",
+    "major": null,
+    "term_order": "1",
+    "class": "J",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－排球興趣班 體育館4樓排球場",
+    "cap": 50,
+    "teacher": "潘定均",
+    "times": [
+      "四 / 1,2 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3166",
+    "code": "T9872",
+    "major": null,
+    "term_order": "1",
+    "class": "K",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－排球興趣班 體育館4樓排球場",
+    "cap": 50,
+    "teacher": "潘定均",
+    "times": [
+      "四 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3167",
+    "code": "T9872",
+    "major": null,
+    "term_order": "1",
+    "class": "L",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－排球興趣班 體育館4樓排球場",
+    "cap": 50,
+    "teacher": "楊總成",
+    "times": [
+      "四 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3168",
+    "code": "T9872",
+    "major": null,
+    "term_order": "1",
+    "class": "M",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－排球興趣班 體育館4樓排球場",
+    "cap": 50,
+    "teacher": "楊總成",
+    "times": [
+      "四 / 9,10 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3169",
+    "code": "T9872",
+    "major": null,
+    "term_order": "1",
+    "class": "N",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－排球興趣班 體育館4樓排球場 ◇全英語授課",
+    "cap": 60,
+    "teacher": "陳著",
+    "times": [
+      "五 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3170",
+    "code": "T9873",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－籃球興趣班 田徑場旁籃球場(B2),雨備游泳館N201 ◇全英語授課",
+    "cap": 60,
+    "teacher": "柯明辰",
+    "times": [
+      "一 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3171",
+    "code": "T9873",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－籃球興趣班 體育館7樓籃球場",
+    "cap": 60,
+    "teacher": "覃素莉",
+    "times": [
+      "五 / 9,10 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3172",
+    "code": "T9873",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－籃球興趣班 體育館7樓籃球場",
+    "cap": 60,
+    "teacher": "覃素莉",
+    "times": [
+      "一 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3173",
+    "code": "T9873",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－籃球興趣班 體育館7樓籃球場",
+    "cap": 60,
+    "teacher": "張弓弘",
+    "times": [
+      "一 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3174",
+    "code": "T9873",
+    "major": null,
+    "term_order": "1",
+    "class": "E",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－籃球興趣班 體育館7樓籃球場",
+    "cap": 60,
+    "teacher": "張弓弘",
+    "times": [
+      "一 / 9,10 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3175",
+    "code": "T9873",
+    "major": null,
+    "term_order": "1",
+    "class": "F",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－籃球興趣班 體育館7樓籃球場",
+    "cap": 60,
+    "teacher": "覃素莉",
+    "times": [
+      "二 / 1,2 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3176",
+    "code": "T9873",
+    "major": null,
+    "term_order": "1",
+    "class": "G",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－籃球興趣班 體育館7樓籃球場",
+    "cap": 60,
+    "teacher": "覃素莉",
+    "times": [
+      "二 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3177",
+    "code": "T9873",
+    "major": null,
+    "term_order": "1",
+    "class": "H",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－籃球興趣班 體育館7樓籃球場",
+    "cap": 60,
+    "teacher": "陳建樺",
+    "times": [
+      "三 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3178",
+    "code": "T9873",
+    "major": null,
+    "term_order": "1",
+    "class": "I",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－籃球興趣班 體育館7樓籃球場",
+    "cap": 60,
+    "teacher": "覃素莉",
+    "times": [
+      "五 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3179",
+    "code": "T9873",
+    "major": null,
+    "term_order": "1",
+    "class": "J",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－籃球興趣班 田徑場旁籃球場(B2),雨備游泳館N204 ◇全英語授課",
+    "cap": 60,
+    "teacher": "葉錦樹",
+    "times": [
+      "二 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3180",
+    "code": "T9874",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－桌球興趣班 體育館SG322桌球室",
+    "cap": 60,
+    "teacher": "王元聖",
+    "times": [
+      "一 / 3,4 / SG 322"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3181",
+    "code": "T9874",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－桌球興趣班 體育館SG322桌球室",
+    "cap": 60,
+    "teacher": "王元聖",
+    "times": [
+      "二 / 3,4 / SG 322"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3182",
+    "code": "T9874",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－桌球興趣班 體育館SG322桌球室",
+    "cap": 60,
+    "teacher": "陳天文",
+    "times": [
+      "四 / 7,8 / SG 322"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3183",
+    "code": "T9874",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－桌球興趣班 體育館SG322桌球室",
+    "cap": 60,
+    "teacher": "林素婷",
+    "times": [
+      "二 / 7,8 / SG 322"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3184",
+    "code": "T9874",
+    "major": null,
+    "term_order": "1",
+    "class": "E",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－桌球興趣班 體育館SG322桌球室",
+    "cap": 60,
+    "teacher": "林素婷",
+    "times": [
+      "二 / 9,10 / SG 322"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3185",
+    "code": "T9874",
+    "major": null,
+    "term_order": "1",
+    "class": "F",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－桌球興趣班 體育館SG322桌球室",
+    "cap": 60,
+    "teacher": "李欣靜",
+    "times": [
+      "三 / 1,2 / SG 322"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3186",
+    "code": "T9874",
+    "major": null,
+    "term_order": "1",
+    "class": "G",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－桌球興趣班 進階班體育館SG322桌球室",
+    "cap": 30,
+    "teacher": "李欣靜",
+    "times": [
+      "三 / 3,4 / SG 322"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3187",
+    "code": "T9874",
+    "major": null,
+    "term_order": "1",
+    "class": "H",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－桌球興趣班 體育館SG322桌球室",
+    "cap": 60,
+    "teacher": "陳天文",
+    "times": [
+      "四 / 9,10 / SG 322"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3188",
+    "code": "T9874",
+    "major": null,
+    "term_order": "1",
+    "class": "I",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－桌球興趣班 體育館SG322桌球室",
+    "cap": 60,
+    "teacher": "梅書瑋",
+    "times": [
+      "五 / 1,2 / SG 322"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3189",
+    "code": "T9875",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－羽球興趣班 活動中心 ◇全英語授課",
+    "cap": 45,
+    "teacher": "黃嘉笙",
+    "times": [
+      "四 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3190",
+    "code": "T9875",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－羽球興趣班 體育館4樓羽球場",
+    "cap": 50,
+    "teacher": "陳建樺",
+    "times": [
+      "一 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3191",
+    "code": "T9875",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－羽球興趣班 體育館4樓羽球場",
+    "cap": 50,
+    "teacher": "蔡慧敏",
+    "times": [
+      "一 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3192",
+    "code": "T9875",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－羽球興趣班 進階班體育館4樓羽球場",
+    "cap": 30,
+    "teacher": "蔡慧敏",
+    "times": [
+      "一 / 9,10 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3193",
+    "code": "T9875",
+    "major": null,
+    "term_order": "1",
+    "class": "E",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－羽球興趣班 體育館4樓羽球場",
+    "cap": 50,
+    "teacher": "蔡慧敏",
+    "times": [
+      "二 / 1,2 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3194",
+    "code": "T9875",
+    "major": null,
+    "term_order": "1",
+    "class": "F",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－羽球興趣班 體育館4樓羽球場",
+    "cap": 50,
+    "teacher": "黃貴樹",
+    "times": [
+      "二 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3195",
+    "code": "T9875",
+    "major": null,
+    "term_order": "1",
+    "class": "G",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－羽球興趣班 體育館4樓羽球場",
+    "cap": 50,
+    "teacher": "蔡慧敏",
+    "times": [
+      "三 / 1,2 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3196",
+    "code": "T9875",
+    "major": null,
+    "term_order": "1",
+    "class": "H",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－羽球興趣班 體育館4樓羽球場",
+    "cap": 50,
+    "teacher": "范姜逸敏",
+    "times": [
+      "四 / 1,2 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3197",
+    "code": "T9875",
+    "major": null,
+    "term_order": "1",
+    "class": "I",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－羽球興趣班 體育館4樓羽球場",
+    "cap": 50,
+    "teacher": "范姜逸敏",
+    "times": [
+      "四 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3198",
+    "code": "T9875",
+    "major": null,
+    "term_order": "1",
+    "class": "J",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－羽球興趣班 體育館4樓羽球場 ◇全英語授課",
+    "cap": 55,
+    "teacher": "林郁偉",
+    "times": [
+      "五 / 9,10 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3199",
+    "code": "T9875",
+    "major": null,
+    "term_order": "1",
+    "class": "K",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－羽球興趣班 體育館4樓羽球場",
+    "cap": 50,
+    "teacher": "李維仁",
+    "times": [
+      "二 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3200",
+    "code": "T9876",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－壘球興趣班 操場,雨備游泳館N201",
+    "cap": 60,
+    "teacher": "黃谷臣",
+    "times": [
+      "一 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3201",
+    "code": "T9876",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－壘球興趣班 操場,雨備游泳館N204",
+    "cap": 60,
+    "teacher": "新／待聘",
+    "times": [
+      "五 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3202",
+    "code": "T9876",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－壘球興趣班 操場,雨備游泳館N201",
+    "cap": 60,
+    "teacher": "謝豐宇",
+    "times": [
+      "四 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3203",
+    "code": "T9881",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－體適能興趣班 體育館SG323重訓室",
+    "cap": 50,
+    "teacher": "黃谷臣",
+    "times": [
+      "一 / 1,2 / SG 323"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3204",
+    "code": "T9881",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－體適能興趣班 體育館SG323重訓室",
+    "cap": 50,
+    "teacher": "劉宗德",
+    "times": [
+      "一 / 3,4 / SG 323"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3205",
+    "code": "T9881",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－體適能興趣班 體育館SG323重訓室",
+    "cap": 50,
+    "teacher": "陳建樺",
+    "times": [
+      "一 / 9,10 / SG 323"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3206",
+    "code": "T9881",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－體適能興趣班 體育館SG323重訓室",
+    "cap": 50,
+    "teacher": "黃谷臣",
+    "times": [
+      "二 / 1,2 / SG 323"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3207",
+    "code": "T9881",
+    "major": null,
+    "term_order": "1",
+    "class": "E",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－體適能興趣班 體育館SG323重訓室",
+    "cap": 50,
+    "teacher": "洪建智",
+    "times": [
+      "二 / 3,4 / SG 323"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3208",
+    "code": "T9881",
+    "major": null,
+    "term_order": "1",
+    "class": "F",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－體適能興趣班 體育館SG323重訓室",
+    "cap": 50,
+    "teacher": "黃谷臣",
+    "times": [
+      "三 / 1,2 / SG 323"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3209",
+    "code": "T9881",
+    "major": null,
+    "term_order": "1",
+    "class": "G",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－體適能興趣班 體育館SG323重訓室",
+    "cap": 50,
+    "teacher": "洪建智",
+    "times": [
+      "四 / 3,4 / SG 323"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3210",
+    "code": "T9881",
+    "major": null,
+    "term_order": "1",
+    "class": "H",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－體適能興趣班 體育館SG323重訓室",
+    "cap": 50,
+    "teacher": "雷小娟",
+    "times": [
+      "四 / 7,8 / SG 323"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3211",
+    "code": "T9881",
+    "major": null,
+    "term_order": "1",
+    "class": "I",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－體適能興趣班 游泳館N204",
+    "cap": 30,
+    "teacher": "王誼邦",
+    "times": [
+      "二 / 3,4 / N 204"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3212",
+    "code": "T9883",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－網球興趣班 網球場,雨備SG245",
+    "cap": 45,
+    "teacher": "洪建智",
+    "times": [
+      "二 / 1,2 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3213",
+    "code": "T9883",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－網球興趣班 網球場,雨備SG245",
+    "cap": 45,
+    "teacher": "張嘉雄",
+    "times": [
+      "二 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3214",
+    "code": "T9883",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－網球興趣班 網球場,雨備第1周體育館地下1樓武術室,其他周次SG245",
+    "cap": 45,
+    "teacher": "張嘉雄",
+    "times": [
+      "二 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3215",
+    "code": "T9883",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－網球興趣班 網球場,雨備SG245",
+    "cap": 45,
+    "teacher": "范姜逸敏",
+    "times": [
+      "三 / 1,2 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3216",
+    "code": "T9883",
+    "major": null,
+    "term_order": "1",
+    "class": "E",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－網球興趣班 網球場,雨備第1周體育館地下1樓武術室,其他周次SG245",
+    "cap": 45,
+    "teacher": "范姜逸敏",
+    "times": [
+      "三 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3217",
+    "code": "T9883",
+    "major": null,
+    "term_order": "1",
+    "class": "F",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－網球興趣班 網球場,雨備SG245",
+    "cap": 45,
+    "teacher": "張嘉雄",
+    "times": [
+      "四 / 1,2 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3218",
+    "code": "T9883",
+    "major": null,
+    "term_order": "1",
+    "class": "G",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－網球興趣班 網球場,雨備SG245",
+    "cap": 45,
+    "teacher": "范姜逸敏",
+    "times": [
+      "五 / 1,2 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3219",
+    "code": "T9883",
+    "major": null,
+    "term_order": "1",
+    "class": "H",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－網球興趣班 網球場,雨備SG245",
+    "cap": 45,
+    "teacher": "張嘉雄",
+    "times": [
+      "四 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3220",
+    "code": "T9886",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－太極拳興趣班 體育館地下1樓劍道館",
+    "cap": 40,
+    "teacher": "洪建智",
+    "times": [
+      "三 / 1,2 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3221",
+    "code": "T9886",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－太極拳興趣班 體育館地下1樓劍道館",
+    "cap": 40,
+    "teacher": "洪建智",
+    "times": [
+      "三 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3222",
+    "code": "T9890",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－撞球興趣班 強運撞球場,校外場地上課需另付球資,未完成繳費予以退選",
+    "cap": 50,
+    "teacher": "林廣建",
+    "times": [
+      "一 / 9,10 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3223",
+    "code": "T9890",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－撞球興趣班 強運撞球場,校外場地上課需另付球資,未完成繳費予以退選",
+    "cap": 50,
+    "teacher": "謝豐宇",
+    "times": [
+      "二 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3224",
+    "code": "T9890",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－撞球興趣班 強運撞球場,校外場地上課需另付球資,未完成繳費予以退選",
+    "cap": 50,
+    "teacher": "陳天文",
+    "times": [
+      "二 / 9,10 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3225",
+    "code": "T9890",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－撞球興趣班 強運撞球場,校外場地上課需另付球資,未完成繳費予以退選",
+    "cap": 50,
+    "teacher": "陳天文",
+    "times": [
+      "三 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3226",
+    "code": "T9890",
+    "major": null,
+    "term_order": "1",
+    "class": "E",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－撞球興趣班 強運撞球場,校外場地上課需另付球資,未完成繳費予以退選",
+    "cap": 50,
+    "teacher": "謝豐宇",
+    "times": [
+      "四 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3227",
+    "code": "T9890",
+    "major": null,
+    "term_order": "1",
+    "class": "F",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－撞球興趣班 強運撞球場,校外場地上課需另付球資,未完成繳費予以退選",
+    "cap": 50,
+    "teacher": "陳天文",
+    "times": [
+      "三 / 9,10 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3228",
+    "code": "T9891",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－網球專長班 依體育處另行公告之運動代表隊練習注意事項,限校隊選課",
+    "cap": 30,
+    "teacher": "張嘉雄",
+    "times": [
+      "六 / 13,14 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3229",
+    "code": "T9892",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－羽球專長班 依體育處另行公告之運動代表隊練習注意事項,限校隊選課",
+    "cap": 30,
+    "teacher": "蔡慧敏",
+    "times": [
+      "六 / 11,12 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3230",
+    "code": "T9893",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－桌球專長班 依體育處另行公告之運動代表隊練習注意事項,限校隊選課",
+    "cap": 30,
+    "teacher": "藍鉦淯",
+    "times": [
+      "六 / 13,14 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3231",
+    "code": "T9894",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－排球專長班 依體育處另行公告之運動代表隊練習注意事項,限校隊選課",
+    "cap": 30,
+    "teacher": "楊總成",
+    "times": [
+      "六 / 11,12 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3232",
+    "code": "T9894",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－排球專長班 依體育處另行公告之運動代表隊練習注意事項,限校隊選課",
+    "cap": 30,
+    "teacher": "潘定均",
+    "times": [
+      "六 / 13,14 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3233",
+    "code": "T9895",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－籃球專長班 依體育處另行公告之運動代表隊練習注意事項,限校隊選課",
+    "cap": 30,
+    "teacher": "陳建樺",
+    "times": [
+      "六 / 11,12 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3234",
+    "code": "T9897",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－跆拳道 體育館地下1樓武術室",
+    "cap": 50,
+    "teacher": "王元聖",
+    "times": [
+      "一 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3235",
+    "code": "T9897",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－跆拳道 體育館地下1樓武術室 ◇全英語授課",
+    "cap": 55,
+    "teacher": "王豐家",
+    "times": [
+      "四 / 1,2 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3236",
+    "code": "T9900",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－游泳專長班 依體育處另行公告之運動代表隊練習注意事項,限校隊選課 ◇全英語授課",
+    "cap": 30,
+    "teacher": "陳瑞辰",
+    "times": [
+      "六 / 13,14 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3237",
+    "code": "T9938",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "女生體育－羽球興趣班 體育館4樓羽球場",
+    "cap": 50,
+    "teacher": "林素婷",
+    "times": [
+      "三 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3238",
+    "code": "T9938",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "女生體育－羽球興趣班 體育館4樓羽球場",
+    "cap": 50,
+    "teacher": "林素婷",
+    "times": [
+      "三 / 9,10 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3239",
+    "code": "T9938",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "女生體育－羽球興趣班 體育館4樓羽球場",
+    "cap": 50,
+    "teacher": "林素婷",
+    "times": [
+      "四 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3240",
+    "code": "T9949",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "女生體育－軟式排球興趣班 體育館4樓排球場",
+    "cap": 50,
+    "teacher": "楊總成",
+    "times": [
+      "五 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3241",
+    "code": "U5001",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育-重量訓練 體育館SG323重訓室",
+    "cap": 50,
+    "teacher": "張弓弘",
+    "times": [
+      "二 / 9,10 / SG 323"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3242",
+    "code": "U5001",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育-重量訓練 體育館SG323重訓室",
+    "cap": 50,
+    "teacher": "張弓弘",
+    "times": [
+      "三 / 3,4 / SG 323"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3243",
+    "code": "U5001",
+    "major": null,
+    "term_order": "1",
+    "class": "G",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育-重量訓練 體育館SG323重訓室",
+    "cap": 50,
+    "teacher": "王元聖",
+    "times": [
+      "五 / 1,2 / SG 323"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3244",
+    "code": "U5008",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－水上活動游泳初級 游泳館S1",
+    "cap": 40,
+    "teacher": "陳瑞辰",
+    "times": [
+      "一 / 9,10 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3245",
+    "code": "U5008",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－水上活動游泳初級 游泳館S1",
+    "cap": 40,
+    "teacher": "陳瑞辰",
+    "times": [
+      "三 / 9,10 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3246",
+    "code": "U5008",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－水上活動游泳初級 游泳館S1 ◇全英語授課",
+    "cap": 50,
+    "teacher": "陳瑞辰",
+    "times": [
+      "五 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3247",
+    "code": "U5011",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－瑜伽興趣班 體育館SG246舞蹈室",
+    "cap": 60,
+    "teacher": "蔡忻林",
+    "times": [
+      "二 / 1,2 / SG 246"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3248",
+    "code": "U5011",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－瑜伽興趣班 體育館SG246舞蹈室",
+    "cap": 60,
+    "teacher": "蔡忻林",
+    "times": [
+      "二 / 3,4 / SG 246"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3249",
+    "code": "U5011",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－瑜伽興趣班 體育館SG246舞蹈室",
+    "cap": 60,
+    "teacher": "雷小娟",
+    "times": [
+      "二 / 7,8 / SG 246"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3250",
+    "code": "U5011",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－瑜伽興趣班 體育館SG246舞蹈室",
+    "cap": 60,
+    "teacher": "雷小娟",
+    "times": [
+      "二 / 9,10 / SG 246"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3251",
+    "code": "U5011",
+    "major": null,
+    "term_order": "1",
+    "class": "E",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－瑜伽興趣班 體育館SG246舞蹈室",
+    "cap": 60,
+    "teacher": "蔡忻林",
+    "times": [
+      "三 / 1,2 / SG 246"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3252",
+    "code": "U5011",
+    "major": null,
+    "term_order": "1",
+    "class": "F",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－瑜伽興趣班 體育館SG246舞蹈室",
+    "cap": 60,
+    "teacher": "蔡忻林",
+    "times": [
+      "三 / 3,4 / SG 246"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3253",
+    "code": "U5011",
+    "major": null,
+    "term_order": "1",
+    "class": "G",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－瑜伽興趣班 體育館SG246舞蹈室",
+    "cap": 60,
+    "teacher": "蔡忻林",
+    "times": [
+      "四 / 1,2 / SG 246"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3254",
+    "code": "U5026",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－適應體育班 體育館SG323重訓室,須提醫生證明",
+    "cap": "",
+    "teacher": "李欣靜,王豐家",
+    "times": [
+      "一 / 7,8 / SG 323"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3255",
+    "code": "U5026",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－適應體育班 體育館SG323重訓室,須提醫生證明 ◇全英語授課",
+    "cap": "",
+    "teacher": "黃嘉笙,林子文",
+    "times": [
+      "四 / 11,12 / SG 323"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3256",
+    "code": "U5026",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－適應體育班 體育館SG323重訓室,須提醫生證明",
+    "cap": "",
+    "teacher": "陳文和,吳采陵",
+    "times": [
+      "五 / 7,8 / SG 323"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3257",
+    "code": "U5028",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育專業知能服務－跆拳道 依體育處另行公告之運動代表隊練習注意事項,限校隊選課",
+    "cap": 30,
+    "teacher": "王元聖",
+    "times": [
+      "六 / 11,12 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3258",
+    "code": "U5032",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－木球興趣班 操場,雨備體育館地下1樓武術室 ◇全英語授課",
+    "cap": 50,
+    "teacher": "王豐家",
+    "times": [
+      "三 / 9,10 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3259",
+    "code": "U5034",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－舞蹈興趣班 體育館SG246舞蹈室 ◇全英語授課",
+    "cap": 60,
+    "teacher": "林子文",
+    "times": [
+      "五 / 7,8 / SG 246"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3260",
+    "code": "U5045",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－軟式網球興趣班 網球場,雨備第1周體育館地下1樓武術室,其他周次SG245",
+    "cap": 45,
+    "teacher": "趙曉雯",
+    "times": [
+      "二 / 9,10 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3261",
+    "code": "U5045",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－軟式網球興趣班 網球場,雨備SG245",
+    "cap": 45,
+    "teacher": "陳凱智",
+    "times": [
+      "三 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3262",
+    "code": "U5045",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－軟式網球興趣班 網球場,雨備第1周游泳館N201,其他周次SG245",
+    "cap": 45,
+    "teacher": "陳凱智",
+    "times": [
+      "四 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3263",
+    "code": "U5045",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－軟式網球興趣班 網球場,雨備游泳館N204 ◇全英語授課",
+    "cap": 50,
+    "teacher": "陳凱智",
+    "times": [
+      "五 / 9,10 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3264",
+    "code": "U5046",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－彼拉提斯興趣班 游泳館N204",
+    "cap": 30,
+    "teacher": "郭馥滋",
+    "times": [
+      "四 / 3,4 / N 204"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3265",
+    "code": "U5046",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－彼拉提斯興趣班 體育館SG246舞蹈室",
+    "cap": 60,
+    "teacher": "郭馥滋",
+    "times": [
+      "四 / 7,8 / SG 246"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3266",
+    "code": "U5047",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－擊劍專長班 依體育處另行公告之運動代表隊練習注意事項,限校隊選課 ◇全英語授課",
+    "cap": 30,
+    "teacher": "王順民",
+    "times": [
+      "六 / 13,14 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3267",
+    "code": "U5048",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－撞球專長班 依體育處另行公告之運動代表隊練習注意事項,限校隊選課",
+    "cap": 30,
+    "teacher": "張郁洵",
+    "times": [
+      "六 / 13,14 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3268",
+    "code": "U5049",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－空手道專長班 依體育處另行公告之運動代表隊練習注意事項,限校隊選課",
+    "cap": 30,
+    "teacher": "高程輝",
+    "times": [
+      "六 / 13,14 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3269",
+    "code": "U5050",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－足球專長班 依體育處另行公告之運動代表隊練習注意事項,限校隊選課",
+    "cap": 30,
+    "teacher": "李定隆",
+    "times": [
+      "六 / 13,14 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3270",
+    "code": "U5051",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－棒、壘球專長班 依體育處另行公告之運動代表隊練習注意事項,限校隊選課",
+    "cap": 30,
+    "teacher": "謝豐宇",
+    "times": [
+      "六 / 13,14 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3271",
+    "code": "U5052",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－籃球裁判興趣班 體育館7樓籃球場",
+    "cap": 50,
+    "teacher": "張弓弘",
+    "times": [
+      "二 / 7,8 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3272",
+    "code": "U5053",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－匹克球興趣班 活動中心",
+    "cap": 40,
+    "teacher": "鄭俊傑",
+    "times": [
+      "三 / 1,2 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3273",
+    "code": "U5053",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－匹克球興趣班 活動中心 ◇全英語授課",
+    "cap": 45,
+    "teacher": "趙曉雯",
+    "times": [
+      "四 / 3,4 /"
+    ]
+  },
+  {
+    "source": "B05.htm",
+    "dept_block": "TGUPB.體育興趣選項－日 PE BY INTEREST",
+    "grade": "2",
+    "seq": "3274",
+    "code": "U5053",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "男、女生體育－匹克球興趣班 活動中心",
+    "cap": 40,
+    "teacher": "陳凱智",
+    "times": [
+      "三 / 3,4 /"
     ]
   },
   {
@@ -18401,26 +20880,6 @@
     "teacher": "周文祺",
     "times": [
       "四 / 2,3,4 / P 104"
-    ]
-  },
-  {
-    "source": "C03.htm",
-    "dept_block": "TGSXM.理學院共同科－碩 ELECTIVES COURSES BY COLLEGE OF SCIENCE-MASTER",
-    "grade": "0",
-    "seq": "8248",
-    "code": "S1004",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "研究方法與學術倫理",
-    "cap": "",
-    "teacher": "鄭堯",
-    "times": [
-      "五 / 9,10 / C 423"
     ]
   },
   {
@@ -21361,7 +23820,7 @@
     "required": "選",
     "credits": 1,
     "group": "",
-    "title": "全民國防教育軍事訓練（二）－防衛動員 限全英班，全民國防教育軍事訓練(二)選修課程不列入畢業學分數。",
+    "title": "全民國防教育軍事訓練（二）－防衛動員 限全英班，全民國防教育軍事訓練(二)選修課程不列入畢業學分數。 ◇全英語授課",
     "cap": 70,
     "teacher": "翁明賢",
     "times": [
@@ -21561,8 +24020,8 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "國際學習 資工系全英班2年級、英文系全英班2年級優先選課。 ◇講座課程◇全英語授課",
-    "cap": 175,
+    "title": "國際學習 資工系全英班2年級、企管系全英班2年級、英文系全英班2年級優先選課。 ◇講座課程◇全英語授課",
+    "cap": 10,
     "teacher": "莊琇惠",
     "times": [
       "五 / 6,7 / T 212"
@@ -21582,7 +24041,7 @@
     "credits": 2,
     "group": "",
     "title": "國際學習 觀光系、政經系全英班2年級優先選課。 ◇講座課程◇全英語授課",
-    "cap": 175,
+    "cap": 10,
     "teacher": "葉劍木",
     "times": [
       "二 / 9,10 / Q 306"
@@ -22310,26 +24769,6 @@
   },
   {
     "source": "E01.htm",
-    "dept_block": "TDTXB.教科系（日） DEPARTMENT OF EDUCATIONAL TECHNOLOGY",
-    "grade": "1",
-    "seq": "0298",
-    "code": "T0145",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 3,
-    "group": "",
-    "title": "教育心理學 限本系生 ◇遠距非同步課程",
-    "cap": 65,
-    "teacher": "何俐安",
-    "times": [
-      "一 / 6,7,8 / L 110"
-    ]
-  },
-  {
-    "source": "E01.htm",
     "dept_block": "TDTXM.教科系碩士班 MASTER’S PROGRAM, DEPARTMENT OF EDUCATIONAL TECHNOLOGY",
     "grade": "1",
     "seq": "8067",
@@ -23017,6 +25456,46 @@
     "source": "E01.htm",
     "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
     "grade": "1",
+    "seq": "1743",
+    "code": "B0302",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "經濟學 ◇遠距非同步課程",
+    "cap": 80,
+    "teacher": "林朕陞",
+    "times": [
+      "一 / 6,7 / B 613"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "1",
+    "seq": null,
+    "code": "B0302",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": "",
+    "group": "",
+    "title": "經濟學",
+    "cap": 80,
+    "teacher": "助教",
+    "times": [
+      "一 / 2 / B 607"
+    ]
+  },
+  {
+    "source": "E01.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "1",
     "seq": "1745",
     "code": "B0302",
     "major": null,
@@ -23091,166 +25570,6 @@
     "teacher": "助教",
     "times": [
       "二 / 5 / B 504"
-    ]
-  },
-  {
-    "source": "E01.htm",
-    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
-    "grade": "1",
-    "seq": "1747",
-    "code": "E4346",
-    "major": null,
-    "term_order": "1",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "數位科技與ＡＩ應用 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇遠距非同步課程",
-    "cap": 70,
-    "teacher": "李正冬",
-    "times": [
-      "一 / 8,9 / B 603"
-    ]
-  },
-  {
-    "source": "E01.htm",
-    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
-    "grade": "1",
-    "seq": null,
-    "code": "E4346",
-    "major": null,
-    "term_order": "1",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": "",
-    "group": "",
-    "title": "數位科技與ＡＩ應用 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 70,
-    "teacher": "助教",
-    "times": [
-      "四 / 5 / B 204"
-    ]
-  },
-  {
-    "source": "E01.htm",
-    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
-    "grade": "1",
-    "seq": "1748",
-    "code": "E4346",
-    "major": null,
-    "term_order": "1",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "數位科技與ＡＩ應用 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇遠距非同步課程",
-    "cap": 70,
-    "teacher": "李正冬",
-    "times": [
-      "一 / 8,9 / B 603"
-    ]
-  },
-  {
-    "source": "E01.htm",
-    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
-    "grade": "1",
-    "seq": null,
-    "code": "E4346",
-    "major": null,
-    "term_order": "1",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": "",
-    "group": "",
-    "title": "數位科技與ＡＩ應用 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 70,
-    "teacher": "助教",
-    "times": [
-      "一 / 2 / B 217"
-    ]
-  },
-  {
-    "source": "E01.htm",
-    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
-    "grade": "1",
-    "seq": "1749",
-    "code": "E4346",
-    "major": null,
-    "term_order": "1",
-    "class": "C",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "數位科技與ＡＩ應用 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇遠距非同步課程",
-    "cap": 70,
-    "teacher": "尹亮",
-    "times": [
-      "一 / 6,7 / B 515"
-    ]
-  },
-  {
-    "source": "E01.htm",
-    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
-    "grade": "1",
-    "seq": null,
-    "code": "E4346",
-    "major": null,
-    "term_order": "1",
-    "class": "C",
-    "group_div": null,
-    "required": "必",
-    "credits": "",
-    "group": "",
-    "title": "數位科技與ＡＩ應用 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 70,
-    "teacher": "助教",
-    "times": [
-      "二 / 5 / B 217"
-    ]
-  },
-  {
-    "source": "E01.htm",
-    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
-    "grade": "1",
-    "seq": "1750",
-    "code": "E4346",
-    "major": null,
-    "term_order": "1",
-    "class": "D",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "數位科技與ＡＩ應用 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇遠距非同步課程",
-    "cap": 70,
-    "teacher": "尹亮",
-    "times": [
-      "一 / 6,7 / B 515"
-    ]
-  },
-  {
-    "source": "E01.htm",
-    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
-    "grade": "1",
-    "seq": null,
-    "code": "E4346",
-    "major": null,
-    "term_order": "1",
-    "class": "D",
-    "group_div": null,
-    "required": "必",
-    "credits": "",
-    "group": "",
-    "title": "數位科技與ＡＩ應用 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 70,
-    "teacher": "助教",
-    "times": [
-      "一 / 2 / B 216"
     ]
   },
   {
@@ -32586,9 +34905,9 @@
     "group": "",
     "title": "英文翻譯 A2,限本系大四生 ◇雙語授課(中文/英文)",
     "cap": 25,
-    "teacher": "陳佩筠",
+    "teacher": "郭家珍",
     "times": [
-      "四 / 6,7 / H 117"
+      "二 / 3,4 / T 604"
     ]
   },
   {
@@ -32646,9 +34965,9 @@
     "group": "",
     "title": "英文翻譯 C1,限本系大四生 ◇雙語授課(中文/英文)",
     "cap": 25,
-    "teacher": "郭家珍",
+    "teacher": "陳佩筠",
     "times": [
-      "二 / 3,4 / T 604"
+      "四 / 6,7 / H 117"
     ]
   },
   {
@@ -32766,7 +35085,7 @@
     "group": "",
     "title": "翻譯與文化 ◇雙語授課(中文/英文)",
     "cap": 50,
-    "teacher": "蔡瑞敏",
+    "teacher": "齊嵩齡",
     "times": [
       "二 / 9,10 / T 606"
     ]
@@ -36309,7 +38628,7 @@
     "required": "選",
     "credits": 3,
     "group": "",
-    "title": "循環經濟學 ◇專業知能服務學習課程",
+    "title": "循環經濟學 本課程為密集授課 ◇專業知能服務學習課程",
     "cap": "",
     "teacher": "林彥伶",
     "times": [
@@ -38767,6 +41086,26 @@
     "source": "TAHXB.htm",
     "dept_block": "TAHXB.歷史系（日） DEPARTMENT OF HISTORY",
     "grade": "2",
+    "seq": "0000",
+    "code": "A0117",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "FA",
+    "title": "中國史學史",
+    "cap": 85,
+    "teacher": "高上雯",
+    "times": [
+      "三 / 1,2 / L 407"
+    ]
+  },
+  {
+    "source": "TAHXB.htm",
+    "dept_block": "TAHXB.歷史系（日） DEPARTMENT OF HISTORY",
+    "grade": "2",
     "seq": "0109",
     "code": "A0281",
     "major": null,
@@ -38780,7 +41119,7 @@
     "cap": 85,
     "teacher": "陳琮淵",
     "times": [
-      "四 / 8,9 / L 307"
+      "四 / 1,2 / L 301"
     ]
   },
   {
@@ -38946,26 +41285,6 @@
   {
     "source": "TAHXB.htm",
     "dept_block": "TAHXB.歷史系（日） DEPARTMENT OF HISTORY",
-    "grade": "2",
-    "seq": "0119",
-    "code": "M0031",
-    "major": null,
-    "term_order": "1",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "中國經濟史",
-    "cap": 90,
-    "teacher": "李如鈞",
-    "times": [
-      "二 / 9,10 / L 301"
-    ]
-  },
-  {
-    "source": "TAHXB.htm",
-    "dept_block": "TAHXB.歷史系（日） DEPARTMENT OF HISTORY",
     "grade": "3",
     "seq": "0120",
     "code": "A0478",
@@ -39000,7 +41319,7 @@
     "cap": 175,
     "teacher": "蔡育潞",
     "times": [
-      "四 / 8,9 / L 412"
+      "五 / 8,9 / L 301"
     ]
   },
   {
@@ -39080,7 +41399,7 @@
     "cap": 85,
     "teacher": "蔡育潞",
     "times": [
-      "五 / 8,9 / L 212"
+      "四 / 6,7 / L 413"
     ]
   },
   {
@@ -39301,7 +41620,7 @@
     "cap": "",
     "teacher": "林煌達",
     "times": [
-      "三 / 9,10 / L 510"
+      "一 / 1,2 / L 510"
     ]
   },
   {
@@ -42291,6 +44610,26 @@
     "teacher": "顧大維",
     "times": [
       "三 / 3,4 / L 203"
+    ]
+  },
+  {
+    "source": "TDTXB.htm",
+    "dept_block": "TDTXB.教科系（日） DEPARTMENT OF EDUCATIONAL TECHNOLOGY",
+    "grade": "1",
+    "seq": "0298",
+    "code": "T0145",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "教育心理學 限本系生",
+    "cap": 65,
+    "teacher": "何俐安",
+    "times": [
+      "一 / 6,7,8 / L 110"
     ]
   },
   {
@@ -65747,7 +68086,7 @@
     "teacher": "劉皇杏",
     "times": [
       "二 / 1,2 / T 808",
-      "三 / 3,4 / L 407"
+      "三 / 3,4 / T 506"
     ]
   },
   {
@@ -68145,26 +70484,6 @@
     "source": "TLAXB.htm",
     "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
     "grade": "1",
-    "seq": "1743",
-    "code": "B0302",
-    "major": null,
-    "term_order": "1",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "經濟學",
-    "cap": 80,
-    "teacher": "林朕陞",
-    "times": [
-      "一 / 6,7 / B 613"
-    ]
-  },
-  {
-    "source": "TLAXB.htm",
-    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
-    "grade": "1",
     "seq": null,
     "code": "B0302",
     "major": null,
@@ -68265,6 +70584,26 @@
     "source": "TLAXB.htm",
     "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
     "grade": "1",
+    "seq": "1747",
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
+    "cap": 70,
+    "teacher": "李正冬",
+    "times": [
+      "一 / 8,9 / B 603"
+    ]
+  },
+  {
+    "source": "TLAXB.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "1",
     "seq": null,
     "code": "E4346",
     "major": null,
@@ -68279,6 +70618,26 @@
     "teacher": "助教",
     "times": [
       "四 / 5 / B 204"
+    ]
+  },
+  {
+    "source": "TLAXB.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "1",
+    "seq": "1748",
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
+    "cap": 70,
+    "teacher": "李正冬",
+    "times": [
+      "一 / 8,9 / B 603"
     ]
   },
   {
@@ -68305,6 +70664,26 @@
     "source": "TLAXB.htm",
     "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
     "grade": "1",
+    "seq": "1749",
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
+    "cap": 70,
+    "teacher": "尹亮",
+    "times": [
+      "一 / 6,7 / B 515"
+    ]
+  },
+  {
+    "source": "TLAXB.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "1",
     "seq": null,
     "code": "E4346",
     "major": null,
@@ -68319,6 +70698,26 @@
     "teacher": "助教",
     "times": [
       "二 / 5 / B 217"
+    ]
+  },
+  {
+    "source": "TLAXB.htm",
+    "dept_block": "TLAXB.會計系（日） DEPARTMENT OF ACCOUNTING",
+    "grade": "1",
+    "seq": "1750",
+    "code": "E4346",
+    "major": null,
+    "term_order": "1",
+    "class": "D",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "數位科技與ＡＩ應用 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
+    "cap": 70,
+    "teacher": "尹亮",
+    "times": [
+      "一 / 6,7 / B 515"
     ]
   },
   {
@@ -80458,7 +82857,7 @@
     "credits": 2,
     "group": "",
     "title": "企業資料分析技巧",
-    "cap": 110,
+    "cap": 54,
     "teacher": "胡大謙",
     "times": [
       "五 / 3,4 / B 206"
@@ -91300,7 +93699,7 @@
     "group": "",
     "title": "長期照護機構與管理 ◇雙語授課(中文/英文)",
     "cap": "",
-    "teacher": "吳承恩",
+    "teacher": "新／待聘",
     "times": [
       "四 / 6,7,8 / CL 506"
     ]
@@ -91540,7 +93939,7 @@
     "group": "",
     "title": "長期照護機構與管理 ◇雙語授課(中文/英文)",
     "cap": "",
-    "teacher": "吳承恩",
+    "teacher": "新／待聘",
     "times": [
       "四 / 6,7,8 / CL 506"
     ]
