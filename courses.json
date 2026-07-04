@@ -40963,6 +40963,26 @@
     ]
   },
   {
+    "source": "TAHAF.htm",
+    "dept_block": "TAHAF.歷史系－３０＋ DEPARTMENT OF HISTORY-30+",
+    "grade": "2",
+    "seq": "0135",
+    "code": "A3726",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 3,
+    "group": "",
+    "title": "臺灣宗教文化觀光遊程 台北校園上課。第三人生大學:特色文化旅遊與智慧遊憩規劃學分學程",
+    "cap": 30,
+    "teacher": "林煌達",
+    "times": [
+      "二 / 6,7,8 / D 312"
+    ]
+  },
+  {
     "source": "TAHXB.htm",
     "dept_block": "TAHXB.歷史系（日） DEPARTMENT OF HISTORY",
     "grade": "1",
@@ -41086,7 +41106,7 @@
     "source": "TAHXB.htm",
     "dept_block": "TAHXB.歷史系（日） DEPARTMENT OF HISTORY",
     "grade": "2",
-    "seq": "0000",
+    "seq": "3275",
     "code": "A0117",
     "major": null,
     "term_order": "1",
@@ -41246,6 +41266,26 @@
     "source": "TAHXB.htm",
     "dept_block": "TAHXB.歷史系（日） DEPARTMENT OF HISTORY",
     "grade": "2",
+    "seq": "3276",
+    "code": "A3610",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "歷史人口學與資料視覺化",
+    "cap": 70,
+    "teacher": "林嘉琪",
+    "times": [
+      "五 / 6,7 /"
+    ]
+  },
+  {
+    "source": "TAHXB.htm",
+    "dept_block": "TAHXB.歷史系（日） DEPARTMENT OF HISTORY",
+    "grade": "2",
     "seq": "0117",
     "code": "A3611",
     "major": null,
@@ -41385,6 +41425,26 @@
   {
     "source": "TAHXB.htm",
     "dept_block": "TAHXB.歷史系（日） DEPARTMENT OF HISTORY",
+    "grade": "3",
+    "seq": "3277",
+    "code": "A3132",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "紀傳書寫",
+    "cap": 25,
+    "teacher": "高上雯",
+    "times": [
+      "五 / 6,7 / L 206"
+    ]
+  },
+  {
+    "source": "TAHXB.htm",
+    "dept_block": "TAHXB.歷史系（日） DEPARTMENT OF HISTORY",
     "grade": "4",
     "seq": "0128",
     "code": "A0830",
@@ -41466,6 +41526,26 @@
     "source": "TAHXB.htm",
     "dept_block": "TAHXB.歷史系（日） DEPARTMENT OF HISTORY",
     "grade": "4",
+    "seq": "3278",
+    "code": "A3120",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "中國醫學史",
+    "cap": 85,
+    "teacher": "蔡忠志",
+    "times": [
+      "二 / 9,10 /"
+    ]
+  },
+  {
+    "source": "TAHXB.htm",
+    "dept_block": "TAHXB.歷史系（日） DEPARTMENT OF HISTORY",
+    "grade": "4",
     "seq": "0133",
     "code": "T2170",
     "major": null,
@@ -41481,26 +41561,6 @@
     "times": [
       "三 / 2 / L 306",
       "四 / 1,2 / L 413"
-    ]
-  },
-  {
-    "source": "TAHXF.htm",
-    "dept_block": "TAHXF.歷史系－第三人生 DEPARTMENT OF HISTORY-THIRD AGE",
-    "grade": "2",
-    "seq": "0135",
-    "code": "A3726",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "臺灣宗教文化觀光遊程 台北校園上課。第三人生大學:特色文化旅遊與智慧遊憩規劃學分學程",
-    "cap": 30,
-    "teacher": "林煌達",
-    "times": [
-      "二 / 6,7,8 / D 312"
     ]
   },
   {
