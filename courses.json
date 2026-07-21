@@ -2072,7 +2072,7 @@
     "required": "必",
     "credits": 2,
     "group": "P",
-    "title": "台灣歷史采風與踏查 ◇遠距非同步課程",
+    "title": "台灣歷史采風與踏查",
     "cap": 69,
     "teacher": "陳世芳",
     "times": [
@@ -2292,7 +2292,7 @@
     "required": "必",
     "credits": 2,
     "group": "P",
-    "title": "台灣歷史采風與踏查 淡水校園上課",
+    "title": "台灣歷史采風與踏查 ◇遠距非同步課程",
     "cap": 80,
     "teacher": "陳琮淵",
     "times": [
@@ -2312,7 +2312,7 @@
     "required": "必",
     "credits": 2,
     "group": "QG",
-    "title": "英文（二） 限全英語專班學生，大二不可換班。大一不可換班，需繳語言實習費。網頁資訊:https://reurl.cc/GgkXDy ◇全英語授課",
+    "title": "英文（二） 限全英語專班學生，大二不可換班。網頁資訊:https://reurl.cc/GgkXDy ◇全英語授課",
     "cap": 70,
     "teacher": "馬天樂",
     "times": [
@@ -2852,7 +2852,7 @@
     "required": "必",
     "credits": 2,
     "group": "QG",
-    "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【學術英語】",
+    "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【飲食與文化英語】",
     "cap": 65,
     "teacher": "林嘉鴻",
     "times": [
@@ -10494,7 +10494,7 @@
     "group": "W",
     "title": "人權與社會正義 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
     "cap": 69,
-    "teacher": "",
+    "teacher": "待聘",
     "times": [
       "一 / 3,4 / SG 319"
     ]
@@ -10514,7 +10514,7 @@
     "group": "W",
     "title": "人權與社會正義 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
     "cap": 69,
-    "teacher": "",
+    "teacher": "待聘",
     "times": [
       "三 / 1,2 / E 310"
     ]
@@ -10534,7 +10534,7 @@
     "group": "W",
     "title": "人權與社會正義 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
     "cap": 69,
-    "teacher": "",
+    "teacher": "待聘",
     "times": [
       "三 / 9,10 / E 409"
     ]
@@ -10734,7 +10734,7 @@
     "group": "W",
     "title": "政治學概論",
     "cap": 69,
-    "teacher": "",
+    "teacher": "待聘",
     "times": [
       "二 / 1,2 / E 405"
     ]
@@ -10754,7 +10754,7 @@
     "group": "W",
     "title": "政治學概論",
     "cap": 69,
-    "teacher": "",
+    "teacher": "待聘",
     "times": [
       "二 / 5,6 / E 312"
     ]
@@ -19874,7 +19874,7 @@
     "required": "選",
     "credits": 3,
     "group": "",
-    "title": "人工智慧倫理 ◇講座課程",
+    "title": "人工智慧倫理 ◇講座課程◇以實整虛課程",
     "cap": 70,
     "teacher": "林嘉琪",
     "times": [
@@ -20435,7 +20435,7 @@
     "credits": 2,
     "group": "A",
     "title": "設計AI職場力 榮譽學程進階專業課程，限符合資格者修習",
-    "cap": 50,
+    "cap": "",
     "teacher": "張嘉玲",
     "times": [
       "三 / 3,4 / L 304"
@@ -22703,26 +22703,6 @@
     "teacher": "蔡永澄",
     "times": [
       "二 / 3,4 / B 616"
-    ]
-  },
-  {
-    "source": "C05.htm",
-    "dept_block": "TGLXB.商管學院共同科日 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT",
-    "grade": "0",
-    "seq": "1632",
-    "code": "M2678",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "環境與經濟",
-    "cap": 120,
-    "teacher": "洪景彬",
-    "times": [
-      "五 / 8,9,10 / B 512"
     ]
   },
   {
@@ -25284,7 +25264,7 @@
     "required": "必",
     "credits": 2,
     "group": "",
-    "title": "法語會話（三） ◇跨國遠距◇雙語授課(中文/法文)",
+    "title": "法語會話（三） ◇跨國遠距◇全法語授課",
     "cap": 18,
     "teacher": "陳瑋靜",
     "times": [
@@ -63998,7 +63978,7 @@
     "credits": 2,
     "group": "",
     "title": "中級日語語法 限本系生、雙主修生、輔系生",
-    "cap": 85,
+    "cap": 150,
     "teacher": "江雯薰",
     "times": [
       "二 / 3,4 / T 311"
@@ -64018,7 +63998,7 @@
     "credits": 2,
     "group": "",
     "title": "中級日語語法 限本系生、雙主修生、輔系生",
-    "cap": 85,
+    "cap": 150,
     "teacher": "菊島和紀",
     "times": [
       "四 / 8,9 / T 310"
@@ -86639,7 +86619,7 @@
     "cap": 90,
     "teacher": "鍾智林",
     "times": [
-      "一 / 1 / B 427",
+      "一 / 6 / B 614",
       "五 / 3,4 / B 503"
     ]
   },
@@ -86660,7 +86640,7 @@
     "cap": 90,
     "teacher": "鍾智林",
     "times": [
-      "一 / 2 / B 427",
+      "一 / 5 / B 614",
       "五 / 5,6 / B 503"
     ]
   },
@@ -87264,13 +87244,13 @@
     "class": "P",
     "group_div": null,
     "required": "選",
-    "credits": 3,
+    "credits": 2,
     "group": "",
     "title": "運輸數位轉型",
     "cap": 80,
     "teacher": "樓軒宇",
     "times": [
-      "三 / 8,9,10 / B 110"
+      "三 / 8,9 / B 110"
     ]
   },
   {
