@@ -24947,7 +24947,7 @@
     "cap": "",
     "teacher": "顏淑惠",
     "times": [
-      "二 / 2,3,4 / E 826"
+      "二 / 2,3,4 / E 512"
     ]
   },
   {
@@ -54716,26 +54716,6 @@
     "source": "TENXB.htm",
     "dept_block": "TENXB.航太系（日） DEPARTMENT OF AEROSPACE ENGINEERING",
     "grade": "2",
-    "seq": "0752",
-    "code": "E3482",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "基礎航行學",
-    "cap": 150,
-    "teacher": "葉紘維",
-    "times": [
-      "五 / 8,9 / E 309"
-    ]
-  },
-  {
-    "source": "TENXB.htm",
-    "dept_block": "TENXB.航太系（日） DEPARTMENT OF AEROSPACE ENGINEERING",
-    "grade": "2",
     "seq": "0753",
     "code": "M0442",
     "major": null,
@@ -55124,26 +55104,6 @@
     "source": "TENXB.htm",
     "dept_block": "TENXB.航太系（日） DEPARTMENT OF AEROSPACE ENGINEERING",
     "grade": "4",
-    "seq": "0772",
-    "code": "E0187",
-    "major": null,
-    "term_order": "0",
-    "class": "P",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "系統工程",
-    "cap": 80,
-    "teacher": "沈坤耀",
-    "times": [
-      "五 / 6,7 / E 413"
-    ]
-  },
-  {
-    "source": "TENXB.htm",
-    "dept_block": "TENXB.航太系（日） DEPARTMENT OF AEROSPACE ENGINEERING",
-    "grade": "4",
     "seq": "0773",
     "code": "E0363",
     "major": null,
@@ -55301,6 +55261,26 @@
     "teacher": "王怡仁",
     "times": [
       "三 / 6,7 / E 308"
+    ]
+  },
+  {
+    "source": "TENXB.htm",
+    "dept_block": "TENXB.航太系（日） DEPARTMENT OF AEROSPACE ENGINEERING",
+    "grade": "4",
+    "seq": "0752",
+    "code": "E3482",
+    "major": null,
+    "term_order": "0",
+    "class": "P",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "基礎航行學",
+    "cap": 150,
+    "teacher": "葉紘維",
+    "times": [
+      "二 / 1,2 / E 404"
     ]
   },
   {
@@ -56323,6 +56303,27 @@
     "teacher": "助教",
     "times": [
       "四 / 6 / E 231"
+    ]
+  },
+  {
+    "source": "TETDB.htm",
+    "dept_block": "TETDB.電機系電資（日） DIVISION OF ELECTRONICS AND INFORMATION ENGINEERING, DEPARTMENT OF ELECTRICAL AND COMPUTER ENGINEERING",
+    "grade": "2",
+    "seq": "0772",
+    "code": "E0632",
+    "major": null,
+    "term_order": "0",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "微處理機概論",
+    "cap": 75,
+    "teacher": "莊博任",
+    "times": [
+      "二 / 1,2 / E 214",
+      "三 / 7 / E 236"
     ]
   },
   {
@@ -58328,7 +58329,7 @@
     "cap": 160,
     "teacher": "丘建青",
     "times": [
-      "二 / 4 / E 512",
+      "二 / 4 / E 813",
       "四 / 1,2 / E 305"
     ]
   },
@@ -58574,7 +58575,7 @@
     "cap": 70,
     "teacher": "何政昌",
     "times": [
-      "二 / 1,2 / E 512",
+      "二 / 1,2 / E 509",
       "三 / 3 / E 231"
     ]
   },
@@ -70756,7 +70757,7 @@
     "cap": 70,
     "teacher": "助教",
     "times": [
-      "一 / 2 / B 217"
+      "二 / 5 / B 217"
     ]
   },
   {
@@ -70796,7 +70797,7 @@
     "cap": 70,
     "teacher": "助教",
     "times": [
-      "二 / 5 / B 217"
+      "一 / 2 / B 217"
     ]
   },
   {
@@ -77502,7 +77503,7 @@
     "group": "",
     "title": "數位科技與ＡＩ應用 通識教育跨領域微學程課程，大學部學生均可選修(台北校園上課)",
     "cap": 35,
-    "teacher": "謝政呂",
+    "teacher": "廖崇硯",
     "times": [
       "四 / 13,14 / D 304"
     ]
@@ -78125,8 +78126,8 @@
     "cap": "",
     "teacher": "趙慕芬,李雅婷",
     "times": [
-      "四 / 6 / L 408",
-      "四 / 7,8 / L 408"
+      "四 / 6 / Q 203",
+      "四 / 7,8 / Q 203"
     ]
   },
   {
@@ -88594,9 +88595,10 @@
     "group": "",
     "title": "中共對台政策與組織人事分析",
     "cap": "",
-    "teacher": "洪耀南",
+    "teacher": "洪耀南,待聘兼任",
     "times": [
-      "二 / 8,9 / T 903"
+      "二 / 8 / T 903",
+      "二 / 9 / T 903"
     ]
   },
   {
@@ -90898,7 +90900,7 @@
     "cap": "",
     "teacher": "李世元",
     "times": [
-      "二 / 2,3,4 / Q 408"
+      "二 / 2,3,4 / O 502"
     ]
   },
   {
