@@ -10956,7 +10956,7 @@
     "cap": 75,
     "teacher": "邱惟真",
     "times": [
-      "三 / 6,7 / E 302"
+      "四 / 5,6 / E 302"
     ]
   },
   {
@@ -20437,7 +20437,7 @@
     "cap": "",
     "teacher": "張嘉玲",
     "times": [
-      "三 / 3,4 / L 304"
+      "三 / 3,4 / B 206"
     ]
   },
   {
@@ -22639,7 +22639,7 @@
     "group": "",
     "title": "管理個案研討",
     "cap": 120,
-    "teacher": "",
+    "teacher": "李朝緯",
     "times": [
       "五 / 7,8 / B 503"
     ]
@@ -26894,7 +26894,7 @@
     "cap": "",
     "teacher": "",
     "times": [
-      "二 / 6 / E 820"
+      "三 / 8 / E 510"
     ]
   },
   {
@@ -27719,26 +27719,6 @@
     "source": "F01.htm",
     "dept_block": "TEWXD.水環系博士班 DOCTORAL PROGRAM, DEPARTMENT OF WATER RESOURCES AND ENVIRONMENTAL ENGINEERING",
     "grade": "1",
-    "seq": "9039",
-    "code": "E4435",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "半導體廢水處理及水回收特論 ◇全英語授課",
-    "cap": 30,
-    "teacher": "李奇旺",
-    "times": [
-      "一 / 2,3,4 / E 812"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TEWXD.水環系博士班 DOCTORAL PROGRAM, DEPARTMENT OF WATER RESOURCES AND ENVIRONMENTAL ENGINEERING",
-    "grade": "1",
     "seq": "9040",
     "code": "E4540",
     "major": null,
@@ -27773,26 +27753,6 @@
     "teacher": "李奇旺",
     "times": [
       "四 / 2,3,4 / E 820"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TEWXD.水環系博士班 DOCTORAL PROGRAM, DEPARTMENT OF WATER RESOURCES AND ENVIRONMENTAL ENGINEERING",
-    "grade": "1",
-    "seq": "9042",
-    "code": "E4542",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "半導體含氟廢水循環利用與資源化特論 ◇全英語授課",
-    "cap": 30,
-    "teacher": "李奇旺",
-    "times": [
-      "二 / 7,8,9 / E 827"
     ]
   },
   {
@@ -37464,7 +37424,7 @@
     "cap": "",
     "teacher": "邱惟真",
     "times": [
-      "五 / 3,4 / C 423"
+      "四 / 3,4 / C 423"
     ]
   },
   {
@@ -39175,7 +39135,7 @@
     "cap": 70,
     "teacher": "牛惠曼",
     "times": [
-      "二 / 8,9 / B 120",
+      "二 / 8,9 / B 130",
       "二 / 10 / B 130"
     ]
   },
@@ -40413,7 +40373,7 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "編輯與出版",
+    "title": "編輯與出版 淡江大學智慧人文實務創新學分學程",
     "cap": 60,
     "teacher": "陳進貴",
     "times": [
@@ -40433,7 +40393,7 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "文學療癒與敘事",
+    "title": "文學療癒與敘事 淡江大學智慧人文實務創新學分學程",
     "cap": 85,
     "teacher": "林偉淑",
     "times": [
@@ -41199,7 +41159,7 @@
     "cap": 70,
     "teacher": "林嘉琪",
     "times": [
-      "五 / 6,7 / Q 202"
+      "五 / 1,2 /"
     ]
   },
   {
@@ -61366,26 +61326,6 @@
     "teacher": "簡義杰",
     "times": [
       "五 / 6,7 / E 813"
-    ]
-  },
-  {
-    "source": "TEWXB.htm",
-    "dept_block": "TEWXB.水環系（日） DEPARTMENT OF WATER RESOURCES AND ENVIRONMENTAL ENGINEERING",
-    "grade": "3",
-    "seq": "0959",
-    "code": "E3359",
-    "major": "A",
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "水利工程應用軟體 原「水資源工程組」",
-    "cap": 80,
-    "teacher": "洪毓茹",
-    "times": [
-      "三 / 9,10 / E 214"
     ]
   },
   {
@@ -87531,7 +87471,7 @@
     "cap": 70,
     "teacher": "林彥伶",
     "times": [
-      "一 / 2,3 / B 508"
+      "一 / 6,7 / B 601"
     ]
   },
   {
@@ -87551,7 +87491,7 @@
     "cap": 70,
     "teacher": "助教",
     "times": [
-      "一 / 8 / B 704"
+      "一 / 3 / B 508"
     ]
   },
   {
@@ -87631,7 +87571,7 @@
     "cap": 70,
     "teacher": "林彥伶",
     "times": [
-      "一 / 4 / B 508"
+      "一 / 8 / B 601"
     ]
   },
   {
@@ -87731,7 +87671,7 @@
     "cap": 70,
     "teacher": "助教",
     "times": [
-      "一 / 6 / B 216"
+      "二 / 6 / B 113"
     ]
   },
   {
@@ -87971,7 +87911,7 @@
     "cap": 80,
     "teacher": "助教",
     "times": [
-      "一 / 7 / B 608"
+      "一 / 2 / B 508"
     ]
   },
   {
