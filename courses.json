@@ -2313,7 +2313,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 限全英語專班學生，大二不可換班。網頁資訊:https://reurl.cc/GgkXDy ◇全英語授課",
-    "cap": 70,
+    "cap": "",
     "teacher": "馬天樂",
     "times": [
       "五 / 1,2 / E 304"
@@ -2733,7 +2733,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "林楸燕",
     "times": [
       "五 / 8,9 / B 110"
@@ -2753,7 +2753,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "周佳欣",
     "times": [
       "五 / 8,9 / L 413"
@@ -2773,7 +2773,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "高興雲",
     "times": [
       "五 / 8,9 / B 116"
@@ -2793,7 +2793,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": "",
+    "cap": 65,
     "teacher": "許邏灣",
     "times": [
       "五 / 8,9 / E 312"
@@ -2813,7 +2813,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": "",
+    "cap": 65,
     "teacher": "蘇琬婷",
     "times": [
       "五 / 8,9 / B 309"
@@ -2833,7 +2833,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": "",
+    "cap": 65,
     "teacher": "黃翊之",
     "times": [
       "五 / 8,9 / B 709"
@@ -2853,7 +2853,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【飲食與文化英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "林嘉鴻",
     "times": [
       "五 / 8,9 / L 304"
@@ -2873,7 +2873,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【飲食與文化英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "陳儀芬",
     "times": [
       "五 / 8,9 / L 306"
@@ -2893,7 +2893,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【職場英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "陳秋月",
     "times": [
       "五 / 8,9 / B 516"
@@ -2913,7 +2913,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【簡報英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "張玉英",
     "times": [
       "五 / 8,9 / L 416"
@@ -3773,7 +3773,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "余佳紋",
     "times": [
       "五 / 6,7 / E 509"
@@ -3793,7 +3793,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "林楸燕",
     "times": [
       "五 / 6,7 / B 110"
@@ -3813,7 +3813,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "周佳欣",
     "times": [
       "五 / 6,7 / L 413"
@@ -3833,7 +3833,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": "",
+    "cap": 65,
     "teacher": "許邏灣",
     "times": [
       "五 / 6,7 / E 312"
@@ -3853,7 +3853,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": "",
+    "cap": 65,
     "teacher": "李金安",
     "times": [
       "五 / 6,7 / SG 314"
@@ -3873,7 +3873,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【飲食與文化英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "薛玉政",
     "times": [
       "五 / 6,7 / T 401"
@@ -3893,7 +3893,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【飲食與文化英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "陳韻如",
     "times": [
       "五 / 6,7 / B 425"
@@ -3913,7 +3913,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【商務英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "簡珮玲",
     "times": [
       "五 / 6,7 / L 306"
@@ -3933,7 +3933,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【商務英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "高興雲",
     "times": [
       "五 / 6,7 / B 116"
@@ -3953,7 +3953,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【工程與應用科學英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "蔡郁瑄",
     "times": [
       "五 / 6,7 / B 513"
@@ -3973,7 +3973,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【工程與應用科學英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "羅得彰",
     "times": [
       "五 / 6,7 / S 101"
@@ -3993,7 +3993,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【工程與應用科學英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "英待聘",
     "times": [
       "五 / 6,7 / E 304"
@@ -4013,7 +4013,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【工程與應用科學英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "黃翊之",
     "times": [
       "五 / 6,7 / B 709"
@@ -4033,7 +4033,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【工程與應用科學英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "邱春煌",
     "times": [
       "五 / 6,7 / B 701"
@@ -4053,7 +4053,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【設計與媒體英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "吳怡芬",
     "times": [
       "五 / 6,7 / T 605"
@@ -4073,7 +4073,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【設計與媒體英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "倪志昇",
     "times": [
       "五 / 6,7 / B 508"
@@ -4093,7 +4093,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【職場英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "陳秋月",
     "times": [
       "五 / 6,7 / B 516"
@@ -4113,7 +4113,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【職場英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "張秋鶯",
     "times": [
       "五 / 6,7 / B 111"
@@ -4133,7 +4133,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【學術英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "湯雅蘭",
     "times": [
       "五 / 6,7 / E 830"
@@ -4153,7 +4153,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【永續英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "高淑婷",
     "times": [
       "五 / 6,7 / E 512"
@@ -4173,7 +4173,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【簡報英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "蘇琬婷",
     "times": [
       "五 / 6,7 / B 309"
@@ -4473,7 +4473,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "楊家蘭",
     "times": [
       "五 / 1,2 / B 613"
@@ -4493,7 +4493,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "洪雨婷",
     "times": [
       "五 / 1,2 / T 401"
@@ -4513,7 +4513,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": "",
+    "cap": 65,
     "teacher": "許邏灣",
     "times": [
       "五 / 1,2 / E 310"
@@ -4533,7 +4533,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": "",
+    "cap": 65,
     "teacher": "英待聘",
     "times": [
       "五 / 1,2 / B 429"
@@ -4553,7 +4553,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【飲食與文化英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "薛玉政",
     "times": [
       "五 / 1,2 / E 414"
@@ -4573,7 +4573,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【學術英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "鄭秀彬",
     "times": [
       "五 / 1,2 / E 412"
@@ -5673,7 +5673,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "楊家蘭",
     "times": [
       "五 / 3,4 / B 613"
@@ -5693,7 +5693,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "余佳紋",
     "times": [
       "五 / 3,4 / B 502"
@@ -5713,7 +5713,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】 .",
-    "cap": "",
+    "cap": 65,
     "teacher": "邱紫穎",
     "times": [
       "五 / 3,4 / L 308"
@@ -5733,7 +5733,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": "",
+    "cap": 65,
     "teacher": "齊嵩齡",
     "times": [
       "五 / 3,4 / E 302"
@@ -5753,7 +5753,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【飲食與文化英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "李金安",
     "times": [
       "五 / 3,4 / SG 314"
@@ -5773,7 +5773,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【商務英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "江怡菁",
     "times": [
       "五 / 3,4 / B 602"
@@ -5793,7 +5793,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【商務英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "簡珮玲",
     "times": [
       "五 / 3,4 / T 701"
@@ -5813,7 +5813,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【商務英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "許筱翎",
     "times": [
       "五 / 3,4 / B 516"
@@ -5833,7 +5833,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【職場英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "張秋鶯",
     "times": [
       "五 / 3,4 / B 111"
@@ -5853,7 +5853,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【簡報英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "邱智銘",
     "times": [
       "五 / 3,4 / L 306"
@@ -5873,7 +5873,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "湯雅蘭",
     "times": [
       "五 / 1,2 / B 118"
@@ -5893,7 +5893,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "林偉力",
     "times": [
       "五 / 1,2 / C 013"
@@ -5913,7 +5913,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "李碧玉",
     "times": [
       "五 / 1,2 / B 606"
@@ -5933,7 +5933,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": "",
+    "cap": 65,
     "teacher": "邱紫穎",
     "times": [
       "五 / 1,2 / L 308"
@@ -5953,7 +5953,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": "",
+    "cap": 65,
     "teacher": "黃翊之",
     "times": [
       "五 / 1,2 / B 709"
@@ -5973,7 +5973,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【飲食與文化英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "邱智銘",
     "times": [
       "五 / 1,2 / L 306"
@@ -5993,7 +5993,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【飲食與文化英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "李金安",
     "times": [
       "五 / 1,2 / SG 314"
@@ -6013,7 +6013,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【飲食與文化英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "余佳紋",
     "times": [
       "五 / 1,2 / B 502"
@@ -6033,7 +6033,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【商務英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "江怡菁",
     "times": [
       "五 / 1,2 / B 602"
@@ -6053,7 +6053,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【商務英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "簡珮玲",
     "times": [
       "五 / 1,2 / T 601"
@@ -6073,7 +6073,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【商務英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "許筱翎",
     "times": [
       "五 / 1,2 / B 516"
@@ -6093,7 +6093,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【商務英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "高興雲",
     "times": [
       "五 / 1,2 / B 116"
@@ -6113,7 +6113,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【職場英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "張秋鶯",
     "times": [
       "五 / 1,2 / B 111"
@@ -6133,7 +6133,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【職場英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "陳秋月",
     "times": [
       "五 / 1,2 / B 701"
@@ -6153,7 +6153,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【永續英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "林敘如",
     "times": [
       "五 / 1,2 / B 601"
@@ -6173,7 +6173,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【簡報英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "曾郁景",
     "times": [
       "五 / 1,2 / B 608"
@@ -6193,7 +6193,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【簡報英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "蘇琬婷",
     "times": [
       "五 / 1,2 / B 309"
@@ -6413,7 +6413,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "湯雅蘭",
     "times": [
       "五 / 8,9 / E 830"
@@ -6433,7 +6433,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【工程與應用科學英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "羅得彰",
     "times": [
       "五 / 8,9 / S 101"
@@ -6453,7 +6453,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【設計與媒體英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "倪志昇",
     "times": [
       "五 / 8,9 / B 508"
@@ -6473,7 +6473,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【永續英語】",
-    "cap": "",
+    "cap": 65,
     "teacher": "高淑婷",
     "times": [
       "五 / 8,9 / E 512"
@@ -6493,7 +6493,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 限全英語專班學生，大二不可換班。網頁資訊:https://reurl.cc/GgkXDy ◇全英語授課",
-    "cap": 70,
+    "cap": "",
     "teacher": "王建文",
     "times": [
       "四 / 9,10 / B 601"
@@ -6513,7 +6513,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 限全英語專班學生，大二不可換班。網頁資訊:https://reurl.cc/GgkXDy ◇全英語授課",
-    "cap": 70,
+    "cap": "",
     "teacher": "喬治",
     "times": [
       "二 / 1,2 / B 425"
@@ -6533,7 +6533,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 限全英語專班學生，大二不可換班。網頁資訊:https://reurl.cc/GgkXDy ◇全英語授課",
-    "cap": 70,
+    "cap": "",
     "teacher": "喬治",
     "times": [
       "五 / 6,7 / E 404"
@@ -7713,7 +7713,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 限全英語專班學生，大二不可換班。網頁資訊:https://reurl.cc/GgkXDy ◇全英語授課",
-    "cap": 70,
+    "cap": "",
     "teacher": "張雅慧",
     "times": [
       "三 / 6,7 / T 401"
@@ -7733,7 +7733,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 限全英語專班學生，大二不可換班。網頁資訊:https://reurl.cc/GgkXDy ◇全英語授課",
-    "cap": 70,
+    "cap": "",
     "teacher": "喬治",
     "times": [
       "五 / 1,2 / T 705"
@@ -7753,7 +7753,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 限全英語專班學生，大二不可換班。網頁資訊:https://reurl.cc/GgkXDy ◇全英語授課",
-    "cap": 70,
+    "cap": "",
     "teacher": "雷凱",
     "times": [
       "三 / 6,7 / T 404"
@@ -11513,7 +11513,7 @@
     "credits": 1,
     "group": "K",
     "title": "社團學習與實作－入門課程 隔週上課。補修班，限進學班重、補修生，2年級補修生請於加退選時加選。 ◇遠距非同步課程",
-    "cap": 175,
+    "cap": "",
     "teacher": "黃文智",
     "times": [
       "六 / 6,7 / E 404"
@@ -11533,7 +11533,7 @@
     "credits": 1,
     "group": "K",
     "title": "社團學習與實作－入門課程 補修班，限日間部重修生，上課6次，上課週次請詳教學計畫表。",
-    "cap": 70,
+    "cap": "",
     "teacher": "黃文智",
     "times": [
       "五 / 8,9 / SG 316"
@@ -12333,7 +12333,7 @@
     "credits": 1,
     "group": "",
     "title": "人工智慧導論 補修班，限進學班重、補修生，2年級補修生請於加退選時加選。本科目為通識教育跨領域微學程課程。 ◇遠距非同步課程",
-    "cap": 175,
+    "cap": "",
     "teacher": "黃子嘉",
     "times": [
       "日 / 4 /"
@@ -13873,7 +13873,7 @@
     "credits": 1,
     "group": "",
     "title": "探索永續 補修班，限進學班重、補修生，2年級補修生請於加退選時加選。 ◇遠距非同步課程",
-    "cap": 175,
+    "cap": "",
     "teacher": "曾秋桂",
     "times": [
       "日 / 3 /"
@@ -15494,7 +15494,7 @@
     "credits": 1,
     "group": "N",
     "title": "大學學習 補修班，限進學班重、補修生，2年級補修生請於加退選時加選。 ◇遠距非同步課程",
-    "cap": 175,
+    "cap": "",
     "teacher": "陳玉樺",
     "times": [
       "日 / 1 /"
@@ -20214,7 +20214,7 @@
     "credits": 1,
     "group": "",
     "title": "校園與社區服務學習 補修班，限進學班重、補修生，2年級補修生請於加退選時加選。 ◇遠距非同步課程",
-    "cap": 175,
+    "cap": "",
     "teacher": "徐佐銘",
     "times": [
       "日 / 8 /"
@@ -20234,7 +20234,7 @@
     "credits": 1,
     "group": "",
     "title": "校園與社區服務學習 補修班，限進學班重、補修生，2年級補修生請於加退選時加選。 ◇遠距非同步課程",
-    "cap": 175,
+    "cap": "",
     "teacher": "陳建甫",
     "times": [
       "六 / 12 / B 504"
@@ -20254,7 +20254,7 @@
     "credits": 1,
     "group": "",
     "title": "全民國防教育軍事訓練（一）－國防科技 補修班，限進學班重、補修生，2年級補修生請於加退選時加選。 ◇遠距非同步課程",
-    "cap": 175,
+    "cap": "",
     "teacher": "王志遠",
     "times": [
       "五 / 11,12 / B 514"
@@ -20274,7 +20274,7 @@
     "credits": 1,
     "group": "",
     "title": "男、女生體育－體重控制興趣班 補修班，限進學班重、補修生，2年級補修生請於加退選時加選。 ◇遠距非同步課程",
-    "cap": 173,
+    "cap": "",
     "teacher": "吳采陵",
     "times": [
       "三 / 11,12 /"
@@ -20294,7 +20294,7 @@
     "credits": 1,
     "group": "",
     "title": "男、女生體育－太極拳興趣班 補修班，限進學班重、補修生，2年級補修生請於加退選時加選。 ◇遠距非同步課程",
-    "cap": 173,
+    "cap": "",
     "teacher": "陳文和",
     "times": [
       "四 / 11,12 /"
@@ -23540,7 +23540,7 @@
     "credits": 2,
     "group": "",
     "title": "進修英文 無校際選課，不列入畢業學分數及當學期成績總修學分與平均計算。請依英文系網頁＞通識外語學門公告加選。 ◇遠距非同步課程",
-    "cap": 200,
+    "cap": "",
     "teacher": "曾郁景",
     "times": [
       "一 / 11,12 /"
@@ -23560,7 +23560,7 @@
     "credits": 2,
     "group": "",
     "title": "進修英文 無校際選課，不列入畢業學分數及當學期成績總修學分與平均計算。請依英文系網頁＞通識外語學門公告加選。 ◇遠距非同步課程",
-    "cap": 200,
+    "cap": "",
     "teacher": "王慧娟",
     "times": [
       "三 / 11,12 /"
@@ -23580,7 +23580,7 @@
     "credits": 2,
     "group": "",
     "title": "進修英文 無校際選課，不列入畢業學分數及當學期成績總修學分與平均計算。請依英文系網頁＞通識外語學門公告加選。 ◇遠距非同步課程",
-    "cap": 200,
+    "cap": "",
     "teacher": "李佳盈",
     "times": [
       "一 / 11,12 /"
@@ -25367,7 +25367,7 @@
     "cap": 175,
     "teacher": "曾郁景",
     "times": [
-      "四 / 1,2 / L 308"
+      "四 / 1,2 / E 413"
     ]
   },
   {
@@ -53457,7 +53457,7 @@
     "credits": 2,
     "group": "",
     "title": "英文（二） 台北校園上課，大二不可換班。網頁資訊:https://reurl.cc/GgkXDy",
-    "cap": 40,
+    "cap": "",
     "teacher": "吳瑜雲",
     "times": [
       "五 / 11,12 / D 312"
@@ -65380,7 +65380,7 @@
     "credits": 2,
     "group": "",
     "title": "英文（二） 台北校園上課，大二不可換班。網頁資訊:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "吳瑜雲",
     "times": [
       "六 / 8,9 / D 312"
@@ -75330,7 +75330,7 @@
     "credits": 2,
     "group": "",
     "title": "英文（二） 台北校園上課，大二不可換班。網頁資訊:https://reurl.cc/GgkXDy",
-    "cap": 35,
+    "cap": "",
     "teacher": "葉書吟",
     "times": [
       "六 / 1,2 / D 316"
@@ -77683,7 +77683,7 @@
     "credits": 2,
     "group": "",
     "title": "英文（二） 台北校園上課，大二不可換班。網頁資訊:https://reurl.cc/GgkXDy",
-    "cap": 35,
+    "cap": "",
     "teacher": "吳瑜雲",
     "times": [
       "六 / 6,7 / D 312"
