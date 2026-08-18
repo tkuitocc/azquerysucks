@@ -8534,7 +8534,7 @@
     "group": "R",
     "title": "社會未來 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
     "cap": 69,
-    "teacher": "新／待聘",
+    "teacher": "",
     "times": [
       "一 / 3,4 / SG 318"
     ]
@@ -8614,7 +8614,7 @@
     "group": "R",
     "title": "社會未來 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇全英語授課",
     "cap": 69,
-    "teacher": "史城均",
+    "teacher": "傅淑琴",
     "times": [
       "五 / 5,6 / I 201"
     ]
@@ -10954,7 +10954,7 @@
     "group": "N",
     "title": "大學生生涯發展 轉學生及大二(含)以上凡未取得「大學學習」課程學分者，得以「學習與發展學門」課程替代。",
     "cap": 75,
-    "teacher": "新／待聘",
+    "teacher": "",
     "times": [
       "一 / 3,4 / L 413"
     ]
@@ -13554,7 +13554,7 @@
     "group": "",
     "title": "探索永續 一年級限修本班，111學年度前入學者認列為自由選修學分。",
     "cap": 70,
-    "teacher": "",
+    "teacher": "陳柏宏",
     "times": [
       "三 / 4 / B 602"
     ]
@@ -13574,7 +13574,7 @@
     "group": "",
     "title": "探索永續 一年級限修本班，111學年度前入學者認列為自由選修學分。",
     "cap": 70,
-    "teacher": "",
+    "teacher": "陳柏宏",
     "times": [
       "五 / 6 / B 429"
     ]
@@ -13636,7 +13636,7 @@
     "cap": 70,
     "teacher": "吳安琪",
     "times": [
-      "一 / 2 / B 425"
+      "一 / 2 / B 427"
     ]
   },
   {
@@ -16175,7 +16175,7 @@
     "group": "",
     "title": "男、女生體育",
     "cap": 70,
-    "teacher": "林郁偉",
+    "teacher": "新／待聘",
     "times": [
       "五 / 7,8 /"
     ]
@@ -18395,7 +18395,7 @@
     "group": "",
     "title": "男、女生體育－羽球興趣班 體育館4樓羽球場 ◇全英語授課",
     "cap": 55,
-    "teacher": "林郁偉",
+    "teacher": "新／待聘",
     "times": [
       "五 / 9,10 /"
     ]
@@ -22761,7 +22761,7 @@
     "cap": "",
     "teacher": "顏信輝",
     "times": [
-      "三 / 8 / B 705"
+      "三 / 8 / B 702"
     ]
   },
   {
@@ -24502,7 +24502,7 @@
     "group": "",
     "title": "物理科教材教法",
     "cap": "",
-    "teacher": "新／待聘",
+    "teacher": "",
     "times": [
       "二 / 6,7 / T 213"
     ]
@@ -26819,66 +26819,6 @@
   },
   {
     "source": "F01.htm",
-    "dept_block": "TDJXB.教設系（日） DEPARTMENT OF EDUCATION AND FUTURES DESIGN",
-    "grade": "2",
-    "seq": "0249",
-    "code": "D0716",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "未來研究理論與方法 大二必修課限本系學生修讀 ◇全英語授課",
-    "cap": 70,
-    "teacher": "陳思思",
-    "times": [
-      "三 / 3,4 / T 604"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TDTXB.教科系（日） DEPARTMENT OF EDUCATIONAL TECHNOLOGY",
-    "grade": "2",
-    "seq": "0315",
-    "code": "D0141",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 3,
-    "group": "",
-    "title": "２Ｄ繪圖與動畫製作 ◇全英語授課",
-    "cap": 62,
-    "teacher": "林逸農",
-    "times": [
-      "三 / 2,3,4 / L 102"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TDTXB.教科系（日） DEPARTMENT OF EDUCATIONAL TECHNOLOGY",
-    "grade": "2",
-    "seq": "0316",
-    "code": "D0141",
-    "major": null,
-    "term_order": "0",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 3,
-    "group": "",
-    "title": "２Ｄ繪圖與動畫製作 ◇全英語授課",
-    "cap": 62,
-    "teacher": "林逸農",
-    "times": [
-      "四 / 2,3,4 / L 102"
-    ]
-  },
-  {
-    "source": "F01.htm",
     "dept_block": "TDTXB.教科系（日） DEPARTMENT OF EDUCATIONAL TECHNOLOGY",
     "grade": "3",
     "seq": "0327",
@@ -26995,46 +26935,6 @@
     "teacher": "張士行",
     "times": [
       "一 / 6,7,8 / E 820"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TEBXD.機械系博士班 DOCTORAL PROGRAM, DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
-    "grade": "1",
-    "seq": "9017",
-    "code": "T0095",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "",
-    "title": "書報討論（一） ◇全英語授課",
-    "cap": "",
-    "teacher": "",
-    "times": [
-      "四 / 7 / E 510"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TEBXD.機械系博士班 DOCTORAL PROGRAM, DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
-    "grade": "2",
-    "seq": "9018",
-    "code": "T1002",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "",
-    "title": "書報討論（三） ◇全英語授課",
-    "cap": "",
-    "teacher": "徐千曄",
-    "times": [
-      "三 / 8 / E 829"
     ]
   },
   {
@@ -30865,7 +30765,7 @@
     "group": "",
     "title": "企業概論 ◇全英語授課",
     "cap": 40,
-    "teacher": "",
+    "teacher": "陳柏宏",
     "times": [
       "四 / 3,4 / B 309",
       "四 / 6 / B 309"
@@ -43628,7 +43528,7 @@
     "cap": "",
     "teacher": "邱惟真",
     "times": [
-      "一 / 6,7 / T 314"
+      "一 / 6,7 / ED 504"
     ]
   },
   {
@@ -43728,7 +43628,7 @@
     "cap": "",
     "teacher": "張貴傑",
     "times": [
-      "一 / 3,4 / ED 101"
+      "一 / 3,4 / ED 504"
     ]
   },
   {
@@ -43748,7 +43648,7 @@
     "cap": "",
     "teacher": "邱惟真",
     "times": [
-      "一 / 3,4 / ED 504"
+      "一 / 3,4 / ED 101"
     ]
   },
   {
@@ -43768,7 +43668,7 @@
     "cap": "",
     "teacher": "邱惟真",
     "times": [
-      "三 / 3,4 / T 213"
+      "三 / 3,4 / ED 504"
     ]
   },
   {
@@ -44076,6 +43976,26 @@
     "source": "TDJXB.htm",
     "dept_block": "TDJXB.教設系（日） DEPARTMENT OF EDUCATION AND FUTURES DESIGN",
     "grade": "2",
+    "seq": "0249",
+    "code": "D0716",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "未來研究理論與方法 大二必修課限本系學生修讀",
+    "cap": 70,
+    "teacher": "陳思思",
+    "times": [
+      "三 / 3,4 / T 604"
+    ]
+  },
+  {
+    "source": "TDJXB.htm",
+    "dept_block": "TDJXB.教設系（日） DEPARTMENT OF EDUCATION AND FUTURES DESIGN",
+    "grade": "2",
     "seq": "0250",
     "code": "D0791",
     "major": null,
@@ -44228,7 +44148,7 @@
     "group": "",
     "title": "文化人類學導論",
     "cap": 80,
-    "teacher": "新／待聘",
+    "teacher": "",
     "times": [
       "四 / 9,10 / E 310"
     ]
@@ -44871,9 +44791,49 @@
     "group": "",
     "title": "介面設計 B2；限本系生。",
     "cap": 32,
-    "teacher": "新／待聘",
+    "teacher": "",
     "times": [
       "三 / 2,3,4 / L 103"
+    ]
+  },
+  {
+    "source": "TDTXB.htm",
+    "dept_block": "TDTXB.教科系（日） DEPARTMENT OF EDUCATIONAL TECHNOLOGY",
+    "grade": "2",
+    "seq": "0315",
+    "code": "D0141",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "２Ｄ繪圖與動畫製作",
+    "cap": 62,
+    "teacher": "林逸農",
+    "times": [
+      "三 / 2,3,4 / L 102"
+    ]
+  },
+  {
+    "source": "TDTXB.htm",
+    "dept_block": "TDTXB.教科系（日） DEPARTMENT OF EDUCATIONAL TECHNOLOGY",
+    "grade": "2",
+    "seq": "0316",
+    "code": "D0141",
+    "major": null,
+    "term_order": "0",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 3,
+    "group": "",
+    "title": "２Ｄ繪圖與動畫製作",
+    "cap": 62,
+    "teacher": "林逸農",
+    "times": [
+      "四 / 2,3,4 / L 102"
     ]
   },
   {
@@ -48246,6 +48206,46 @@
     "teacher": "",
     "times": [
       "/ /"
+    ]
+  },
+  {
+    "source": "TEBXD.htm",
+    "dept_block": "TEBXD.機械系博士班 DOCTORAL PROGRAM, DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
+    "grade": "1",
+    "seq": "9017",
+    "code": "T0095",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "書報討論（一）",
+    "cap": "",
+    "teacher": "",
+    "times": [
+      "四 / 7 / E 510"
+    ]
+  },
+  {
+    "source": "TEBXD.htm",
+    "dept_block": "TEBXD.機械系博士班 DOCTORAL PROGRAM, DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
+    "grade": "2",
+    "seq": "9018",
+    "code": "T1002",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "書報討論（三）",
+    "cap": "",
+    "teacher": "徐千曄",
+    "times": [
+      "三 / 8 / E 829"
     ]
   },
   {
@@ -52524,10 +52524,10 @@
     "credits": 2,
     "group": "",
     "title": "統計學習 資工系同學需機率統計達40分(含)以上者始得修習",
-    "cap": 85,
+    "cap": 82,
     "teacher": "",
     "times": [
-      "五 / 3,4 / E 830"
+      "五 / 3,4 / E 231"
     ]
   },
   {
@@ -52544,7 +52544,7 @@
     "credits": "",
     "group": "",
     "title": "統計學習 資工系同學需機率統計達40分(含)以上者始得修習",
-    "cap": 85,
+    "cap": 82,
     "teacher": "助教",
     "times": [
       "三 / 9 / E 513"
@@ -54833,7 +54833,7 @@
     "cap": 80,
     "teacher": "蕭富元",
     "times": [
-      "一 / 8 / B 709",
+      "一 / 8 / B 704",
       "四 / 2 / E 416"
     ]
   },
@@ -71241,7 +71241,7 @@
     "group": "",
     "title": "微積分",
     "cap": 80,
-    "teacher": "新／待聘",
+    "teacher": "",
     "times": [
       "四 / 9,10 / B 708"
     ]
@@ -71281,7 +71281,7 @@
     "group": "",
     "title": "微積分",
     "cap": 80,
-    "teacher": "新／待聘",
+    "teacher": "",
     "times": [
       "四 / 9,10 / B 708"
     ]
@@ -72307,7 +72307,7 @@
     "group": "",
     "title": "衍生性金融商品",
     "cap": 120,
-    "teacher": "新／待聘",
+    "teacher": "李梓林",
     "times": [
       "二 / 1,2 / B 312"
     ]
@@ -75072,7 +75072,7 @@
     "group": "",
     "title": "財務分析與投資",
     "cap": 175,
-    "teacher": "待聘",
+    "teacher": "張玉中",
     "times": [
       "二 / 8,9,10 / B 712"
     ]
@@ -76092,7 +76092,7 @@
     "group": "",
     "title": "領導統御",
     "cap": 70,
-    "teacher": "",
+    "teacher": "陳柏宏",
     "times": [
       "三 / 1,2 / B 425"
     ]
@@ -83463,7 +83463,7 @@
     "group": "",
     "title": "管理學",
     "cap": 70,
-    "teacher": "",
+    "teacher": "陳柏宏",
     "times": [
       "五 / 8,9,10 / B 615"
     ]
@@ -88461,7 +88461,7 @@
     "cap": 70,
     "teacher": "池秉聰",
     "times": [
-      "二 / 6,7 / B 512",
+      "二 / 6,7 / B 507",
       "三 / 5 / B 704"
     ]
   },
