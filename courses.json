@@ -1416,7 +1416,7 @@
     "cap": 75,
     "teacher": "陳姞淨",
     "times": [
-      "四 / 1,2 / E 311"
+      "四 / 1,2 / E 401"
     ]
   },
   {
@@ -2154,7 +2154,7 @@
     "group": "P",
     "title": "台灣歷史采風與踏查",
     "cap": 69,
-    "teacher": "",
+    "teacher": "張泓斌",
     "times": [
       "二 / 6,7 / SG 314"
     ]
@@ -8534,7 +8534,7 @@
     "group": "R",
     "title": "社會未來 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
     "cap": 69,
-    "teacher": "",
+    "teacher": "傅淑琴",
     "times": [
       "一 / 3,4 / SG 318"
     ]
@@ -8614,7 +8614,7 @@
     "group": "R",
     "title": "社會未來 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇全英語授課",
     "cap": 69,
-    "teacher": "傅淑琴",
+    "teacher": "史城均",
     "times": [
       "五 / 5,6 / I 201"
     ]
@@ -8654,7 +8654,7 @@
     "group": "R",
     "title": "社會未來 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
     "cap": 69,
-    "teacher": "新／待聘",
+    "teacher": "劉一慶",
     "times": [
       "四 / 5,6 / E 404"
     ]
@@ -10954,7 +10954,7 @@
     "group": "N",
     "title": "大學生生涯發展 轉學生及大二(含)以上凡未取得「大學學習」課程學分者，得以「學習與發展學門」課程替代。",
     "cap": 75,
-    "teacher": "",
+    "teacher": "曾博泓",
     "times": [
       "一 / 3,4 / L 413"
     ]
@@ -11014,7 +11014,7 @@
     "group": "N",
     "title": "思考方法與技巧 轉學生及大二(含)以上凡未取得「大學學習」課程學分者，得以「學習與發展學門」課程替代。",
     "cap": 75,
-    "teacher": "新／待聘",
+    "teacher": "曾博泓",
     "times": [
       "三 / 1,2 / E 412"
     ]
@@ -11654,7 +11654,7 @@
     "group": "",
     "title": "人工智慧導論 一年級限修本班。111學年度前入學者認列為自由選修學分。<通識教育跨領域微學程課程>",
     "cap": 70,
-    "teacher": "待聘兼任",
+    "teacher": "康才華",
     "times": [
       "二 / 3 / L 308"
     ]
@@ -11674,7 +11674,7 @@
     "group": "",
     "title": "人工智慧導論 一年級限修本班。111學年度前入學者認列為自由選修學分。<通識教育跨領域微學程課程>",
     "cap": 70,
-    "teacher": "待聘兼任",
+    "teacher": "康才華",
     "times": [
       "二 / 2 / L 308"
     ]
@@ -12716,7 +12716,7 @@
     "cap": 70,
     "teacher": "廖昱嘉",
     "times": [
-      "三 / 6 / E 414"
+      "三 / 6 / E 515"
     ]
   },
   {
@@ -12916,7 +12916,7 @@
     "cap": 70,
     "teacher": "馮若梅",
     "times": [
-      "三 / 7 / T 605"
+      "三 / 7 / E 302"
     ]
   },
   {
@@ -13536,7 +13536,7 @@
     "cap": 70,
     "teacher": "黃冠傑",
     "times": [
-      "三 / 1 / B 709"
+      "三 / 1 / B 701"
     ]
   },
   {
@@ -13656,7 +13656,7 @@
     "cap": 70,
     "teacher": "陳威任",
     "times": [
-      "四 / 8 / B 429"
+      "四 / 6 / B 426"
     ]
   },
   {
@@ -14354,10 +14354,9 @@
     "group": "N",
     "title": "大學學習 隔週上課。一年級限修本班。轉學生及大二(含)以上凡未取得本課程學分者，得以「學習與發展學門」課程替代。",
     "cap": 10,
-    "teacher": "",
+    "teacher": "李彥霆,",
     "times": [
-      "五 / 9,10 / E 305",
-      "五 / 9,10 / E 305"
+      "五 / 9,10 / B 713"
     ]
   },
   {
@@ -14677,7 +14676,7 @@
     "cap": 10,
     "teacher": "鍾隆維,何政昌",
     "times": [
-      "五 / 9,10 / E 311"
+      "五 / 9,10 / E 309"
     ]
   },
   {
@@ -14997,7 +14996,7 @@
     "cap": 10,
     "teacher": "謝宜樺,陳薇如",
     "times": [
-      "五 / 9,10 / E 311"
+      "五 / 9,10 / E 309"
     ]
   },
   {
@@ -15137,7 +15136,7 @@
     "cap": 10,
     "teacher": "陳怡雅,阮恆江英",
     "times": [
-      "三 / 9,10 / E 305"
+      "三 / 9,10 / B 713"
     ]
   },
   {
@@ -15935,7 +15934,7 @@
     "group": "",
     "title": "男、女生體育",
     "cap": 70,
-    "teacher": "新／待聘",
+    "teacher": "張凱皓",
     "times": [
       "五 / 1,2 /"
     ]
@@ -16395,7 +16394,7 @@
     "group": "",
     "title": "男、女生體育",
     "cap": 70,
-    "teacher": "新／待聘",
+    "teacher": "呂學德",
     "times": [
       "一 / 7,8 /"
     ]
@@ -16435,7 +16434,7 @@
     "group": "",
     "title": "男、女生體育",
     "cap": 70,
-    "teacher": "新／待聘",
+    "teacher": "陳盈村",
     "times": [
       "五 / 7,8 /"
     ]
@@ -16855,7 +16854,7 @@
     "group": "",
     "title": "男、女生體育",
     "cap": 70,
-    "teacher": "新／待聘",
+    "teacher": "劉昌鴻",
     "times": [
       "四 / 7,8 /"
     ]
@@ -16875,7 +16874,7 @@
     "group": "",
     "title": "男、女生體育",
     "cap": 70,
-    "teacher": "黃至論",
+    "teacher": "待聘",
     "times": [
       "一 / 9,10 /"
     ]
@@ -16935,7 +16934,7 @@
     "group": "",
     "title": "男、女生體育",
     "cap": 70,
-    "teacher": "新／待聘",
+    "teacher": "王俊傑",
     "times": [
       "四 / 7,8 /"
     ]
@@ -18415,7 +18414,7 @@
     "group": "",
     "title": "男、女生體育－羽球興趣班 體育館4樓羽球場",
     "cap": 50,
-    "teacher": "新／待聘",
+    "teacher": "李維仁",
     "times": [
       "二 / 3,4 /"
     ]
@@ -18455,7 +18454,7 @@
     "group": "",
     "title": "男、女生體育－壘球興趣班 操場,雨備游泳館N204",
     "cap": 60,
-    "teacher": "新／待聘",
+    "teacher": "李詩芸",
     "times": [
       "五 / 3,4 /"
     ]
@@ -21617,7 +21616,7 @@
     "group": "",
     "title": "新興海洋產業實務",
     "cap": 140,
-    "teacher": "",
+    "teacher": "黃秉益",
     "times": [
       "二 / 3,4 / Q 306"
     ]
@@ -22418,7 +22417,7 @@
     "group": "A",
     "title": "永續治理與智慧創新 榮譽學程進階專業課程，限符合資格者修習",
     "cap": "",
-    "teacher": "洪鳴丰,張雍昇",
+    "teacher": "洪鳴丰,林聖豪",
     "times": [
       "二 / 3 / B 115",
       "二 / 4 / B 115"
@@ -22761,7 +22760,7 @@
     "cap": "",
     "teacher": "顏信輝",
     "times": [
-      "三 / 8 / B 702"
+      "三 / 8 / B 705"
     ]
   },
   {
@@ -24222,7 +24221,7 @@
     "group": "A",
     "title": "教育哲學",
     "cap": 60,
-    "teacher": "新／待聘",
+    "teacher": "",
     "times": [
       "一 / 6,7 / ED 201"
     ]
@@ -24242,7 +24241,7 @@
     "group": "",
     "title": "青少年發展",
     "cap": 60,
-    "teacher": "新／待聘",
+    "teacher": "",
     "times": [
       "四 / 3,4 / ED 305"
     ]
@@ -24362,7 +24361,7 @@
     "group": "",
     "title": "國際教育專題 ◇講座課程",
     "cap": 50,
-    "teacher": "新／待聘",
+    "teacher": "",
     "times": [
       "二 / 6,7 / ED 305"
     ]
@@ -24502,7 +24501,7 @@
     "group": "",
     "title": "物理科教材教法",
     "cap": "",
-    "teacher": "",
+    "teacher": "李美惠",
     "times": [
       "二 / 6,7 / T 213"
     ]
@@ -24562,7 +24561,7 @@
     "group": "",
     "title": "實驗教育專題",
     "cap": "",
-    "teacher": "新／待聘",
+    "teacher": "",
     "times": [
       "一 / 8,9 / ED 201"
     ]
@@ -24582,7 +24581,7 @@
     "group": "",
     "title": "資訊科技科教材教法",
     "cap": 20,
-    "teacher": "新／待聘",
+    "teacher": "",
     "times": [
       "二 / 9,10 / E 232"
     ]
@@ -24662,7 +24661,7 @@
     "group": "",
     "title": "中等學校教育實習 ◇全時全職校外實習課程",
     "cap": "",
-    "teacher": "新／待聘",
+    "teacher": "",
     "times": [
       "/ /"
     ]
@@ -26653,7 +26652,7 @@
     "cap": 70,
     "teacher": "鄭哲斌",
     "times": [
-      "三 / 9,10 / B 609"
+      "三 / 9,10 / B 708"
     ]
   },
   {
@@ -26693,7 +26692,7 @@
     "cap": 70,
     "teacher": "鄭哲斌",
     "times": [
-      "三 / 9,10 / B 609"
+      "三 / 9,10 / B 708"
     ]
   },
   {
@@ -28012,7 +28011,7 @@
     "cap": 25,
     "teacher": "莊晏甄",
     "times": [
-      "一 / 7,8 / T 501"
+      "一 / 7,8 / B 115"
     ]
   },
   {
@@ -28959,26 +28958,6 @@
     "source": "F01.htm",
     "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
     "grade": "1",
-    "seq": "1166",
-    "code": "F1789",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "文學作品讀法（一） ◇全英語授課",
-    "cap": 80,
-    "teacher": "蔡振興",
-    "times": [
-      "五 / 3,4 / T 310"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
-    "grade": "1",
     "seq": "1167",
     "code": "F1789",
     "major": null,
@@ -29073,26 +29052,6 @@
     "teacher": "羅艾琳",
     "times": [
       "三 / 6,7 / L 413"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
-    "grade": "2",
-    "seq": "1191",
-    "code": "A0514",
-    "major": null,
-    "term_order": "1",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 2,
-    "group": "",
-    "title": "英國文學（一） 限本系生 ◇全英語授課",
-    "cap": 80,
-    "teacher": "蔡振興",
-    "times": [
-      "四 / 6,7 / T 311"
     ]
   },
   {
@@ -30032,7 +29991,7 @@
     "group": "",
     "title": "微積分 ◇全英語授課",
     "cap": 80,
-    "teacher": "待聘",
+    "teacher": "胡殿中",
     "times": [
       "一 / 7,8 / B 111"
     ]
@@ -30948,7 +30907,7 @@
     "cap": 60,
     "teacher": "林穎佑",
     "times": [
-      "三 / 7,8 / B 706"
+      "三 / 7,8 / B 703"
     ]
   },
   {
@@ -31032,6 +30991,26 @@
     "teacher": "陳威任",
     "times": [
       "二 / 3,4 / B 218"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TLCAB.企管系英語班 DEPARTMENT OF BUSINESS ADMINISTRATION (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "2",
+    "seq": "1984",
+    "code": "T0653",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 2,
+    "group": "",
+    "title": "領導統御 ◇全英語授課",
+    "cap": 70,
+    "teacher": "陳柏宏",
+    "times": [
+      "三 / 1,2 / B 425"
     ]
   },
   {
@@ -33859,7 +33838,7 @@
     "cap": 80,
     "teacher": "助教",
     "times": [
-      "三 / 5 / B 607"
+      "三 / 5 / B 606"
     ]
   },
   {
@@ -33879,7 +33858,7 @@
     "cap": 80,
     "teacher": "唐嘉宏",
     "times": [
-      "二 / 4 / B 608",
+      "二 / 4 / B 427",
       "三 / 3,4 / B 607"
     ]
   },
@@ -34456,6 +34435,26 @@
     "source": "F02.htm",
     "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
     "grade": "1",
+    "seq": "1166",
+    "code": "F1789",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "文學作品讀法（一） ◇雙語授課(中文/英文)",
+    "cap": 80,
+    "teacher": "蔡振興",
+    "times": [
+      "五 / 3,4 / T 310"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "1",
     "seq": "1170",
     "code": "F1803",
     "major": null,
@@ -34670,6 +34669,26 @@
     "teacher": "吳瑜雲",
     "times": [
       "三 / 9,10 / T 307"
+    ]
+  },
+  {
+    "source": "F02.htm",
+    "dept_block": "TFLXB.英文系（日） DEPARTMENT OF ENGLISH",
+    "grade": "2",
+    "seq": "1191",
+    "code": "A0514",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英國文學（一） 限本系生 ◇雙語授課(中文/英文)",
+    "cap": 80,
+    "teacher": "蔡振興",
+    "times": [
+      "四 / 6,7 / T 311"
     ]
   },
   {
@@ -38896,7 +38915,7 @@
     "cap": 65,
     "teacher": "劉瑄儀",
     "times": [
-      "三 / 3,4 / L 302"
+      "三 / 3,4 / L 306"
     ]
   },
   {
@@ -39219,7 +39238,7 @@
     "cap": 75,
     "teacher": "梁鴻栩",
     "times": [
-      "三 / 3,4 / L 306"
+      "三 / 3,4 / L 302"
     ]
   },
   {
@@ -40883,26 +40902,6 @@
     "teacher": "殷善培",
     "times": [
       "日 / 2 /"
-    ]
-  },
-  {
-    "source": "TAHAF.htm",
-    "dept_block": "TAHAF.歷史系－３０＋ DEPARTMENT OF HISTORY-30+",
-    "grade": "1",
-    "seq": "0134",
-    "code": "P0090",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "茶與觀光 台北校園上課。第三人生大學:特色文化旅遊與智慧遊憩規劃學分學程",
-    "cap": 30,
-    "teacher": "陳維立",
-    "times": [
-      "一 / 6,7,8 / D 312"
     ]
   },
   {
@@ -42723,7 +42722,7 @@
     "group": "",
     "title": "傳播理論 限本系生",
     "cap": 80,
-    "teacher": "",
+    "teacher": "林慧婷",
     "times": [
       "一 / 6,7 / O 303"
     ]
@@ -42883,7 +42882,7 @@
     "group": "",
     "title": "新媒體訊息設計",
     "cap": "",
-    "teacher": "",
+    "teacher": "陳心問",
     "times": [
       "四 / 6,7 / L 301"
     ]
@@ -43546,7 +43545,7 @@
     "group": "",
     "title": "研究方法",
     "cap": "",
-    "teacher": "新／待聘",
+    "teacher": "陳賢寶",
     "times": [
       "二 / 2,3,4 / T 307"
     ]
@@ -43686,7 +43685,7 @@
     "group": "",
     "title": "學校社區與企業心理健康專題",
     "cap": "",
-    "teacher": "新／待聘",
+    "teacher": "藍挹丰",
     "times": [
       "一 / 6,7 / T 402"
     ]
@@ -44148,7 +44147,7 @@
     "group": "",
     "title": "文化人類學導論",
     "cap": 80,
-    "teacher": "",
+    "teacher": "李美惠",
     "times": [
       "四 / 9,10 / E 310"
     ]
@@ -45663,7 +45662,7 @@
     "group": "",
     "title": "建築設計（二） 限本系生",
     "cap": "",
-    "teacher": "",
+    "teacher": "李映萱",
     "times": [
       "一 / 7,8,9 / G 506",
       "二 / 9,10 / G 506"
@@ -48102,7 +48101,7 @@
     "group": "",
     "title": "光機電整合實驗（三） A2，原光機電整合組",
     "cap": "",
-    "teacher": "",
+    "teacher": "待聘",
     "times": [
       "二 / 2,3,4 / E 101a"
     ]
@@ -48142,7 +48141,7 @@
     "group": "",
     "title": "精密機械實驗（三） A2,原精密機械組",
     "cap": "",
-    "teacher": "",
+    "teacher": "待聘",
     "times": [
       "三 / 6,7,8 / T 001"
     ]
@@ -48326,6 +48325,26 @@
     "teacher": "徐千曄",
     "times": [
       "二 / 2,3,4 / E 827"
+    ]
+  },
+  {
+    "source": "TEBXM.htm",
+    "dept_block": "TEBXM.機械系碩士班 MASTER’S PROGRAM, DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
+    "grade": "1",
+    "seq": "8553",
+    "code": "T1433",
+    "major": null,
+    "term_order": "0",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "研究方法（一）",
+    "cap": "",
+    "teacher": "顏子評",
+    "times": [
+      "一 / 6 / E 812"
     ]
   },
   {
@@ -48826,7 +48845,7 @@
     "cap": 70,
     "teacher": "助教",
     "times": [
-      "三 / 9 / T 601"
+      "三 / 9 / E 508"
     ]
   },
   {
@@ -52893,7 +52912,7 @@
     "group": "",
     "title": "專題實驗（一） A1",
     "cap": "",
-    "teacher": "待聘",
+    "teacher": "吳惠君",
     "times": [
       "/ /"
     ]
@@ -58051,7 +58070,7 @@
     "cap": 160,
     "teacher": "助教",
     "times": [
-      "四 / 2 / E 401"
+      "四 / 2 / E 311"
     ]
   },
   {
@@ -59199,7 +59218,7 @@
     "cap": 160,
     "teacher": "楊維斌",
     "times": [
-      "一 / 7 / E 309",
+      "一 / 7 / E 310",
       "二 / 2,3 / E 813"
     ]
   },
@@ -59220,7 +59239,7 @@
     "cap": 160,
     "teacher": "助教",
     "times": [
-      "一 / 6 / E 309"
+      "一 / 6 / E 310"
     ]
   },
   {
@@ -60496,7 +60515,7 @@
     "cap": 150,
     "teacher": "郭安定",
     "times": [
-      "一 / 6,7 / E 310"
+      "一 / 6,7 / E 309"
     ]
   },
   {
@@ -60598,7 +60617,7 @@
     "cap": 160,
     "teacher": "曾憲威",
     "times": [
-      "三 / 6 / E 515"
+      "三 / 6 / E 414"
     ]
   },
   {
@@ -60916,7 +60935,7 @@
     "group": "",
     "title": "機器人系統架構與ROS 2開發實務",
     "cap": "",
-    "teacher": "",
+    "teacher": "楊奕禾",
     "times": [
       "三 / 11,12,13 / D 317"
     ]
@@ -66583,7 +66602,7 @@
     "group": "",
     "title": "論文",
     "cap": "",
-    "teacher": "蔡瑞敏",
+    "teacher": "陳佩筠",
     "times": [
       "日 / 1 /"
     ]
@@ -66703,7 +66722,7 @@
     "group": "",
     "title": "論文",
     "cap": "",
-    "teacher": "蔡瑞敏",
+    "teacher": "陳佩筠",
     "times": [
       "日 / 2 /"
     ]
@@ -68005,7 +68024,7 @@
     "credits": 2,
     "group": "",
     "title": "法國語言與文化 台北校園上課。30+大學:歐風文藝與跨文化對話學分學程",
-    "cap": 20,
+    "cap": "",
     "teacher": "陳麗娟",
     "times": [
       "五 / 3,4 / D 312"
@@ -68025,7 +68044,7 @@
     "credits": 2,
     "group": "",
     "title": "法國旅遊與文化 台北校園上課。30+大學:歐風文藝與跨文化對話學分學程",
-    "cap": 20,
+    "cap": "",
     "teacher": "陳麗娟",
     "times": [
       "五 / 6,7 / D 312"
@@ -68045,7 +68064,7 @@
     "credits": 2,
     "group": "",
     "title": "舌尖上的西語世界：飲食、文學與文化 台北校園上課。30+大學:歐風文藝與跨文化對話學分學程",
-    "cap": 20,
+    "cap": "",
     "teacher": "劉莉美",
     "times": [
       "三 / 3,4 / D 312"
@@ -68065,7 +68084,7 @@
     "credits": 2,
     "group": "",
     "title": "舌尖上的西語世界：美食敘事與文化實踐 台北校園上課。30+大學:歐風文藝與跨文化對話學分學程",
-    "cap": 20,
+    "cap": "",
     "teacher": "劉莉美",
     "times": [
       "三 / 6,7 / D 312"
@@ -71241,7 +71260,7 @@
     "group": "",
     "title": "微積分",
     "cap": 80,
-    "teacher": "",
+    "teacher": "張香旭",
     "times": [
       "四 / 9,10 / B 708"
     ]
@@ -71281,7 +71300,7 @@
     "group": "",
     "title": "微積分",
     "cap": 80,
-    "teacher": "",
+    "teacher": "張香旭",
     "times": [
       "四 / 9,10 / B 708"
     ]
@@ -71401,7 +71420,7 @@
     "group": "",
     "title": "貨幣銀行學",
     "cap": 120,
-    "teacher": "",
+    "teacher": "林文淼",
     "times": [
       "一 / 6,7 / B 704"
     ]
@@ -71606,7 +71625,7 @@
     "cap": 80,
     "teacher": "郭樂平",
     "times": [
-      "三 / 2,3,4 / B 426"
+      "三 / 2,3,4 / B 513"
     ]
   },
   {
@@ -74503,7 +74522,7 @@
     "cap": 100,
     "teacher": "顧廣平",
     "times": [
-      "一 / 6,7 / B 118",
+      "一 / 6,7 / B 428",
       "三 / 2 / B 503"
     ]
   },
@@ -76078,26 +76097,6 @@
     ]
   },
   {
-    "source": "TLCAB.htm",
-    "dept_block": "TLCAB.企管系英語班 DEPARTMENT OF BUSINESS ADMINISTRATION (ENGLISH-TAUGHT PROGRAM)",
-    "grade": "2",
-    "seq": "1984",
-    "code": "T0653",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "領導統御",
-    "cap": 70,
-    "teacher": "陳柏宏",
-    "times": [
-      "三 / 1,2 / B 425"
-    ]
-  },
-  {
     "source": "TLCXB.htm",
     "dept_block": "TLCXB.企管系（日） DEPARTMENT OF BUSINESS ADMINISTRATION",
     "grade": "1",
@@ -76436,7 +76435,7 @@
     "cap": 110,
     "teacher": "蕭莉芃",
     "times": [
-      "二 / 1,2 / B 111"
+      "二 / 1,2 / B 110"
     ]
   },
   {
@@ -77080,7 +77079,7 @@
     "cap": 90,
     "teacher": "吳坤山",
     "times": [
-      "二 / 3,4 / B 427",
+      "二 / 3,4 / B 111",
       "二 / 6 / B 606"
     ]
   },
@@ -77101,7 +77100,7 @@
     "cap": 90,
     "teacher": "吳坤山",
     "times": [
-      "二 / 2 / B 427",
+      "二 / 2 / B 111",
       "三 / 3,4 / B 118"
     ]
   },
@@ -78249,7 +78248,7 @@
     "cap": "",
     "teacher": "楊立人",
     "times": [
-      "一 / 6,7,8 / L 204"
+      "一 / 6,7,8 / L 306"
     ]
   },
   {
@@ -81049,7 +81048,7 @@
     "teacher": "陳水蓮",
     "times": [
       "四 / 1,2 / B 606",
-      "四 / 4 / B 429"
+      "四 / 4 / B 504"
     ]
   },
   {
@@ -81252,7 +81251,7 @@
     "group": "",
     "title": "數位轉型理論與實務",
     "cap": 120,
-    "teacher": "吳文舜,",
+    "teacher": "吳文舜,呂孟達",
     "times": [
       "五 / 6,7 / B 509",
       "五 / 8 / B 509"
@@ -81295,7 +81294,7 @@
     "cap": 80,
     "teacher": "鍾孟達",
     "times": [
-      "三 / 6 / B 508",
+      "三 / 6 / B 509",
       "三 / 8,9 / B 704"
     ]
   },
@@ -81779,7 +81778,7 @@
     "cap": 75,
     "teacher": "助教",
     "times": [
-      "三 / 3 / B 513"
+      "三 / 3 / B 426"
     ]
   },
   {
@@ -83706,7 +83705,7 @@
     "cap": 75,
     "teacher": "黃麗夏",
     "times": [
-      "二 / 1,2,3 / B 706"
+      "二 / 1,2,3 / B 507"
     ]
   },
   {
@@ -86404,7 +86403,7 @@
     "cap": 70,
     "teacher": "林至康",
     "times": [
-      "一 / 9,10 / B 609"
+      "一 / 9,10 / B 428"
     ]
   },
   {
@@ -86444,7 +86443,7 @@
     "cap": 70,
     "teacher": "林至康",
     "times": [
-      "一 / 9,10 / B 609"
+      "一 / 9,10 / B 428"
     ]
   },
   {
@@ -87070,7 +87069,7 @@
     "teacher": "林至康",
     "times": [
       "一 / 3,4 / B 608",
-      "三 / 8 / B 703"
+      "三 / 8 / B 706"
     ]
   },
   {
@@ -87294,7 +87293,7 @@
     "teacher": "林至康",
     "times": [
       "三 / 4 / B 703",
-      "三 / 6,7 / B 703"
+      "三 / 6,7 / B 706"
     ]
   },
   {
@@ -88220,7 +88219,7 @@
     "teacher": "洪鳴丰",
     "times": [
       "三 / 1,2 / B 507",
-      "三 / 4 / B 513"
+      "三 / 4 / B 426"
     ]
   },
   {
@@ -88863,7 +88862,7 @@
     "cap": "",
     "teacher": "張福昌",
     "times": [
-      "三 / 3,4,5 / T 608"
+      "三 / 3,4,5 / T 607"
     ]
   },
   {
@@ -89589,26 +89588,6 @@
   {
     "source": "TSAXB.htm",
     "dept_block": "TSAXB.尖端材料科學學程 BACHELOR’S PROGRAM IN ADVANCED MATERIALS SCIENCE",
-    "grade": "3",
-    "seq": "3280",
-    "code": "S0791",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "光電材料",
-    "cap": 175,
-    "teacher": "鄭振益",
-    "times": [
-      "五 / 6,7,8 / C 012"
-    ]
-  },
-  {
-    "source": "TSAXB.htm",
-    "dept_block": "TSAXB.尖端材料科學學程 BACHELOR’S PROGRAM IN ADVANCED MATERIALS SCIENCE",
     "grade": "4",
     "seq": "2867",
     "code": "S0072",
@@ -89645,6 +89624,26 @@
     "teacher": "莊程豪",
     "times": [
       "一 / 6,7,8 / S 311"
+    ]
+  },
+  {
+    "source": "TSAXB.htm",
+    "dept_block": "TSAXB.尖端材料科學學程 BACHELOR’S PROGRAM IN ADVANCED MATERIALS SCIENCE",
+    "grade": "4",
+    "seq": "3280",
+    "code": "S0791",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 3,
+    "group": "",
+    "title": "光電材料",
+    "cap": 175,
+    "teacher": "鄭振益",
+    "times": [
+      "五 / 6,7,8 / C 012"
     ]
   },
   {
@@ -91289,7 +91288,7 @@
     "teacher": "余成義",
     "times": [
       "一 / 1,2 / S 420",
-      "三 / 1 / S 101"
+      "三 / 1 / S 420"
     ]
   },
   {
@@ -91309,7 +91308,7 @@
     "cap": 80,
     "teacher": "助教",
     "times": [
-      "三 / 2 / S 101"
+      "三 / 2 / S 420"
     ]
   },
   {
@@ -93743,7 +93742,7 @@
     "group": "",
     "title": "長期照護機構與管理 ◇雙語授課(中文/英文)",
     "cap": "",
-    "teacher": "新／待聘",
+    "teacher": "蔡沂蓁",
     "times": [
       "四 / 6,7,8 / CL 506"
     ]
@@ -93983,7 +93982,7 @@
     "group": "",
     "title": "長期照護機構與管理 ◇雙語授課(中文/英文)",
     "cap": "",
-    "teacher": "新／待聘",
+    "teacher": "蔡沂蓁",
     "times": [
       "四 / 6,7,8 / CL 506"
     ]
@@ -95556,7 +95555,7 @@
     "cap": 70,
     "teacher": "助教",
     "times": [
-      "三 / 2 / B 513"
+      "三 / 2 / B 426"
     ]
   },
   {
@@ -96019,7 +96018,7 @@
     "cap": 80,
     "teacher": "助教",
     "times": [
-      "三 / 5 / B 607"
+      "三 / 5 / B 606"
     ]
   },
   {
@@ -96324,7 +96323,7 @@
     "cap": 80,
     "teacher": "林光男",
     "times": [
-      "二 / 1,2,3 / B 608"
+      "二 / 1,2,3 / B 427"
     ]
   },
   {
