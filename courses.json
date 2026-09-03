@@ -1576,7 +1576,7 @@
     "cap": 75,
     "teacher": "楊素梅",
     "times": [
-      "二 / 3,4 / H 119"
+      "二 / 3,4 / H 116"
     ]
   },
   {
@@ -9004,7 +9004,7 @@
     "cap": 69,
     "teacher": "鄭家慶",
     "times": [
-      "五 / 6,7 / T 701"
+      "五 / 6,7 / T 109"
     ]
   },
   {
@@ -23001,26 +23001,6 @@
   },
   {
     "source": "C05.htm",
-    "dept_block": "TGLXB.商管學院共同科日 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT",
-    "grade": "0",
-    "seq": null,
-    "code": "M2771",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": "",
-    "group": "",
-    "title": "統計學暨實習 TAICA遠距課程，https://taicatw.net/fall-115/查詢上課方式。",
-    "cap": 50,
-    "teacher": "助教",
-    "times": [
-      "二 / 6,7 /"
-    ]
-  },
-  {
-    "source": "C05.htm",
     "dept_block": "TGLXD.商管學院共同科博 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT-PH.D",
     "grade": "0",
     "seq": "9055",
@@ -23214,7 +23194,7 @@
     "credits": 3,
     "group": "",
     "title": "生成式ＡＩ：文字與圖像生成的原理與實務 TAICA遠距課程，https://taicatw.net/fall-115/查詢上課方式。大學部亦可選修。 ◇遠距收播外校課程",
-    "cap": 30,
+    "cap": 50,
     "teacher": "林仁祥,蔡炎龍",
     "times": [
       "二 / 9,10,11 /"
@@ -24229,8 +24209,8 @@
     "required": "選",
     "credits": 3,
     "group": "",
-    "title": "實體人工智慧 遠距收播【TAICA課程】，請至https://taicatw.net/fall-115/網頁查詢上課方式。大學部以上四年級可修讀 ◇全英語授課",
-    "cap": 30,
+    "title": "實體人工智慧 遠距收播【TAICA課程】，請至https://taicatw.net/fall-115/網頁查詢上課方式。大學部四年級以上可修讀 ◇全英語授課",
+    "cap": 50,
     "teacher": "曾易聰,陳奕廷",
     "times": [
       "二 / 6,7,8 /"
@@ -24354,26 +24334,6 @@
     "teacher": "周應龍",
     "times": [
       "二 / 3 / Q 203"
-    ]
-  },
-  {
-    "source": "C15.htm",
-    "dept_block": "TGLXB.商管學院共同科日 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT",
-    "grade": "0",
-    "seq": null,
-    "code": "M2771",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": "",
-    "group": "",
-    "title": "統計學暨實習 TAICA遠距課程，https://taicatw.net/fall-115/查詢上課方式。",
-    "cap": 50,
-    "teacher": "助教",
-    "times": [
-      "二 / 6,7 /"
     ]
   },
   {
@@ -25316,7 +25276,7 @@
     "cap": "",
     "teacher": "王英宏",
     "times": [
-      "二 / 7,8,9 / E 805"
+      "二 / 7,8,9 / E 414"
     ]
   },
   {
@@ -26944,26 +26904,6 @@
     "times": [
       "一 / 1 / B 603",
       "一 / 3,4 / B 604"
-    ]
-  },
-  {
-    "source": "E03.htm",
-    "dept_block": "TGLXB.商管學院共同科日 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT",
-    "grade": "0",
-    "seq": null,
-    "code": "M2771",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": "",
-    "group": "",
-    "title": "統計學暨實習 TAICA遠距課程，https://taicatw.net/fall-115/查詢上課方式。",
-    "cap": 50,
-    "teacher": "助教",
-    "times": [
-      "二 / 6,7 /"
     ]
   },
   {
@@ -29922,26 +29862,6 @@
     "teacher": "孫敏學",
     "times": [
       "四 / 8,9 / T 109"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TGLXB.商管學院共同科日 ELECTIVES COURSES BY COLLEGE OF BUSINESS AND MANAGEMENT",
-    "grade": "0",
-    "seq": null,
-    "code": "M2771",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": "",
-    "group": "",
-    "title": "統計學暨實習 TAICA遠距課程，https://taicatw.net/fall-115/查詢上課方式。",
-    "cap": 50,
-    "teacher": "助教",
-    "times": [
-      "二 / 6,7 /"
     ]
   },
   {
@@ -33084,7 +33004,7 @@
     "cap": 85,
     "teacher": "李文基",
     "times": [
-      "五 / 6,7 / T 109"
+      "五 / 6,7 / T 701"
     ]
   },
   {
@@ -49855,7 +49775,7 @@
     "cap": "",
     "teacher": "李家瑋",
     "times": [
-      "二 / 7,8 / E 414"
+      "二 / 7,8 / E 805"
     ]
   },
   {
@@ -52137,7 +52057,7 @@
     "group": "",
     "title": "計算機實驗 C2",
     "cap": 30,
-    "teacher": "待聘",
+    "teacher": "蘇煥鈞",
     "times": [
       "三 / 2,3,4 / E 213"
     ]
@@ -52740,7 +52660,7 @@
     "group": "",
     "title": "資訊系統實驗(一) C2",
     "cap": 30,
-    "teacher": "待聘",
+    "teacher": "蘇煥鈞",
     "times": [
       "五 / 1,2,3 / E 201"
     ]
@@ -54558,7 +54478,7 @@
     "cap": 175,
     "teacher": "陳步偉",
     "times": [
-      "四 / 1,2 / E 309"
+      "四 / 1,2 / G 315"
     ]
   },
   {
@@ -55476,7 +55396,7 @@
     "cap": 80,
     "teacher": "黃中信",
     "times": [
-      "二 / 9,10 / E 414"
+      "二 / 9,10 / E 509"
     ]
   },
   {
@@ -64640,7 +64560,7 @@
     "cap": 85,
     "teacher": "馬耀輝",
     "times": [
-      "四 / 8,9 / B 508"
+      "四 / 8,9 / E 513"
     ]
   },
   {
@@ -83661,9 +83581,28 @@
     "group": "",
     "title": "經濟學",
     "cap": 90,
-    "teacher": "楊宜衡,陳建穎",
+    "teacher": "陳建穎",
     "times": [
-      "三 / 6,7 / B 604",
+      "三 / 6,7 / B 604"
+    ]
+  },
+  {
+    "source": "TLOXB.htm",
+    "dept_block": "TLOXB.風保系（日） DEPARTMENT OF RISK MANAGEMENT AND INSURANCE",
+    "grade": "1",
+    "seq": null,
+    "code": "B0302",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": "",
+    "group": "",
+    "title": "經濟學",
+    "cap": 90,
+    "teacher": "助教",
+    "times": [
       "三 / 10 / B 119"
     ]
   },
@@ -83682,9 +83621,28 @@
     "group": "",
     "title": "經濟學",
     "cap": 90,
-    "teacher": "楊宜衡,林朕陞",
+    "teacher": "林朕陞",
     "times": [
-      "二 / 4,5 / B 604",
+      "二 / 4,5 / B 604"
+    ]
+  },
+  {
+    "source": "TLOXB.htm",
+    "dept_block": "TLOXB.風保系（日） DEPARTMENT OF RISK MANAGEMENT AND INSURANCE",
+    "grade": "1",
+    "seq": null,
+    "code": "B0302",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": "",
+    "group": "",
+    "title": "經濟學",
+    "cap": 90,
+    "teacher": "助教",
+    "times": [
       "二 / 7 / B 501"
     ]
   },
@@ -87814,9 +87772,28 @@
     "group": "",
     "title": "經濟學 本班生不得跨班修習;轉系及轉學生除外;本系學生\"需\"修習本系經濟學,\"且\"同時修習\"同一班\"之進階經濟學課程",
     "cap": 70,
-    "teacher": "楊博傑,廖珮瑜",
+    "teacher": "楊博傑",
     "times": [
-      "一 / 6,7 / B 701",
+      "一 / 6,7 / B 701"
+    ]
+  },
+  {
+    "source": "TLYXB.htm",
+    "dept_block": "TLYXB.經濟系（日） DEPARTMENT OF ECONOMICS",
+    "grade": "1",
+    "seq": null,
+    "code": "B0302",
+    "major": null,
+    "term_order": "1",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": "",
+    "group": "",
+    "title": "經濟學 本班生不得跨班修習;轉系及轉學生除外;本系學生\"需\"修習本系經濟學,\"且\"同時修習\"同一班\"之進階經濟學課程",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
       "二 / 3 / B 604"
     ]
   },
@@ -87835,9 +87812,28 @@
     "group": "",
     "title": "經濟學 本班生不得跨班修習;轉系及轉學生除外;本系學生\"需\"修習本系經濟學,\"且\"同時修習\"同一班\"之進階經濟學課程",
     "cap": 70,
-    "teacher": "洪鳴丰,廖珮瑜",
+    "teacher": "洪鳴丰",
     "times": [
-      "四 / 1,2 / B 702",
+      "四 / 1,2 / B 702"
+    ]
+  },
+  {
+    "source": "TLYXB.htm",
+    "dept_block": "TLYXB.經濟系（日） DEPARTMENT OF ECONOMICS",
+    "grade": "1",
+    "seq": null,
+    "code": "B0302",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": "",
+    "group": "",
+    "title": "經濟學 本班生不得跨班修習;轉系及轉學生除外;本系學生\"需\"修習本系經濟學,\"且\"同時修習\"同一班\"之進階經濟學課程",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
       "四 / 4 / B 426"
     ]
   },
@@ -87856,10 +87852,29 @@
     "group": "",
     "title": "經濟學 本班生不得跨班修習;轉系及轉學生除外;本系學生\"需\"修習本系經濟學,\"且\"同時修習\"同一班\"之進階經濟學課程",
     "cap": 70,
-    "teacher": "林彥伶,廖珮瑜",
+    "teacher": "林彥伶",
     "times": [
-      "一 / 3 / B 508",
       "一 / 6,7 / B 601"
+    ]
+  },
+  {
+    "source": "TLYXB.htm",
+    "dept_block": "TLYXB.經濟系（日） DEPARTMENT OF ECONOMICS",
+    "grade": "1",
+    "seq": null,
+    "code": "B0302",
+    "major": null,
+    "term_order": "1",
+    "class": "C",
+    "group_div": null,
+    "required": "必",
+    "credits": "",
+    "group": "",
+    "title": "經濟學 本班生不得跨班修習;轉系及轉學生除外;本系學生\"需\"修習本系經濟學,\"且\"同時修習\"同一班\"之進階經濟學課程",
+    "cap": 70,
+    "teacher": "助教",
+    "times": [
+      "一 / 3 / B 508"
     ]
   },
   {
@@ -95334,7 +95349,7 @@
     "group": "",
     "title": "統合分析",
     "cap": "",
-    "teacher": "新／待聘",
+    "teacher": "黃意婷",
     "times": [
       "二 / 6,7,8 / T 410"
     ]
