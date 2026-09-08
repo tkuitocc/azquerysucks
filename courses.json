@@ -25563,7 +25563,7 @@
     "credits": 4,
     "group": "",
     "title": "俄語語法（一） ◇遠距非同步課程",
-    "cap": "",
+    "cap": 5,
     "teacher": "鄭盈盈",
     "times": [
       "二 / 9,10 / L 407",
@@ -27051,7 +27051,7 @@
     "group": "",
     "title": "磁性資料儲存裝置簡介 ◇全英語授課",
     "cap": "",
-    "teacher": "待聘",
+    "teacher": "羅士忠",
     "times": [
       "四 / 4 / E 510"
     ]
@@ -27969,7 +27969,7 @@
     "group": "",
     "title": "機器學習與深度學習基礎 ◇全英語授課",
     "cap": "",
-    "teacher": "方百立",
+    "teacher": "待聘",
     "times": [
       "三 / 2,3,4 / E 826"
     ]
@@ -36390,7 +36390,7 @@
     "required": "選",
     "credits": 2,
     "group": "",
-    "title": "口譯與ＡＩ應用 ◇雙語授課(中文/法文)",
+    "title": "口譯與ＡＩ應用 非中文母語者須具備HSK 第六級或TOCFL 第四級以上的程度」。 ◇雙語授課(中文/法文)",
     "cap": 30,
     "teacher": "陳瑋靜",
     "times": [
@@ -37404,7 +37404,7 @@
     "credits": 2,
     "group": "",
     "title": "俄語會話（二） 限本組，申請本組雙主修、輔系、輔修需至系辦登記選課 ◇全俄語授課",
-    "cap": "",
+    "cap": 5,
     "teacher": "史薇塔",
     "times": [
       "一 / 6,7 / T 705"
@@ -37424,7 +37424,7 @@
     "credits": 2,
     "group": "",
     "title": "俄語會話（二） 限本組，申請本組雙主修、輔系、輔修需至系辦登記選課 ◇全俄語授課",
-    "cap": "",
+    "cap": 5,
     "teacher": "史薇塔",
     "times": [
       "一 / 8,9 / T 705"
@@ -37444,7 +37444,7 @@
     "credits": 2,
     "group": "",
     "title": "俄語語言練習（二） 須繳語言實習費；限本組，申請本組雙主修、輔系、輔修需至系辦登記選課 ◇全俄語授課",
-    "cap": "",
+    "cap": 5,
     "teacher": "王開顏",
     "times": [
       "二 / 6,7 / T 604"
@@ -37464,7 +37464,7 @@
     "credits": "",
     "group": "",
     "title": "俄語語言練習（二） 須繳語言實習費；限本組，申請本組雙主修、輔系、輔修需至系辦登記選課",
-    "cap": "",
+    "cap": 5,
     "teacher": "助教",
     "times": [
       "四 / 5 / L 202"
@@ -37484,7 +37484,7 @@
     "credits": 2,
     "group": "",
     "title": "俄語會話（三） 限本組，申請本組雙主修、輔系、輔修需至系辦登記選課 ◇全俄語授課",
-    "cap": "",
+    "cap": 5,
     "teacher": "龔雅雪",
     "times": [
       "四 / 1,2 / L 406"
@@ -37524,7 +37524,7 @@
     "credits": 2,
     "group": "",
     "title": "生活俄語寫作 限本組，申請本組雙主修、輔系、輔修需至系辦登記選課 ◇全俄語授課",
-    "cap": "",
+    "cap": 5,
     "teacher": "史薇塔",
     "times": [
       "二 / 3,4 / T 403"
@@ -37544,7 +37544,7 @@
     "credits": 2,
     "group": "",
     "title": "俄語會話（四） 限本組，申請本組雙主修、輔系、輔修需至系辦登記選課 ◇全俄語授課",
-    "cap": "",
+    "cap": 5,
     "teacher": "史薇塔",
     "times": [
       "三 / 1,2 / T 608"
@@ -49701,7 +49701,7 @@
     "cap": 105,
     "teacher": "邱旻璋",
     "times": [
-      "一 / 5 /",
+      "一 / 5 / E 307",
       "二 / 5 / E 515"
     ]
   },
@@ -54062,8 +54062,8 @@
     "credits": 3,
     "group": "",
     "title": "網路安全",
-    "cap": 175,
-    "teacher": "方百立",
+    "cap": "",
+    "teacher": "待聘",
     "times": [
       "四 / 11,12,13 / E 415"
     ]
@@ -54223,7 +54223,7 @@
     "group": "",
     "title": "類神經網路",
     "cap": "",
-    "teacher": "方百立",
+    "teacher": "待聘",
     "times": [
       "一 / 1,2,3 / E 510"
     ]
@@ -62060,6 +62060,26 @@
   {
     "source": "TEWXM.htm",
     "dept_block": "TEWXM.水環系碩士班 MASTER’S PROGRAM, DEPARTMENT OF WATER RESOURCES AND ENVIRONMENTAL ENGINEERING",
+    "grade": "1",
+    "seq": "8554",
+    "code": "T0140",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 1,
+    "group": "",
+    "title": "專題討論",
+    "cap": "",
+    "teacher": "李奇旺",
+    "times": [
+      "三 / 5 / E 829"
+    ]
+  },
+  {
+    "source": "TEWXM.htm",
+    "dept_block": "TEWXM.水環系碩士班 MASTER’S PROGRAM, DEPARTMENT OF WATER RESOURCES AND ENVIRONMENTAL ENGINEERING",
     "grade": "2",
     "seq": "8204",
     "code": "T8000",
@@ -68369,7 +68389,7 @@
     "credits": 2,
     "group": "",
     "title": "俄語會話（一）",
-    "cap": "",
+    "cap": 5,
     "teacher": "張慶國",
     "times": [
       "五 / 3,4 / T 601"
@@ -68389,7 +68409,7 @@
     "credits": 2,
     "group": "",
     "title": "俄語會話（一）",
-    "cap": "",
+    "cap": 5,
     "teacher": "張慶國",
     "times": [
       "五 / 1,2 / T 604"
@@ -68429,7 +68449,7 @@
     "credits": 2,
     "group": "",
     "title": "俄語語言練習（一）",
-    "cap": "",
+    "cap": 5,
     "teacher": "郭昕宜",
     "times": [
       "一 / 1,2 / L 308"
@@ -68449,7 +68469,7 @@
     "credits": "",
     "group": "",
     "title": "俄語語言練習（一）",
-    "cap": "",
+    "cap": 5,
     "teacher": "助教",
     "times": [
       "四 / 6 / L 202"
@@ -68469,7 +68489,7 @@
     "credits": 2,
     "group": "",
     "title": "俄語語言練習（一）",
-    "cap": "",
+    "cap": 5,
     "teacher": "鄭盈盈",
     "times": [
       "二 / 7,8 / L 407"
@@ -68489,7 +68509,7 @@
     "credits": "",
     "group": "",
     "title": "俄語語言練習（一）",
-    "cap": "",
+    "cap": 5,
     "teacher": "助教",
     "times": [
       "一 / 5 / T 211"
@@ -68509,7 +68529,7 @@
     "credits": 4,
     "group": "",
     "title": "大一俄語（一）",
-    "cap": "",
+    "cap": 5,
     "teacher": "劉皇杏",
     "times": [
       "二 / 1,2 / T 808",
@@ -68570,7 +68590,7 @@
     "credits": 4,
     "group": "",
     "title": "大二俄語 限本組，申請本組雙主修、輔系、輔修需至系辦登記選課",
-    "cap": "",
+    "cap": 5,
     "teacher": "郭昕宜",
     "times": [
       "一 / 3,4 / L 308",
@@ -68591,7 +68611,7 @@
     "credits": 3,
     "group": "",
     "title": "俄語語法（二） 限本組，申請本組雙主修、輔系、輔修需至系辦登記選課",
-    "cap": "",
+    "cap": 5,
     "teacher": "蘇淑燕",
     "times": [
       "二 / 8 / T 604",
@@ -68612,7 +68632,7 @@
     "credits": 3,
     "group": "",
     "title": "俄語語法（二） 限本組，申請本組雙主修、輔系、輔修需至系辦登記選課",
-    "cap": "",
+    "cap": 5,
     "teacher": "蘇淑燕",
     "times": [
       "一 / 5 / T 401",
@@ -68633,7 +68653,7 @@
     "credits": 2,
     "group": "",
     "title": "俄語語言練習（二） 須繳語言實習費；限本組，申請本組雙主修、輔系、輔修需至系辦登記選課",
-    "cap": "",
+    "cap": 5,
     "teacher": "劉皇杏",
     "times": [
       "三 / 1,2 / T 603"
@@ -68653,7 +68673,7 @@
     "credits": "",
     "group": "",
     "title": "俄語語言練習（二） 須繳語言實習費；限本組，申請本組雙主修、輔系、輔修需至系辦登記選課",
-    "cap": "",
+    "cap": 5,
     "teacher": "助教",
     "times": [
       "四 / 5 / L 202"
@@ -68673,7 +68693,7 @@
     "credits": "",
     "group": "",
     "title": "俄語語言練習（二） 須繳語言實習費；限本組，申請本組雙主修、輔系、輔修需至系辦登記選課",
-    "cap": "",
+    "cap": 5,
     "teacher": "助教",
     "times": [
       "四 / 5 / L 202"
@@ -68733,7 +68753,7 @@
     "credits": 2,
     "group": "",
     "title": "大三俄語 限本組，申請本組雙主修、輔系、輔修需至系辦登記選課",
-    "cap": "",
+    "cap": 5,
     "teacher": "鄭盈盈",
     "times": [
       "四 / 8,9 / B 120"
