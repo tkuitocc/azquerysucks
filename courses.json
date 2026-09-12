@@ -16414,7 +16414,7 @@
     "group": "",
     "title": "男、女生體育 ◇全英語授課",
     "cap": 70,
-    "teacher": "新聘",
+    "teacher": "方百立",
     "times": [
       "四 / 1,2 /"
     ]
@@ -16874,7 +16874,7 @@
     "group": "",
     "title": "男、女生體育",
     "cap": 70,
-    "teacher": "待聘",
+    "teacher": "王叡栩",
     "times": [
       "一 / 9,10 /"
     ]
@@ -17234,7 +17234,7 @@
     "group": "",
     "title": "男、女生體育",
     "cap": 70,
-    "teacher": "新／待聘",
+    "teacher": "",
     "times": [
       "二 / 7,8 /"
     ]
@@ -18094,7 +18094,7 @@
     "group": "",
     "title": "男、女生體育－桌球興趣班 體育館SG322桌球室",
     "cap": 60,
-    "teacher": "新／待聘",
+    "teacher": "",
     "times": [
       "一 / 3,4 / SG 322"
     ]
@@ -18454,7 +18454,7 @@
     "group": "",
     "title": "男、女生體育－羽球興趣班 體育館4樓羽球場 ◇全英語授課",
     "cap": 55,
-    "teacher": "新／待聘",
+    "teacher": "方百立",
     "times": [
       "五 / 9,10 /"
     ]
@@ -25503,7 +25503,7 @@
     "credits": 2,
     "group": "",
     "title": "西班牙文作文（一） ◇遠距非同步課程◇雙語授課(中文/西語)",
-    "cap": 35,
+    "cap": "",
     "teacher": "劉莉美",
     "times": [
       "五 / 6,7 / T 704"
@@ -25523,7 +25523,7 @@
     "credits": 2,
     "group": "",
     "title": "西班牙文作文（二） ◇遠距非同步課程◇全西語授課",
-    "cap": 25,
+    "cap": "",
     "teacher": "潘荷西",
     "times": [
       "二 / 1,2 / T 605"
@@ -32266,6 +32266,26 @@
   },
   {
     "source": "F01.htm",
+    "dept_block": "TLUXM.財金雙碩士學程 TKU-QUT DUAL MASTER DEGREE PROGRAM IN FINANCE (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "2",
+    "seq": "8547",
+    "code": "T8000",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 0,
+    "group": "",
+    "title": "論文 ◇全英語授課",
+    "cap": "",
+    "teacher": "陳炤良",
+    "times": [
+      "日 / 3 /"
+    ]
+  },
+  {
+    "source": "F01.htm",
     "dept_block": "TLYXM.經濟系碩士班 MASTER’S PROGRAM, DEPARTMENT OF ECONOMICS",
     "grade": "2",
     "seq": "8384",
@@ -34710,7 +34730,7 @@
     "cap": 25,
     "teacher": "吳瑜雲",
     "times": [
-      "三 / 7,8 / H 119"
+      "三 / 7,8 / T 503"
     ]
   },
   {
@@ -36033,7 +36053,7 @@
     "cap": 70,
     "teacher": "助教",
     "times": [
-      "三 / 5 / B 206"
+      "三 / 5 / B 204"
     ]
   },
   {
@@ -36591,7 +36611,7 @@
     "credits": 4,
     "group": "",
     "title": "西班牙語會話（三） ◇全西語授課",
-    "cap": 20,
+    "cap": "",
     "teacher": "白士清",
     "times": [
       "一 / 3,4 / T 406",
@@ -36612,7 +36632,7 @@
     "credits": 4,
     "group": "",
     "title": "西班牙語會話（三） ◇全西語授課",
-    "cap": 20,
+    "cap": "",
     "teacher": "羅雅芳",
     "times": [
       "二 / 7,8 / T 705",
@@ -36633,7 +36653,7 @@
     "credits": 4,
     "group": "",
     "title": "西班牙語會話（三） ◇全西語授課",
-    "cap": 20,
+    "cap": "",
     "teacher": "黃德華",
     "times": [
       "二 / 5,6 / T 705",
@@ -36654,7 +36674,7 @@
     "credits": 2,
     "group": "",
     "title": "西班牙文作文（二） ◇全西語授課",
-    "cap": 25,
+    "cap": "",
     "teacher": "白士清",
     "times": [
       "三 / 1,2 / T 903"
@@ -36774,7 +36794,7 @@
     "credits": 4,
     "group": "",
     "title": "初階西班牙語會話（一） ◇雙語授課(中文/西語)",
-    "cap": 20,
+    "cap": "",
     "teacher": "李靜枝",
     "times": [
       "二 / 6,7 / T 502",
@@ -36795,7 +36815,7 @@
     "credits": 4,
     "group": "",
     "title": "初階西班牙語會話（一） ◇雙語授課(中文/西語)",
-    "cap": 20,
+    "cap": "",
     "teacher": "李文進",
     "times": [
       "一 / 5,6 / T 508",
@@ -36816,7 +36836,7 @@
     "credits": 4,
     "group": "",
     "title": "初階西班牙語會話（一） ◇雙語授課(中文/西語)",
-    "cap": 20,
+    "cap": "",
     "teacher": "羅雅芳",
     "times": [
       "二 / 3,4 / T 502",
@@ -36837,7 +36857,7 @@
     "credits": 4,
     "group": "",
     "title": "初級西班牙文文法（一） ◇雙語授課(中文/西語)",
-    "cap": 35,
+    "cap": "",
     "teacher": "劉愛玲",
     "times": [
       "二 / 3,4 / L 407",
@@ -36858,7 +36878,7 @@
     "credits": 4,
     "group": "",
     "title": "初級西班牙文文法（一） ◇雙語授課(中文/西語)",
-    "cap": 35,
+    "cap": "",
     "teacher": "劉珍綾",
     "times": [
       "一 / 7,8 / L 407",
@@ -36879,7 +36899,7 @@
     "credits": 2,
     "group": "",
     "title": "西班牙文閱讀與習作（一） ◇雙語授課(中文/西語)",
-    "cap": 35,
+    "cap": "",
     "teacher": "李文進",
     "times": [
       "一 / 7,8 / T 508"
@@ -36899,7 +36919,7 @@
     "credits": 2,
     "group": "",
     "title": "西班牙文閱讀與習作（一） ◇雙語授課(中文/西語)",
-    "cap": 35,
+    "cap": "",
     "teacher": "張芸綺",
     "times": [
       "二 / 1,2 / T 601"
@@ -36919,7 +36939,7 @@
     "credits": 2,
     "group": "",
     "title": "西班牙文閱讀與習作（一） ◇雙語授課(中文/西語)",
-    "cap": 35,
+    "cap": "",
     "teacher": "張芸綺",
     "times": [
       "三 / 3,4 / E 415"
@@ -36939,7 +36959,7 @@
     "credits": 2,
     "group": "",
     "title": "基礎西班牙語聽力與發音（一） ◇雙語授課(中文/西語)",
-    "cap": 35,
+    "cap": "",
     "teacher": "何萬儀",
     "times": [
       "一 / 3,4 / T 508"
@@ -36959,7 +36979,7 @@
     "credits": "",
     "group": "",
     "title": "基礎西班牙語聽力與發音（一）",
-    "cap": 35,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 7 / V 201"
@@ -37019,7 +37039,7 @@
     "credits": 2,
     "group": "",
     "title": "基礎西班牙語聽力與發音（一） ◇雙語授課(中文/西語)",
-    "cap": 35,
+    "cap": "",
     "teacher": "何萬儀",
     "times": [
       "四 / 3,4 / T 508"
@@ -37039,7 +37059,7 @@
     "credits": "",
     "group": "",
     "title": "基礎西班牙語聽力與發音（一）",
-    "cap": 35,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 4 / L 101"
@@ -37059,7 +37079,7 @@
     "credits": 4,
     "group": "",
     "title": "西班牙語會話（二） ◇雙語授課(中文/西語)",
-    "cap": 20,
+    "cap": "",
     "teacher": "張芸綺",
     "times": [
       "一 / 3,4 / T 502",
@@ -37080,7 +37100,7 @@
     "credits": 4,
     "group": "",
     "title": "西班牙語會話（二） ◇雙語授課(中文/西語)",
-    "cap": 20,
+    "cap": "",
     "teacher": "戴毓芬",
     "times": [
       "二 / 3,4 / T 406",
@@ -37101,7 +37121,7 @@
     "credits": 4,
     "group": "",
     "title": "西班牙語會話（二） ◇雙語授課(中文/西語)",
-    "cap": 20,
+    "cap": "",
     "teacher": "劉莉美",
     "times": [
       "二 / 7,8 / T 701",
@@ -37122,7 +37142,7 @@
     "credits": 2,
     "group": "",
     "title": "西班牙文作文（一） ◇雙語授課(中文/西語)",
-    "cap": 35,
+    "cap": "",
     "teacher": "劉莉美",
     "times": [
       "五 / 3,4 / T 703"
@@ -37142,7 +37162,7 @@
     "credits": 2,
     "group": "",
     "title": "西班牙文作文（一） ◇雙語授課(中文/西語)",
-    "cap": 35,
+    "cap": "",
     "teacher": "李文進",
     "times": [
       "二 / 1,2 / T 109"
@@ -37162,7 +37182,7 @@
     "credits": 4,
     "group": "",
     "title": "中級西班牙文文法 ◇雙語授課(中文/西語)",
-    "cap": 35,
+    "cap": "",
     "teacher": "劉愛玲",
     "times": [
       "二 / 7,8 / T 703",
@@ -37183,7 +37203,7 @@
     "credits": 4,
     "group": "",
     "title": "中級西班牙文文法 ◇雙語授課(中文/西語)",
-    "cap": 35,
+    "cap": "",
     "teacher": "劉珍綾",
     "times": [
       "一 / 5,6 / L 407",
@@ -60817,7 +60837,7 @@
     "group": "",
     "title": "電機專題實驗 原電資組，B4",
     "cap": "",
-    "teacher": "陳一葳",
+    "teacher": "易志孝",
     "times": [
       "/ /"
     ]
@@ -68148,7 +68168,7 @@
     "credits": "",
     "group": "",
     "title": "基礎西班牙語聽力與發音（一）",
-    "cap": 35,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 7 / V 201"
@@ -68188,7 +68208,7 @@
     "credits": "",
     "group": "",
     "title": "基礎西班牙語聽力與發音（一）",
-    "cap": 35,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 4 / L 101"
@@ -87521,26 +87541,6 @@
     ]
   },
   {
-    "source": "TLUXM.htm",
-    "dept_block": "TLUXM.財金雙碩士學程 TKU-QUT DUAL MASTER DEGREE PROGRAM IN FINANCE (ENGLISH-TAUGHT PROGRAM)",
-    "grade": "2",
-    "seq": "8547",
-    "code": "T8000",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 0,
-    "group": "",
-    "title": "論文",
-    "cap": "",
-    "teacher": "陳炤良",
-    "times": [
-      "日 / 3 /"
-    ]
-  },
-  {
     "source": "TLYAM.htm",
     "dept_block": "TLYAM.經濟碩士班 MASTER’S PROGRAM IN ECONOMICS AND FINANCE, DEPARTMENT OF ECONOMICS",
     "grade": "1",
@@ -87858,7 +87858,7 @@
     "cap": 70,
     "teacher": "助教",
     "times": [
-      "三 / 5 / B 206"
+      "三 / 5 / B 204"
     ]
   },
   {
