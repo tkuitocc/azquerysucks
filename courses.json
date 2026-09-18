@@ -33,7 +33,7 @@
     "credits": 2,
     "group": "O",
     "title": "網路與資訊科技",
-    "cap": 64,
+    "cap": 70,
     "teacher": "王元慶",
     "times": [
       "五 / 6,7 / B 218"
@@ -113,7 +113,7 @@
     "credits": 2,
     "group": "O",
     "title": "多媒體實務與應用",
-    "cap": 64,
+    "cap": 70,
     "teacher": "陳德展",
     "times": [
       "五 / 6,7 / B 216"
@@ -153,7 +153,7 @@
     "credits": 2,
     "group": "O",
     "title": "Python程式語言",
-    "cap": 65,
+    "cap": 70,
     "teacher": "林承賢",
     "times": [
       "三 / 6,7 / B 218"
@@ -173,7 +173,7 @@
     "credits": 2,
     "group": "O",
     "title": "Python程式語言",
-    "cap": 66,
+    "cap": 70,
     "teacher": "黃子嘉",
     "times": [
       "四 / 6,7 / B 130"
@@ -193,7 +193,7 @@
     "credits": 2,
     "group": "O",
     "title": "Python程式語言",
-    "cap": 65,
+    "cap": 70,
     "teacher": "張漢琦",
     "times": [
       "五 / 6,7 / B 217"
@@ -213,7 +213,7 @@
     "credits": 2,
     "group": "O",
     "title": "電腦入門與程式思維 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇全英語授課",
-    "cap": 69,
+    "cap": 70,
     "teacher": "洪復一",
     "times": [
       "二 / 6,7 / B 130"
@@ -233,7 +233,7 @@
     "credits": 2,
     "group": "O",
     "title": "電腦入門與程式思維 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 64,
+    "cap": 70,
     "teacher": "林昆佑",
     "times": [
       "三 / 6,7 / B 217"
@@ -273,7 +273,7 @@
     "credits": 2,
     "group": "O",
     "title": "資通安全管理概論 ◇全英語授課",
-    "cap": 66,
+    "cap": 70,
     "teacher": "楊博宏",
     "times": [
       "三 / 6,7 / B 130"
@@ -293,7 +293,7 @@
     "credits": 2,
     "group": "O",
     "title": "量子演算法導論",
-    "cap": 67,
+    "cap": 70,
     "teacher": "李啟正",
     "times": [
       "四 / 3,4 / S 420"
@@ -313,7 +313,7 @@
     "credits": 2,
     "group": "O",
     "title": "網頁程式設計",
-    "cap": 61,
+    "cap": 70,
     "teacher": "黃信貿",
     "times": [
       "四 / 6,7 / B 217"
@@ -333,7 +333,7 @@
     "credits": 2,
     "group": "O",
     "title": "網頁程式設計",
-    "cap": 69,
+    "cap": 70,
     "teacher": "陳啓禎",
     "times": [
       "二 / 6,7 / B 216"
@@ -473,7 +473,7 @@
     "credits": 2,
     "group": "L",
     "title": "文學名篇選讀：群己與生命",
-    "cap": 65,
+    "cap": 74,
     "teacher": "周德良",
     "times": [
       "三 / 1,2 / L 205"
@@ -493,7 +493,7 @@
     "credits": 2,
     "group": "L",
     "title": "文學名篇選讀：群己與生命",
-    "cap": 70,
+    "cap": 74,
     "teacher": "黃文倩",
     "times": [
       "二 / 1,2 / L 302"
@@ -513,7 +513,7 @@
     "credits": 2,
     "group": "L",
     "title": "文學名篇選讀：群己與生命",
-    "cap": 70,
+    "cap": 74,
     "teacher": "黃文倩",
     "times": [
       "四 / 1,2 / L 302"
@@ -533,7 +533,7 @@
     "credits": 2,
     "group": "L",
     "title": "文學名篇選讀：群己與生命",
-    "cap": 66,
+    "cap": 74,
     "teacher": "陳忠滄",
     "times": [
       "三 / 8,9 / SG 504"
@@ -593,7 +593,7 @@
     "credits": 2,
     "group": "L",
     "title": "當代英美文學經典 ◇全英語授課",
-    "cap": 68,
+    "cap": 74,
     "teacher": "羅艾琳",
     "times": [
       "五 / 8,9 / T 601"
@@ -673,7 +673,7 @@
     "credits": 2,
     "group": "L",
     "title": "德語文學名著選讀（一）",
-    "cap": 66,
+    "cap": 74,
     "teacher": "林郁嫺",
     "times": [
       "二 / 3,4 / T 109"
@@ -733,7 +733,7 @@
     "credits": 2,
     "group": "M",
     "title": "表演藝術－傳統戲曲賞析 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 77,
+    "cap": 80,
     "teacher": "翁瑋鴻",
     "times": [
       "五 / 7,8 / V 101"
@@ -753,7 +753,7 @@
     "credits": 2,
     "group": "M",
     "title": "數位藝術概論",
-    "cap": 76,
+    "cap": 80,
     "teacher": "吳宇軒",
     "times": [
       "一 / 5,6 / V 101"
@@ -773,7 +773,7 @@
     "credits": 2,
     "group": "M",
     "title": "世界名曲賞析與詮釋 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 79,
+    "cap": 80,
     "teacher": "干詠穎",
     "times": [
       "三 / 3,4 / V 101"
@@ -793,7 +793,7 @@
     "credits": 2,
     "group": "M",
     "title": "世界名曲賞析與詮釋 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 77,
+    "cap": 80,
     "teacher": "干詠穎",
     "times": [
       "三 / 5,6 / V 101"
@@ -913,7 +913,7 @@
     "credits": 2,
     "group": "M",
     "title": "鋼琴藝術與生活 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 78,
+    "cap": 80,
     "teacher": "李珮瑜",
     "times": [
       "四 / 5,6 / V 101"
@@ -953,7 +953,7 @@
     "credits": 2,
     "group": "M",
     "title": "音樂與藝術的對話 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇全英語授課",
-    "cap": 78,
+    "cap": 80,
     "teacher": "李珮瑜",
     "times": [
       "二 / 3,4 / V 101"
@@ -973,7 +973,7 @@
     "credits": 2,
     "group": "M",
     "title": "音樂與藝術的對話 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 72,
+    "cap": 80,
     "teacher": "李珮瑜",
     "times": [
       "四 / 7,8 / V 101"
@@ -993,7 +993,7 @@
     "credits": 2,
     "group": "M",
     "title": "身體語言與舞蹈藝術 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 34,
+    "cap": 35,
     "teacher": "吳文琪",
     "times": [
       "二 / 7,8 / V 101"
@@ -1013,7 +1013,7 @@
     "credits": 2,
     "group": "M",
     "title": "身體語言與舞蹈藝術 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 28,
+    "cap": 30,
     "teacher": "吳文琪",
     "times": [
       "三 / 3,4 / H 103"
@@ -1073,7 +1073,7 @@
     "credits": 2,
     "group": "M",
     "title": "歐洲文化藝術行旅 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 73,
+    "cap": 80,
     "teacher": "蔡秀卿",
     "times": [
       "二 / 9,10 / SG 321"
@@ -1093,7 +1093,7 @@
     "credits": 2,
     "group": "M",
     "title": "音樂概論與數位應用 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 77,
+    "cap": 80,
     "teacher": "干詠穎",
     "times": [
       "二 / 5,6 / V 101"
@@ -1113,7 +1113,7 @@
     "credits": 2,
     "group": "M",
     "title": "音樂概論與數位應用 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇全英語授課",
-    "cap": 77,
+    "cap": 80,
     "teacher": "干詠穎",
     "times": [
       "五 / 3,4 / V 101"
@@ -1133,7 +1133,7 @@
     "credits": 2,
     "group": "M",
     "title": "表演藝術－當代舞蹈賞析與體驗 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇全英語授課",
-    "cap": 28,
+    "cap": 30,
     "teacher": "吳文琪",
     "times": [
       "四 / 3,4 / H 103"
@@ -1153,7 +1153,7 @@
     "credits": 2,
     "group": "M",
     "title": "表演藝術與實作 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇遠距非同步課程",
-    "cap": 85,
+    "cap": 95,
     "teacher": "陳慧勻",
     "times": [
       "三 / 7,8 / V 101"
@@ -1173,7 +1173,7 @@
     "credits": 2,
     "group": "M",
     "title": "表演藝術與實作 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇遠距非同步課程",
-    "cap": 77,
+    "cap": 80,
     "teacher": "陳慧勻",
     "times": [
       "四 / 3,4 / V 101"
@@ -1193,7 +1193,7 @@
     "credits": 2,
     "group": "M",
     "title": "西洋歌劇欣賞入門 淡水校園上課",
-    "cap": 71,
+    "cap": 85,
     "teacher": "王淑堯",
     "times": [
       "六 / 3,4 / B 508"
@@ -1933,7 +1933,7 @@
     "credits": 2,
     "group": "P",
     "title": "中國歷史與人物",
-    "cap": 68,
+    "cap": 74,
     "teacher": "戴月芳",
     "times": [
       "四 / 8,9 / SG 319"
@@ -1973,7 +1973,7 @@
     "credits": 2,
     "group": "P",
     "title": "中國歷史與人物",
-    "cap": 72,
+    "cap": 74,
     "teacher": "張志強",
     "times": [
       "三 / 8,9 / B 429"
@@ -2013,7 +2013,7 @@
     "credits": 2,
     "group": "P",
     "title": "西洋歷史與人物 ◇全英語授課",
-    "cap": 69,
+    "cap": 74,
     "teacher": "楊仲軒",
     "times": [
       "一 / 8,9 / B 116"
@@ -2033,7 +2033,7 @@
     "credits": 2,
     "group": "P",
     "title": "西洋歷史與人物 ◇雙語授課(中文/英文)",
-    "cap": 70,
+    "cap": 74,
     "teacher": "蔡育潞",
     "times": [
       "五 / 1,2 / SG 503"
@@ -2053,7 +2053,7 @@
     "credits": 2,
     "group": "P",
     "title": "西洋歷史與人物",
-    "cap": 68,
+    "cap": 74,
     "teacher": "林嘉琪",
     "times": [
       "四 / 1,2 / L 401"
@@ -2093,7 +2093,7 @@
     "credits": 2,
     "group": "P",
     "title": "台灣歷史采風與踏查",
-    "cap": 72,
+    "cap": 74,
     "teacher": "曾令毅",
     "times": [
       "五 / 1,2 / SG 504"
@@ -2153,7 +2153,7 @@
     "credits": 2,
     "group": "P",
     "title": "台灣歷史采風與踏查",
-    "cap": 70,
+    "cap": 74,
     "teacher": "張泓斌",
     "times": [
       "二 / 6,7 / SG 314"
@@ -2213,7 +2213,7 @@
     "credits": 2,
     "group": "P",
     "title": "台灣海洋歷史與文化",
-    "cap": 72,
+    "cap": 74,
     "teacher": "黃子嘉",
     "times": [
       "三 / 1,2 / L 212"
@@ -2293,7 +2293,7 @@
     "credits": 2,
     "group": "P",
     "title": "台灣歷史采風與踏查 ◇遠距非同步課程",
-    "cap": 72,
+    "cap": 85,
     "teacher": "陳琮淵",
     "times": [
       "二 / 11,12 / B 506"
@@ -2333,7 +2333,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "王慧娟",
     "times": [
       "五 / 8,9 / T 404"
@@ -2353,7 +2353,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "林品君",
     "times": [
       "五 / 1 / L 101"
@@ -2373,7 +2373,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "王寶月",
     "times": [
       "五 / 8,9 / B 608"
@@ -2393,7 +2393,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "二 / 1 / L 101"
@@ -2413,7 +2413,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "蔡文慈",
     "times": [
       "五 / 8,9 / B 501"
@@ -2433,7 +2433,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 1 / L 202"
@@ -2453,7 +2453,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "卓建宏",
     "times": [
       "五 / 8,9 / B 702"
@@ -2473,7 +2473,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 1 / T 211"
@@ -2493,7 +2493,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "林敘如",
     "times": [
       "五 / 8,9 / B 601"
@@ -2513,7 +2513,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "二 / 1 / L 202"
@@ -2533,7 +2533,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "陳韻如",
     "times": [
       "五 / 8,9 / B 426"
@@ -2553,7 +2553,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "謝欣芳",
     "times": [
       "二 / 1 / T 211"
@@ -2573,7 +2573,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "邱春煌",
     "times": [
       "五 / 8,9 / B 701"
@@ -2593,7 +2593,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "王潔",
     "times": [
       "二 / 1 / L 104"
@@ -2613,7 +2613,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "項人慧",
     "times": [
       "五 / 8,9 / B 117"
@@ -2633,7 +2633,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 1 / L 104"
@@ -2653,7 +2653,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "陳勁宏",
     "times": [
       "五 / 8,9 / L 205"
@@ -2673,7 +2673,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "二 / 1 / L 310"
@@ -2693,7 +2693,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "劉育全",
     "times": [
       "五 / 8,9 / L 308"
@@ -2713,7 +2713,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "王㻑媛",
     "times": [
       "二 / 1 / V 201"
@@ -2733,7 +2733,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "林楸燕",
     "times": [
       "五 / 8,9 / B 110"
@@ -2753,7 +2753,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "周佳欣",
     "times": [
       "五 / 8,9 / L 413"
@@ -2773,7 +2773,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "高興雲",
     "times": [
       "五 / 8,9 / B 116"
@@ -2793,7 +2793,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": 65,
+    "cap": "",
     "teacher": "許邏灣",
     "times": [
       "五 / 8,9 / E 312"
@@ -2813,7 +2813,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": 65,
+    "cap": "",
     "teacher": "蘇琬婷",
     "times": [
       "五 / 8,9 / B 508"
@@ -2833,7 +2833,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": 65,
+    "cap": "",
     "teacher": "黃翊之",
     "times": [
       "五 / 8,9 / B 709"
@@ -2853,7 +2853,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【飲食與文化英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "林嘉鴻",
     "times": [
       "五 / 8,9 / L 304"
@@ -2873,7 +2873,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【飲食與文化英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "陳儀芬",
     "times": [
       "五 / 8,9 / L 306"
@@ -2893,7 +2893,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【職場英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "陳秋月",
     "times": [
       "五 / 8,9 / B 516"
@@ -2913,7 +2913,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【簡報英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "張玉英",
     "times": [
       "五 / 8,9 / L 416"
@@ -2933,7 +2933,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "王寶月",
     "times": [
       "五 / 3,4 / B 501"
@@ -2953,7 +2953,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 1 / L 101"
@@ -2973,7 +2973,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "蔡瑞敏",
     "times": [
       "五 / 3,4 / T 109"
@@ -2993,7 +2993,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 2 / L 101"
@@ -3013,7 +3013,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "温志樺",
     "times": [
       "五 / 3,4 / E 304"
@@ -3033,7 +3033,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 2 / L 101"
@@ -3053,7 +3053,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "卓建宏",
     "times": [
       "五 / 3,4 / E 405"
@@ -3073,7 +3073,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 1 / L 202"
@@ -3093,7 +3093,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "黃志永",
     "times": [
       "五 / 3,4 / E 508"
@@ -3113,7 +3113,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 1 / T 211"
@@ -3133,7 +3133,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "莊晏甄",
     "times": [
       "五 / 3,4 / E 830"
@@ -3153,7 +3153,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 1 / L 104"
@@ -3173,7 +3173,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "黃郁傑",
     "times": [
       "五 / 3,4 / B 702"
@@ -3193,7 +3193,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 1 / L 310"
@@ -3213,7 +3213,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "張淑貞",
     "times": [
       "五 / 3,4 / E 409"
@@ -3233,7 +3233,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 2 / L 202"
@@ -3253,7 +3253,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "陳律明",
     "times": [
       "五 / 3,4 / E 416"
@@ -3273,7 +3273,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 2 / T 211"
@@ -3293,7 +3293,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "羅得彰",
     "times": [
       "五 / 3,4 / B 116"
@@ -3313,7 +3313,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 2 / L 104"
@@ -3333,7 +3333,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "陳家倩",
     "times": [
       "五 / 3,4 / B 508"
@@ -3353,7 +3353,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 2 / L 202"
@@ -3373,7 +3373,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "周佳欣",
     "times": [
       "五 / 3,4 / E 413"
@@ -3393,7 +3393,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 2 / T 211"
@@ -3413,7 +3413,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "高于晴",
     "times": [
       "五 / 3,4 / B 602"
@@ -3433,7 +3433,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 2 / L 104"
@@ -3453,7 +3453,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "郭家珍",
     "times": [
       "五 / 3,4 / B 512"
@@ -3473,7 +3473,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "陳潔晞",
     "times": [
       "四 / 1 / V 201"
@@ -3493,7 +3493,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 74,
+    "cap": "",
     "teacher": "簡伊佐",
     "times": [
       "五 / 3,4 / B 502"
@@ -3513,7 +3513,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 74,
+    "cap": "",
     "teacher": "陳映華",
     "times": [
       "四 / 1 / L 106"
@@ -3533,7 +3533,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "陳璽光",
     "times": [
       "五 / 3,4 / E 310"
@@ -3553,7 +3553,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 2 / L 310"
@@ -3573,7 +3573,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "戴淳文",
     "times": [
       "五 / 3,4 / B 617"
@@ -3593,7 +3593,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "陳映華",
     "times": [
       "四 / 2 / V 201"
@@ -3613,7 +3613,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 74,
+    "cap": "",
     "teacher": "陳彥凱",
     "times": [
       "五 / 3,4 / B 607"
@@ -3633,7 +3633,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 74,
+    "cap": "",
     "teacher": "陳潔晞",
     "times": [
       "四 / 2 / L 106"
@@ -3653,7 +3653,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "葉威廷",
     "times": [
       "五 / 3,4 / E 509"
@@ -3673,7 +3673,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "王㻑媛",
     "times": [
       "一 / 2 / L 310"
@@ -3693,7 +3693,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "鄭秀彬",
     "times": [
       "五 / 3,4 / E 412"
@@ -3713,7 +3713,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 2 / V 201"
@@ -3733,7 +3733,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 74,
+    "cap": "",
     "teacher": "劉育全",
     "times": [
       "五 / 3,4 / E 414"
@@ -3753,7 +3753,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 74,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 2 / L 106"
@@ -3773,7 +3773,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "余佳紋",
     "times": [
       "五 / 6,7 / E 509"
@@ -3793,7 +3793,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "林楸燕",
     "times": [
       "五 / 6,7 / B 110"
@@ -3813,7 +3813,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "周佳欣",
     "times": [
       "五 / 6,7 / L 413"
@@ -3833,7 +3833,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": 65,
+    "cap": "",
     "teacher": "許邏灣",
     "times": [
       "五 / 6,7 / E 312"
@@ -3853,7 +3853,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": 65,
+    "cap": "",
     "teacher": "李金安",
     "times": [
       "五 / 6,7 / SG 314"
@@ -3873,7 +3873,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【飲食與文化英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "薛玉政",
     "times": [
       "五 / 6,7 / T 401"
@@ -3893,7 +3893,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【飲食與文化英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "陳韻如",
     "times": [
       "五 / 6,7 / B 425"
@@ -3913,7 +3913,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【商務英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "簡珮玲",
     "times": [
       "五 / 6,7 / L 306"
@@ -3933,7 +3933,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【商務英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "高興雲",
     "times": [
       "五 / 6,7 / B 116"
@@ -3953,7 +3953,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【工程與應用科學英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "蔡郁瑄",
     "times": [
       "五 / 6,7 / B 513"
@@ -3973,7 +3973,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【工程與應用科學英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "羅得彰",
     "times": [
       "五 / 6,7 / S 101"
@@ -3993,7 +3993,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【工程與應用科學英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "袁欣祺",
     "times": [
       "五 / 6,7 / E 304"
@@ -4013,7 +4013,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【工程與應用科學英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "黃翊之",
     "times": [
       "五 / 6,7 / B 709"
@@ -4033,7 +4033,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【工程與應用科學英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "邱春煌",
     "times": [
       "五 / 6,7 / B 701"
@@ -4053,7 +4053,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【設計與媒體英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "吳怡芬",
     "times": [
       "五 / 6,7 / T 605"
@@ -4073,7 +4073,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【設計與媒體英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "倪志昇",
     "times": [
       "五 / 6,7 / B 309"
@@ -4093,7 +4093,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【職場英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "陳秋月",
     "times": [
       "五 / 6,7 / B 516"
@@ -4113,7 +4113,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【職場英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "張秋鶯",
     "times": [
       "五 / 6,7 / B 111"
@@ -4133,7 +4133,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【學術英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "湯雅蘭",
     "times": [
       "五 / 6,7 / E 830"
@@ -4153,7 +4153,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【永續英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "高淑婷",
     "times": [
       "五 / 6,7 / E 512"
@@ -4173,7 +4173,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【簡報英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "蘇琬婷",
     "times": [
       "五 / 6,7 / B 508"
@@ -4193,7 +4193,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "劉俊興",
     "times": [
       "五 / 8,9 / E 508"
@@ -4213,7 +4213,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "林運增",
     "times": [
       "五 / 6 / L 101"
@@ -4233,7 +4233,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "鄧秋蓉",
     "times": [
       "五 / 8,9 / T 110"
@@ -4253,7 +4253,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 10 / L 101"
@@ -4273,7 +4273,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "蔡郁瑄",
     "times": [
       "五 / 8,9 / B 513"
@@ -4293,7 +4293,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 6 / V 201"
@@ -4313,7 +4313,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "陳璽光",
     "times": [
       "五 / 8,9 / E 310"
@@ -4333,7 +4333,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 6 / T 211"
@@ -4353,7 +4353,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "張淑貞",
     "times": [
       "五 / 8,9 / E 509"
@@ -4373,7 +4373,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 10 / L 202"
@@ -4393,7 +4393,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "陳潔晞",
     "times": [
       "五 / 8,9 / B 706"
@@ -4413,7 +4413,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 6 / L 104"
@@ -4433,7 +4433,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "喻沐英",
     "times": [
       "五 / 8,9 / E 410"
@@ -4453,7 +4453,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "林運增",
     "times": [
       "三 / 10 / L 104"
@@ -4473,7 +4473,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "楊家蘭",
     "times": [
       "五 / 1,2 / B 613"
@@ -4493,7 +4493,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "洪雨婷",
     "times": [
       "五 / 1,2 / T 401"
@@ -4513,7 +4513,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": 65,
+    "cap": "",
     "teacher": "許邏灣",
     "times": [
       "五 / 1,2 / E 310"
@@ -4533,7 +4533,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": 65,
+    "cap": "",
     "teacher": "劉宥蘭",
     "times": [
       "五 / 1,2 / B 704"
@@ -4553,7 +4553,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【飲食與文化英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "薛玉政",
     "times": [
       "五 / 1,2 / E 414"
@@ -4573,7 +4573,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【學術英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "鄭秀彬",
     "times": [
       "五 / 1,2 / E 412"
@@ -4593,7 +4593,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "涂銘宏",
     "times": [
       "五 / 6,7 / B 502"
@@ -4613,7 +4613,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "林品君",
     "times": [
       "五 / 2 / L 101"
@@ -4633,7 +4633,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "劉俊興",
     "times": [
       "五 / 6,7 / B 617"
@@ -4653,7 +4653,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "二 / 2 / L 101"
@@ -4673,7 +4673,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "黃志永",
     "times": [
       "五 / 6,7 / E 412"
@@ -4693,7 +4693,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 2 / L 202"
@@ -4713,7 +4713,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "林敘如",
     "times": [
       "五 / 6,7 / B 601"
@@ -4733,7 +4733,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "林函容",
     "times": [
       "五 / 2 / L 104"
@@ -4753,7 +4753,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "陳璽光",
     "times": [
       "五 / 6,7 / E 310"
@@ -4773,7 +4773,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "謝欣芳",
     "times": [
       "二 / 2 / T 211"
@@ -4793,7 +4793,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "蔡文慈",
     "times": [
       "五 / 6,7 / B 501"
@@ -4813,7 +4813,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "王潔",
     "times": [
       "二 / 2 / L 202"
@@ -4833,7 +4833,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "陳勁宏",
     "times": [
       "五 / 6,7 / L 205"
@@ -4853,7 +4853,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "二 / 2 / L 104"
@@ -4873,7 +4873,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "項人慧",
     "times": [
       "五 / 6,7 / B 117"
@@ -4893,7 +4893,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 2 / L 310"
@@ -4913,7 +4913,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "簡伊佐",
     "times": [
       "五 / 6,7 / B 120"
@@ -4933,7 +4933,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 2 / V 201"
@@ -4953,7 +4953,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "蕭貴徽",
     "times": [
       "五 / 6,7 / B 608"
@@ -4973,7 +4973,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "王㻑媛",
     "times": [
       "二 / 2 / L 310"
@@ -4993,7 +4993,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "王寶月",
     "times": [
       "五 / 1,2 / B 501"
@@ -5013,7 +5013,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "馬天樂",
     "times": [
       "三 / 2 / L 101"
@@ -5033,7 +5033,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "陳律明",
     "times": [
       "五 / 1,2 / E 416"
@@ -5053,7 +5053,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "馬天樂",
     "times": [
       "三 / 1 / L 101"
@@ -5073,7 +5073,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "葉威廷",
     "times": [
       "五 / 1,2 / E 509"
@@ -5093,7 +5093,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 1 / L 101"
@@ -5113,7 +5113,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "卓建宏",
     "times": [
       "五 / 1,2 / E 405"
@@ -5133,7 +5133,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 2 / V 201"
@@ -5153,7 +5153,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "黃志永",
     "times": [
       "五 / 1,2 / E 508"
@@ -5173,7 +5173,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 2 / T 211"
@@ -5193,7 +5193,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "蔡郁瑄",
     "times": [
       "五 / 1,2 / B 513"
@@ -5213,7 +5213,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 2 / L 104"
@@ -5233,7 +5233,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "黃郁傑",
     "times": [
       "五 / 1,2 / B 702"
@@ -5253,7 +5253,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 1 / L 202"
@@ -5273,7 +5273,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "陳韻如",
     "times": [
       "五 / 1,2 / B 614"
@@ -5293,7 +5293,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 1 / T 211"
@@ -5313,7 +5313,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "陳曼華",
     "times": [
       "五 / 1,2 / E 515"
@@ -5333,7 +5333,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 1 / L 104"
@@ -5353,7 +5353,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "陳家倩",
     "times": [
       "五 / 1,2 / B 508"
@@ -5373,7 +5373,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 1 / L 202"
@@ -5393,7 +5393,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "邱春煌",
     "times": [
       "五 / 1,2 / B 309"
@@ -5413,7 +5413,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 1 / T 211"
@@ -5433,7 +5433,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "高于晴",
     "times": [
       "五 / 1,2 / B 602"
@@ -5453,7 +5453,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 1 / L 104"
@@ -5473,7 +5473,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "陳映華",
     "times": [
       "五 / 1,2 / B 426"
@@ -5493,7 +5493,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 2 / L 310"
@@ -5513,7 +5513,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "簡伊佐",
     "times": [
       "五 / 1,2 / B 502"
@@ -5533,7 +5533,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "王㻑媛",
     "times": [
       "三 / 2 / L 202"
@@ -5553,7 +5553,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "戴淳文",
     "times": [
       "五 / 1,2 / B 617"
@@ -5573,7 +5573,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "王㻑媛",
     "times": [
       "三 / 1 / L 310"
@@ -5593,7 +5593,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "陳彥凱",
     "times": [
       "五 / 1,2 / B 607"
@@ -5613,7 +5613,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 1 / L 310"
@@ -5633,7 +5633,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "陳勁宏",
     "times": [
       "五 / 1,2 / T 704"
@@ -5653,7 +5653,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "王㻑媛",
     "times": [
       "一 / 1 / V 201"
@@ -5673,7 +5673,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "楊家蘭",
     "times": [
       "五 / 3,4 / B 613"
@@ -5693,7 +5693,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "余佳紋",
     "times": [
       "五 / 3,4 / B 120"
@@ -5713,7 +5713,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】 .",
-    "cap": 65,
+    "cap": "",
     "teacher": "邱紫穎",
     "times": [
       "五 / 3,4 / L 308"
@@ -5733,7 +5733,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": 65,
+    "cap": "",
     "teacher": "齊嵩齡",
     "times": [
       "五 / 3,4 / E 302"
@@ -5753,7 +5753,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【飲食與文化英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "李金安",
     "times": [
       "五 / 3,4 / SG 314"
@@ -5773,7 +5773,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【商務英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "江怡菁",
     "times": [
       "五 / 3,4 / B 425"
@@ -5793,7 +5793,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【商務英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "簡珮玲",
     "times": [
       "五 / 3,4 / T 701"
@@ -5813,7 +5813,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【商務英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "許筱翎",
     "times": [
       "五 / 3,4 / B 516"
@@ -5833,7 +5833,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【職場英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "張秋鶯",
     "times": [
       "五 / 3,4 / B 111"
@@ -5853,7 +5853,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【簡報英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "邱智銘",
     "times": [
       "五 / 3,4 / L 306"
@@ -5873,7 +5873,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "湯雅蘭",
     "times": [
       "五 / 1,2 / B 118"
@@ -5893,7 +5893,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "林偉力",
     "times": [
       "五 / 1,2 / C 013"
@@ -5913,7 +5913,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "李碧玉",
     "times": [
       "五 / 1,2 / B 606"
@@ -5933,7 +5933,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": 65,
+    "cap": "",
     "teacher": "邱紫穎",
     "times": [
       "五 / 1,2 / L 308"
@@ -5953,7 +5953,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【英語溝通與表達】",
-    "cap": 65,
+    "cap": "",
     "teacher": "黃翊之",
     "times": [
       "五 / 1,2 / B 709"
@@ -5973,7 +5973,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【飲食與文化英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "邱智銘",
     "times": [
       "五 / 1,2 / L 306"
@@ -5993,7 +5993,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【飲食與文化英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "李金安",
     "times": [
       "五 / 1,2 / SG 314"
@@ -6013,7 +6013,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【飲食與文化英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "余佳紋",
     "times": [
       "五 / 1,2 / B 120"
@@ -6033,7 +6033,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【商務英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "江怡菁",
     "times": [
       "五 / 1,2 / B 425"
@@ -6053,7 +6053,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【商務英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "簡珮玲",
     "times": [
       "五 / 1,2 / T 601"
@@ -6073,7 +6073,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【商務英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "許筱翎",
     "times": [
       "五 / 1,2 / B 516"
@@ -6093,7 +6093,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【商務英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "高興雲",
     "times": [
       "五 / 1,2 / B 116"
@@ -6113,7 +6113,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【職場英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "張秋鶯",
     "times": [
       "五 / 1,2 / B 111"
@@ -6133,7 +6133,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【職場英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "陳秋月",
     "times": [
       "五 / 1,2 / B 701"
@@ -6153,7 +6153,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【永續英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "林敘如",
     "times": [
       "五 / 1,2 / B 601"
@@ -6173,7 +6173,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【簡報英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "曾郁景",
     "times": [
       "五 / 1,2 / B 608"
@@ -6193,7 +6193,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【簡報英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "蘇琬婷",
     "times": [
       "五 / 1,2 / B 507"
@@ -6213,7 +6213,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "温志樺",
     "times": [
       "五 / 6,7 / L 304"
@@ -6233,7 +6233,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "林函容",
     "times": [
       "五 / 4 / L 101"
@@ -6253,7 +6253,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "莊晏甄",
     "times": [
       "五 / 6,7 / S 102"
@@ -6273,7 +6273,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 4 / L 202"
@@ -6293,7 +6293,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "張淑貞",
     "times": [
       "五 / 6,7 / E 508"
@@ -6313,7 +6313,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 4 / T 211"
@@ -6333,7 +6333,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "郭家珍",
     "times": [
       "五 / 6,7 / L 212"
@@ -6353,7 +6353,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 4 / L 104"
@@ -6373,7 +6373,7 @@
     "credits": 2,
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "劉育全",
     "times": [
       "五 / 6,7 / L 308"
@@ -6393,7 +6393,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 4 / L 310"
@@ -6413,7 +6413,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【旅遊英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "湯雅蘭",
     "times": [
       "五 / 8,9 / E 830"
@@ -6433,7 +6433,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【工程與應用科學英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "羅得彰",
     "times": [
       "五 / 8,9 / S 101"
@@ -6453,7 +6453,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【設計與媒體英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "倪志昇",
     "times": [
       "五 / 8,9 / B 309"
@@ -6473,7 +6473,7 @@
     "credits": 2,
     "group": "QG",
     "title": "英文（二） 初選限大二學生選課。網頁資訊:https://reurl.cc/GgkXDy【永續英語】",
-    "cap": 65,
+    "cap": "",
     "teacher": "高淑婷",
     "times": [
       "五 / 8,9 / E 512"
@@ -6556,7 +6556,7 @@
     "cap": 55,
     "teacher": "孫敏學",
     "times": [
-      "三 / 1,2 / T 401"
+      "三 / 1,2 / T 604"
     ]
   },
   {
@@ -6996,7 +6996,7 @@
     "cap": 67,
     "teacher": "徐驊霖",
     "times": [
-      "三 / 1,2 / T 604"
+      "三 / 1,2 / T 401"
     ]
   },
   {
@@ -7036,7 +7036,7 @@
     "cap": 67,
     "teacher": "徐驊霖",
     "times": [
-      "三 / 1,2 / T 604"
+      "三 / 1,2 / T 401"
     ]
   },
   {
@@ -7573,7 +7573,7 @@
     "credits": 2,
     "group": "QD",
     "title": "日文（二） 母語為日文者、日文系學生皆不得選修",
-    "cap": 70,
+    "cap": 60,
     "teacher": "李政宏",
     "times": [
       "二 / 3,4 / Q 202"
@@ -7593,7 +7593,7 @@
     "credits": 2,
     "group": "QD",
     "title": "日文（二） 母語為日文者、日文系學生皆不得選修",
-    "cap": 70,
+    "cap": 60,
     "teacher": "王靖雅",
     "times": [
       "一 / 8,9 / T 601"
@@ -7613,7 +7613,7 @@
     "credits": 2,
     "group": "QD",
     "title": "日文（二） 母語為日文者、日文系學生皆不得選修",
-    "cap": 70,
+    "cap": 60,
     "teacher": "曾子豪",
     "times": [
       "五 / 8,9 / T 701"
@@ -7773,7 +7773,7 @@
     "credits": 2,
     "group": "S",
     "title": "科技社會與公民參與 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 68,
+    "cap": 74,
     "teacher": "戴政龍",
     "times": [
       "三 / 7,8 / SG 314"
@@ -7853,7 +7853,7 @@
     "credits": 2,
     "group": "S",
     "title": "企業與法律",
-    "cap": 67,
+    "cap": 74,
     "teacher": "許昭元",
     "times": [
       "四 / 7,8 / B 516"
@@ -7873,7 +7873,7 @@
     "credits": 2,
     "group": "S",
     "title": "企業與法律",
-    "cap": 71,
+    "cap": 74,
     "teacher": "張浩倫",
     "times": [
       "五 / 6,7 / N 203"
@@ -7913,7 +7913,7 @@
     "credits": 2,
     "group": "S",
     "title": "生活與法律 ◇全英語授課",
-    "cap": 70,
+    "cap": 74,
     "teacher": "黃薇儒",
     "times": [
       "二 / 7,8 / B 426"
@@ -8013,7 +8013,7 @@
     "credits": 2,
     "group": "S",
     "title": "民主政治 本科目為通識教育跨領域微學程課程，大學部學生均可選修。 ◇全英語授課",
-    "cap": 69,
+    "cap": 74,
     "teacher": "小山直則",
     "times": [
       "四 / 3,4 / T 404"
@@ -8033,7 +8033,7 @@
     "credits": 2,
     "group": "S",
     "title": "公民社會 本科目為通識教育跨領域微學程課程，大學部學生均可選修。",
-    "cap": 72,
+    "cap": 74,
     "teacher": "周應龍",
     "times": [
       "一 / 1,2 / T 701"
@@ -8053,7 +8053,7 @@
     "credits": 2,
     "group": "S",
     "title": "公民文化 ◇全英語授課",
-    "cap": 66,
+    "cap": 74,
     "teacher": "安娜",
     "times": [
       "一 / 5,6 / T 606"
@@ -8133,7 +8133,7 @@
     "credits": 2,
     "group": "S",
     "title": "智慧財產權與法律",
-    "cap": 73,
+    "cap": 74,
     "teacher": "王琇慧",
     "times": [
       "二 / 5,6 / B 429"
@@ -8193,7 +8193,7 @@
     "credits": 2,
     "group": "S",
     "title": "非營利組織與全球議題 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 63,
+    "cap": 74,
     "teacher": "林岱緯",
     "times": [
       "二 / 1,2 / SG 318"
@@ -8213,7 +8213,7 @@
     "credits": 2,
     "group": "S",
     "title": "生活與法律",
-    "cap": 49,
+    "cap": 55,
     "teacher": "許昭元",
     "times": [
       "六 / 3,4 / B 514"
@@ -8233,7 +8233,7 @@
     "credits": 2,
     "group": "R",
     "title": "教育未來 ◇全英語授課",
-    "cap": 64,
+    "cap": 74,
     "teacher": "陳思思",
     "times": [
       "二 / 6,7 / I 201"
@@ -8273,7 +8273,7 @@
     "credits": 2,
     "group": "R",
     "title": "教育未來",
-    "cap": 68,
+    "cap": 74,
     "teacher": "陳錫珍",
     "times": [
       "一 / 8,9 / SG 321"
@@ -8293,7 +8293,7 @@
     "credits": 2,
     "group": "R",
     "title": "教育未來",
-    "cap": 70,
+    "cap": 74,
     "teacher": "陳錫珍",
     "times": [
       "二 / 8,9 / L 212"
@@ -8313,7 +8313,7 @@
     "credits": 2,
     "group": "R",
     "title": "教育未來",
-    "cap": 65,
+    "cap": 74,
     "teacher": "黃佳媛",
     "times": [
       "二 / 1,2 / ED 201"
@@ -8373,7 +8373,7 @@
     "credits": 2,
     "group": "R",
     "title": "環境未來",
-    "cap": 65,
+    "cap": 74,
     "teacher": "李柏青",
     "times": [
       "二 / 9,10 / I 201"
@@ -8393,7 +8393,7 @@
     "credits": 2,
     "group": "R",
     "title": "環境未來 ◇全英語授課",
-    "cap": 64,
+    "cap": 74,
     "teacher": "陳思思",
     "times": [
       "二 / 3,4 / ED 303"
@@ -8413,7 +8413,7 @@
     "credits": 2,
     "group": "R",
     "title": "經濟未來 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 70,
+    "cap": 74,
     "teacher": "王貞靜",
     "times": [
       "三 / 5,6 / B 501"
@@ -8433,7 +8433,7 @@
     "credits": 2,
     "group": "R",
     "title": "經濟未來 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 71,
+    "cap": 74,
     "teacher": "鄧玉英",
     "times": [
       "四 / 5,6 / I 201"
@@ -8453,7 +8453,7 @@
     "credits": 2,
     "group": "R",
     "title": "經濟未來 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇全英語授課",
-    "cap": 64,
+    "cap": 74,
     "teacher": "陳思思",
     "times": [
       "一 / 3,4 / ED 201"
@@ -8473,7 +8473,7 @@
     "credits": 2,
     "group": "R",
     "title": "社會未來 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 73,
+    "cap": 74,
     "teacher": "彭莉惠",
     "times": [
       "二 / 3,4 / SG 319"
@@ -8513,7 +8513,7 @@
     "credits": 2,
     "group": "R",
     "title": "社會未來 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 70,
+    "cap": 74,
     "teacher": "彭莉惠",
     "times": [
       "三 / 7,8 / I 201"
@@ -8533,7 +8533,7 @@
     "credits": 2,
     "group": "R",
     "title": "社會未來 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 66,
+    "cap": 74,
     "teacher": "傅淑琴",
     "times": [
       "一 / 3,4 / SG 318"
@@ -8553,7 +8553,7 @@
     "credits": 2,
     "group": "R",
     "title": "社會未來 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 68,
+    "cap": 74,
     "teacher": "劉玉儀",
     "times": [
       "四 / 9,10 / E 312"
@@ -8573,7 +8573,7 @@
     "credits": 2,
     "group": "R",
     "title": "社會未來 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 71,
+    "cap": 74,
     "teacher": "林鈺惇",
     "times": [
       "一 / 5,6 / I 201"
@@ -8593,7 +8593,7 @@
     "credits": 2,
     "group": "R",
     "title": "社會未來 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇全英語授課",
-    "cap": 66,
+    "cap": 74,
     "teacher": "史城均",
     "times": [
       "五 / 3,4 / SG 318"
@@ -8613,7 +8613,7 @@
     "credits": 2,
     "group": "R",
     "title": "社會未來 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇全英語授課",
-    "cap": 63,
+    "cap": 74,
     "teacher": "史城均",
     "times": [
       "五 / 5,6 / I 201"
@@ -8633,7 +8633,7 @@
     "credits": 2,
     "group": "R",
     "title": "社會未來 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 70,
+    "cap": 74,
     "teacher": "鄧建邦",
     "times": [
       "五 / 3,4 / I 201"
@@ -8653,7 +8653,7 @@
     "credits": 2,
     "group": "R",
     "title": "社會未來 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 64,
+    "cap": 74,
     "teacher": "劉一慶",
     "times": [
       "四 / 5,6 / E 404"
@@ -8693,7 +8693,7 @@
     "credits": 2,
     "group": "R",
     "title": "科技未來",
-    "cap": 70,
+    "cap": 74,
     "teacher": "張朝欽",
     "times": [
       "二 / 9,10 / E 312"
@@ -8733,7 +8733,7 @@
     "credits": 2,
     "group": "R",
     "title": "政治未來",
-    "cap": 65,
+    "cap": 74,
     "teacher": "紀舜傑",
     "times": [
       "四 / 3,4 / I 201"
@@ -8753,7 +8753,7 @@
     "credits": 2,
     "group": "R",
     "title": "政治未來",
-    "cap": 67,
+    "cap": 74,
     "teacher": "洪耀南",
     "times": [
       "三 / 5,6 / I 201"
@@ -8773,7 +8773,7 @@
     "credits": 2,
     "group": "R",
     "title": "經濟未來—長壽趨勢與高齡經濟 本科目為通識教育跨領域微學程課程，大學部學生均可選修。",
-    "cap": 64,
+    "cap": 74,
     "teacher": "鄧玉英",
     "times": [
       "四 / 7,8 / I 201"
@@ -8793,7 +8793,7 @@
     "credits": 2,
     "group": "R",
     "title": "政治未來",
-    "cap": 71,
+    "cap": 85,
     "teacher": "周湘華",
     "times": [
       "一 / 13,14 / B 509"
@@ -8933,7 +8933,7 @@
     "credits": 2,
     "group": "T",
     "title": "國際現勢",
-    "cap": 69,
+    "cap": 74,
     "teacher": "林筱甄",
     "times": [
       "四 / 3,4 / SG 320"
@@ -8953,7 +8953,7 @@
     "credits": 2,
     "group": "T",
     "title": "國際現勢",
-    "cap": 67,
+    "cap": 74,
     "teacher": "林筱甄",
     "times": [
       "四 / 6,7 / SG 320"
@@ -8973,7 +8973,7 @@
     "credits": 2,
     "group": "T",
     "title": "國際現勢",
-    "cap": 70,
+    "cap": 74,
     "teacher": "歐陽睿",
     "times": [
       "二 / 1,2 / SG 506"
@@ -8993,7 +8993,7 @@
     "credits": 2,
     "group": "T",
     "title": "國際現勢",
-    "cap": 65,
+    "cap": 74,
     "teacher": "鄭家慶",
     "times": [
       "五 / 6,7 / T 109"
@@ -9013,7 +9013,7 @@
     "credits": 2,
     "group": "T",
     "title": "國際現勢 ◇全英語授課",
-    "cap": 65,
+    "cap": 74,
     "teacher": "狄馬",
     "times": [
       "四 / 8,9 / B 425"
@@ -9033,7 +9033,7 @@
     "credits": 2,
     "group": "T",
     "title": "國際現勢 ◇全英語授課",
-    "cap": 66,
+    "cap": 74,
     "teacher": "劉冠燊",
     "times": [
       "五 / 1,2 / SG 506"
@@ -9053,7 +9053,7 @@
     "credits": 2,
     "group": "T",
     "title": "國際現勢 ◇全英語授課",
-    "cap": 66,
+    "cap": 74,
     "teacher": "劉冠燊",
     "times": [
       "五 / 3,4 / SG 506"
@@ -9073,7 +9073,7 @@
     "credits": 2,
     "group": "T",
     "title": "歐洲聯盟與歐洲統合",
-    "cap": 70,
+    "cap": 74,
     "teacher": "卓忠宏",
     "times": [
       "三 / 8,9 / T 109"
@@ -9093,7 +9093,7 @@
     "credits": 2,
     "group": "T",
     "title": "歐洲聯盟與歐洲統合",
-    "cap": 66,
+    "cap": 74,
     "teacher": "張福昌",
     "times": [
       "四 / 8,9 / L 416"
@@ -9153,7 +9153,7 @@
     "credits": 2,
     "group": "T",
     "title": "全球體系與兩岸關係 ◇全英語授課",
-    "cap": 73,
+    "cap": 74,
     "teacher": "胡慶山",
     "times": [
       "三 / 8,9 / T 701"
@@ -9193,7 +9193,7 @@
     "credits": 2,
     "group": "T",
     "title": "經濟全球化",
-    "cap": 68,
+    "cap": 74,
     "teacher": "張昱謙",
     "times": [
       "一 / 3,4 / B 602"
@@ -9233,7 +9233,7 @@
     "credits": 2,
     "group": "T",
     "title": "經濟全球化",
-    "cap": 70,
+    "cap": 74,
     "teacher": "小山直則",
     "times": [
       "三 / 6,7 / SG 506"
@@ -9273,7 +9273,7 @@
     "credits": 2,
     "group": "T",
     "title": "美洲現勢",
-    "cap": 67,
+    "cap": 74,
     "teacher": "黃富娟",
     "times": [
       "一 / 6,7 / SG 602"
@@ -9293,7 +9293,7 @@
     "credits": 2,
     "group": "T",
     "title": "美洲現勢",
-    "cap": 69,
+    "cap": 74,
     "teacher": "黃富娟",
     "times": [
       "二 / 3,4 / SG 504"
@@ -9313,7 +9313,7 @@
     "credits": 2,
     "group": "T",
     "title": "美洲現勢",
-    "cap": 68,
+    "cap": 74,
     "teacher": "宮國威",
     "times": [
       "一 / 9,10 / B 426"
@@ -9333,7 +9333,7 @@
     "credits": 2,
     "group": "T",
     "title": "美洲現勢",
-    "cap": 65,
+    "cap": 74,
     "teacher": "宮國威",
     "times": [
       "二 / 6,7 / SG 506"
@@ -9353,7 +9353,7 @@
     "credits": 2,
     "group": "T",
     "title": "美洲現勢",
-    "cap": 68,
+    "cap": 74,
     "teacher": "宮國威",
     "times": [
       "三 / 3,4 / T 404"
@@ -9393,7 +9393,7 @@
     "credits": 2,
     "group": "T",
     "title": "歐盟治理與決策",
-    "cap": 72,
+    "cap": 74,
     "teacher": "卓忠宏",
     "times": [
       "四 / 3,4 / SG 319"
@@ -9573,7 +9573,7 @@
     "credits": 2,
     "group": "U",
     "title": "化學與生活：化學、醫藥與社會 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 68,
+    "cap": 74,
     "teacher": "李文泰",
     "times": [
       "五 / 6,7 / S 215"
@@ -9873,7 +9873,7 @@
     "credits": 2,
     "group": "U",
     "title": "數學漫遊 淡水校園上課。",
-    "cap": 70,
+    "cap": 85,
     "teacher": "潘志實",
     "times": [
       "二 / 11,12 / B 509"
@@ -9933,7 +9933,7 @@
     "credits": 2,
     "group": "V",
     "title": "哲學經典導讀",
-    "cap": 72,
+    "cap": 74,
     "teacher": "蘇富芝",
     "times": [
       "三 / 1,2 / SG 504"
@@ -10133,7 +10133,7 @@
     "credits": 2,
     "group": "V",
     "title": "生死學 ◇全英語授課",
-    "cap": 71,
+    "cap": 74,
     "teacher": "洪雨婷",
     "times": [
       "五 / 7,8 / SG 319"
@@ -10193,7 +10193,7 @@
     "credits": 2,
     "group": "V",
     "title": "邏輯與哲學 ◇全英語授課",
-    "cap": 72,
+    "cap": 74,
     "teacher": "楊濟鶴",
     "times": [
       "二 / 1,2 / SG 503"
@@ -10353,7 +10353,7 @@
     "credits": 2,
     "group": "V",
     "title": "宗教與療癒 台北校園上課。本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 72,
+    "cap": 85,
     "teacher": "劉韋廷",
     "times": [
       "五 / 13,14 / D 301"
@@ -10513,7 +10513,7 @@
     "credits": 2,
     "group": "W",
     "title": "人權與社會正義 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 68,
+    "cap": 74,
     "teacher": "邱盈翠",
     "times": [
       "一 / 3,4 / SG 319"
@@ -10533,7 +10533,7 @@
     "credits": 2,
     "group": "W",
     "title": "人權與社會正義 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 64,
+    "cap": 74,
     "teacher": "邱盈翠",
     "times": [
       "三 / 1,2 / E 310"
@@ -10553,7 +10553,7 @@
     "credits": 2,
     "group": "W",
     "title": "人權與社會正義 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 66,
+    "cap": 74,
     "teacher": "邱盈翠",
     "times": [
       "三 / 9,10 / E 409"
@@ -10573,7 +10573,7 @@
     "credits": 2,
     "group": "W",
     "title": "人權與社會正義 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇全英語授課",
-    "cap": 66,
+    "cap": 74,
     "teacher": "林楚淇",
     "times": [
       "五 / 9,10 / SG 320"
@@ -10693,7 +10693,7 @@
     "credits": 2,
     "group": "W",
     "title": "社會學導論 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 66,
+    "cap": 74,
     "teacher": "鄭素玉",
     "times": [
       "五 / 6,7 / SG 503"
@@ -10753,7 +10753,7 @@
     "credits": 2,
     "group": "W",
     "title": "政治學概論",
-    "cap": 63,
+    "cap": 74,
     "teacher": "邱盈翠",
     "times": [
       "二 / 1,2 / E 405"
@@ -10773,7 +10773,7 @@
     "credits": 2,
     "group": "W",
     "title": "政治學概論",
-    "cap": 67,
+    "cap": 74,
     "teacher": "邱盈翠",
     "times": [
       "二 / 5,6 / E 312"
@@ -10793,7 +10793,7 @@
     "credits": 2,
     "group": "W",
     "title": "政治學概論",
-    "cap": 62,
+    "cap": 74,
     "teacher": "林楚淇",
     "times": [
       "五 / 7,8 / E 515"
@@ -10853,7 +10853,7 @@
     "credits": 2,
     "group": "W",
     "title": "性別與社會 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇全英語授課",
-    "cap": 94,
+    "cap": 95,
     "teacher": "蔡政霖",
     "times": [
       "一 / 9,10 / B 609"
@@ -10873,7 +10873,7 @@
     "credits": 2,
     "group": "W",
     "title": "性別與社會 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 68,
+    "cap": 74,
     "teacher": "陳賢寶",
     "times": [
       "四 / 7,8 / SG 321"
@@ -10893,7 +10893,7 @@
     "credits": 2,
     "group": "W",
     "title": "性別與社會 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 70,
+    "cap": 74,
     "teacher": "翁雅芸",
     "times": [
       "五 / 5,6 / SG 321"
@@ -10913,7 +10913,7 @@
     "credits": 2,
     "group": "W",
     "title": "社會學導論 台北校園上課。本科目為通識教育跨領域微學程課程，大學部學生均可選修。",
-    "cap": 72,
+    "cap": 85,
     "teacher": "劉玉儀",
     "times": [
       "五 / 13,14 / D 312"
@@ -11073,7 +11073,7 @@
     "credits": 2,
     "group": "Z",
     "title": "地球生態環境 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 72,
+    "cap": 74,
     "teacher": "林大欽",
     "times": [
       "四 / 8,9 / C 001"
@@ -11113,7 +11113,7 @@
     "credits": 2,
     "group": "Z",
     "title": "地球生態環境 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 67,
+    "cap": 74,
     "teacher": "李英豪",
     "times": [
       "二 / 7,8 / SG 321"
@@ -11133,7 +11133,7 @@
     "credits": 2,
     "group": "Z",
     "title": "地球生態環境 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇全英語授課",
-    "cap": 91,
+    "cap": 95,
     "teacher": "范素玲",
     "times": [
       "五 / 9,10 / SG 321"
@@ -11153,7 +11153,7 @@
     "credits": 2,
     "group": "Z",
     "title": "地球生態環境 本科目為通識教育跨領域微學程課程，大學部學生均可選修",
-    "cap": 60,
+    "cap": 66,
     "teacher": "黃富國",
     "times": [
       "一 / 9,10 / E 231"
@@ -11193,7 +11193,7 @@
     "credits": 2,
     "group": "Z",
     "title": "能源與材料科技",
-    "cap": 69,
+    "cap": 74,
     "teacher": "顏子評",
     "times": [
       "五 / 6,7 / SG 402"
@@ -11213,7 +11213,7 @@
     "credits": 2,
     "group": "Z",
     "title": "能源與材料科技",
-    "cap": 72,
+    "cap": 74,
     "teacher": "廖淑娟",
     "times": [
       "三 / 3,4 / SG 503"
@@ -11233,7 +11233,7 @@
     "credits": 2,
     "group": "Z",
     "title": "能源與材料科技",
-    "cap": 71,
+    "cap": 74,
     "teacher": "廖淑娟",
     "times": [
       "一 / 3,4 / L 302"
@@ -11253,7 +11253,7 @@
     "credits": 2,
     "group": "Z",
     "title": "能源與材料科技",
-    "cap": 65,
+    "cap": 74,
     "teacher": "黃耀弘",
     "times": [
       "一 / 9,10 / SG 320"
@@ -11273,7 +11273,7 @@
     "credits": 2,
     "group": "Z",
     "title": "電子與電腦科技",
-    "cap": 65,
+    "cap": 74,
     "teacher": "陳清日中",
     "times": [
       "三 / 8,9 / E 310"
@@ -11293,7 +11293,7 @@
     "credits": 2,
     "group": "Z",
     "title": "電子與電腦科技",
-    "cap": 69,
+    "cap": 74,
     "teacher": "何金新",
     "times": [
       "一 / 3,4 / E 405"
@@ -11313,7 +11313,7 @@
     "credits": 2,
     "group": "Z",
     "title": "電子與電腦科技",
-    "cap": 69,
+    "cap": 74,
     "teacher": "楊維斌",
     "times": [
       "一 / 3,4 / E 312"
@@ -11333,7 +11333,7 @@
     "credits": 2,
     "group": "Z",
     "title": "電子與電腦科技",
-    "cap": 65,
+    "cap": 74,
     "teacher": "黃中信",
     "times": [
       "三 / 6,7 / SG 319"
@@ -11373,7 +11373,7 @@
     "credits": 2,
     "group": "Z",
     "title": "智慧綠生活 本科目為通識教育跨領域微學程課程，大學部學生均可選修 ◇全英語授課",
-    "cap": 69,
+    "cap": 74,
     "teacher": "姚忠達",
     "times": [
       "五 / 3,4 / E 404"
@@ -11393,7 +11393,7 @@
     "credits": 2,
     "group": "Z",
     "title": "科技進化",
-    "cap": 94,
+    "cap": 95,
     "teacher": "李明憲",
     "times": [
       "三 / 1,2 / SG 321"
@@ -11433,7 +11433,7 @@
     "credits": 2,
     "group": "Z",
     "title": "科技進化 ◇全英語授課",
-    "cap": 69,
+    "cap": 74,
     "teacher": "朱留",
     "times": [
       "三 / 1,2 / E 304"
@@ -11453,7 +11453,7 @@
     "credits": 2,
     "group": "Z",
     "title": "科技進化 ◇全英語授課",
-    "cap": 65,
+    "cap": 74,
     "teacher": "朱留",
     "times": [
       "四 / 1,2 / E 308"
@@ -11493,7 +11493,7 @@
     "credits": 2,
     "group": "Z",
     "title": "能源與材料科技 台北校園上課",
-    "cap": 70,
+    "cap": 85,
     "teacher": "潘俊宏",
     "times": [
       "六 / 3,4 / D 312"
@@ -20373,7 +20373,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "林品君",
     "times": [
       "五 / 1 / L 101"
@@ -20393,7 +20393,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "二 / 1 / L 101"
@@ -20413,7 +20413,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 1 / L 202"
@@ -20433,7 +20433,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 1 / T 211"
@@ -20453,7 +20453,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "二 / 1 / L 202"
@@ -20473,7 +20473,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "謝欣芳",
     "times": [
       "二 / 1 / T 211"
@@ -20493,7 +20493,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "王潔",
     "times": [
       "二 / 1 / L 104"
@@ -20513,7 +20513,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 1 / L 104"
@@ -20533,7 +20533,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "二 / 1 / L 310"
@@ -20553,7 +20553,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "王㻑媛",
     "times": [
       "二 / 1 / V 201"
@@ -20855,7 +20855,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "林函容",
     "times": [
       "五 / 4 / L 101"
@@ -20875,7 +20875,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 4 / L 202"
@@ -20895,7 +20895,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 4 / T 211"
@@ -20915,7 +20915,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 4 / L 104"
@@ -20935,7 +20935,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 4 / L 310"
@@ -21015,7 +21015,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 1 / L 101"
@@ -21035,7 +21035,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 2 / L 101"
@@ -21055,7 +21055,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 2 / L 101"
@@ -21075,7 +21075,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 1 / L 202"
@@ -21095,7 +21095,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 1 / T 211"
@@ -21115,7 +21115,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 1 / L 104"
@@ -21135,7 +21135,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 1 / L 310"
@@ -21155,7 +21155,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 2 / L 202"
@@ -21175,7 +21175,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 2 / T 211"
@@ -21195,7 +21195,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 2 / L 104"
@@ -21215,7 +21215,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 2 / L 202"
@@ -21235,7 +21235,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 2 / T 211"
@@ -21255,7 +21255,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 2 / L 104"
@@ -21275,7 +21275,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "陳潔晞",
     "times": [
       "四 / 1 / V 201"
@@ -21295,7 +21295,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 74,
+    "cap": "",
     "teacher": "陳映華",
     "times": [
       "四 / 1 / L 106"
@@ -21315,7 +21315,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "四 / 2 / L 310"
@@ -21335,7 +21335,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "陳映華",
     "times": [
       "四 / 2 / V 201"
@@ -21355,7 +21355,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 74,
+    "cap": "",
     "teacher": "陳潔晞",
     "times": [
       "四 / 2 / L 106"
@@ -21375,7 +21375,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "王㻑媛",
     "times": [
       "一 / 2 / L 310"
@@ -21395,7 +21395,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 2 / V 201"
@@ -21415,7 +21415,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 74,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 2 / L 106"
@@ -21896,7 +21896,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "林品君",
     "times": [
       "五 / 2 / L 101"
@@ -21916,7 +21916,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "二 / 2 / L 101"
@@ -21936,7 +21936,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 2 / L 202"
@@ -21956,7 +21956,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "林函容",
     "times": [
       "五 / 2 / L 104"
@@ -21976,7 +21976,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "謝欣芳",
     "times": [
       "二 / 2 / T 211"
@@ -21996,7 +21996,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "王潔",
     "times": [
       "二 / 2 / L 202"
@@ -22016,7 +22016,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "二 / 2 / L 104"
@@ -22036,7 +22036,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 2 / L 310"
@@ -22056,7 +22056,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 2 / V 201"
@@ -22076,7 +22076,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "王㻑媛",
     "times": [
       "二 / 2 / L 310"
@@ -22096,7 +22096,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "馬天樂",
     "times": [
       "三 / 2 / L 101"
@@ -22116,7 +22116,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "馬天樂",
     "times": [
       "三 / 1 / L 101"
@@ -22136,7 +22136,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 1 / L 101"
@@ -22156,7 +22156,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 2 / V 201"
@@ -22176,7 +22176,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 2 / T 211"
@@ -22196,7 +22196,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 2 / L 104"
@@ -22216,7 +22216,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 1 / L 202"
@@ -22236,7 +22236,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 1 / T 211"
@@ -22256,7 +22256,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 1 / L 104"
@@ -22276,7 +22276,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 1 / L 202"
@@ -22296,7 +22296,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 1 / T 211"
@@ -22316,7 +22316,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 1 / L 104"
@@ -22336,7 +22336,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 2 / L 310"
@@ -22356,7 +22356,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "王㻑媛",
     "times": [
       "三 / 2 / L 202"
@@ -22376,7 +22376,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "王㻑媛",
     "times": [
       "三 / 1 / L 310"
@@ -22396,7 +22396,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "一 / 1 / L 310"
@@ -22416,7 +22416,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "王㻑媛",
     "times": [
       "一 / 1 / V 201"
@@ -22840,7 +22840,7 @@
     "cap": 120,
     "teacher": "王憲梅",
     "times": [
-      "一 / 2,3,4 / B 704"
+      "一 / 2,3,4 / B 702"
     ]
   },
   {
@@ -23239,7 +23239,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 80,
+    "cap": "",
     "teacher": "林運增",
     "times": [
       "五 / 6 / L 101"
@@ -23259,7 +23259,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 10 / L 101"
@@ -23279,7 +23279,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 76,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 6 / V 201"
@@ -23299,7 +23299,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 6 / T 211"
@@ -23319,7 +23319,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 70,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "三 / 10 / L 202"
@@ -23339,7 +23339,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "助教",
     "times": [
       "五 / 6 / L 104"
@@ -23359,7 +23359,7 @@
     "credits": "",
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
-    "cap": 72,
+    "cap": "",
     "teacher": "林運增",
     "times": [
       "三 / 10 / L 104"
@@ -27414,7 +27414,7 @@
     "credits": 2,
     "group": "",
     "title": "英文（一） 限全英語專班學生，大一不可換班。 ◇全英語授課",
-    "cap": 80,
+    "cap": "",
     "teacher": "王慧娟",
     "times": [
       "一 / 9,10 / E 404"
@@ -30090,7 +30090,7 @@
     "credits": 2,
     "group": "",
     "title": "英文（一） 限全英語專班學生，大一不可換班。 ◇全英語授課",
-    "cap": 80,
+    "cap": "",
     "teacher": "王蔚婷",
     "times": [
       "三 / 6,7 / B 614"
@@ -30485,7 +30485,7 @@
     "cap": 175,
     "teacher": "陳姵樺",
     "times": [
-      "二 / 1,2 / B 601",
+      "二 / 1,2 / B 706",
       "二 / 5 / B 708"
     ]
   },
@@ -30924,7 +30924,7 @@
     "credits": 2,
     "group": "",
     "title": "英文（一） 限全英語專班學生，大一不可換班。 ◇全英語授課",
-    "cap": 80,
+    "cap": "",
     "teacher": "林怡弟",
     "times": [
       "五 / 6,7 / T 404"
@@ -31468,7 +31468,7 @@
     "credits": 2,
     "group": "",
     "title": "英文（一） 限全英語專班學生，大一不可換班。 ◇全英語授課",
-    "cap": 80,
+    "cap": "",
     "teacher": "張慈珊",
     "times": [
       "二 / 3,4 / B 110"
@@ -32422,8 +32422,8 @@
     "cap": 70,
     "teacher": "林偉修",
     "times": [
-      "四 / 2 / T 701",
-      "五 / 1,2 / T 701"
+      "四 / 2 / T 311",
+      "五 / 1,2 / T 212"
     ]
   },
   {
@@ -32482,7 +32482,7 @@
     "credits": 2,
     "group": "",
     "title": "英文（一） 限全英語專班學生，大一不可換班。 ◇全英語授課",
-    "cap": 70,
+    "cap": "",
     "teacher": "王慧娟",
     "times": [
       "二 / 1,2 / E 312"
@@ -32891,7 +32891,7 @@
     "credits": 2,
     "group": "",
     "title": "英文（一） 限全英語專班學生，大一不可換班。 ◇全英語授課",
-    "cap": 80,
+    "cap": "",
     "teacher": "張慈珊",
     "times": [
       "一 / 3,4 / T 601"
@@ -33554,7 +33554,7 @@
     "credits": 2,
     "group": "",
     "title": "英文（一） 限全英語專班學生，大一不可換班。 ◇全英語授課",
-    "cap": 80,
+    "cap": "",
     "teacher": "馬天樂",
     "times": [
       "二 / 1,2 / T 704"
@@ -36962,7 +36962,7 @@
     "cap": "",
     "teacher": "張芸綺",
     "times": [
-      "三 / 3,4 / E 415"
+      "三 / 3,4 / T 604"
     ]
   },
   {
@@ -37145,7 +37145,7 @@
     "teacher": "劉莉美",
     "times": [
       "二 / 7,8 / T 701",
-      "四 / 5,6 / T 505"
+      "四 / 5,6 / T 502"
     ]
   },
   {
@@ -42607,7 +42607,7 @@
     "cap": "",
     "teacher": "孫蒨鈺",
     "times": [
-      "三 / 2,3,4 / Q 206"
+      "三 / 2,3,4 / Q 202"
     ]
   },
   {
@@ -42747,7 +42747,7 @@
     "cap": "",
     "teacher": "孫蒨鈺",
     "times": [
-      "四 / 2,3,4 / Q 202"
+      "四 / 2,3,4 / O 308"
     ]
   },
   {
@@ -50241,7 +50241,7 @@
     "cap": 160,
     "teacher": "陳宗德",
     "times": [
-      "四 / 6,7,8 / T 212"
+      "四 / 6,7,8 / B 713"
     ]
   },
   {
@@ -60499,7 +60499,7 @@
     "cap": "",
     "teacher": "翁坤鐸",
     "times": [
-      "二 / 8,9,10 / E 519"
+      "二 / 8,9,10 / E 405"
     ]
   },
   {
@@ -60519,7 +60519,7 @@
     "cap": "",
     "teacher": "楊維斌",
     "times": [
-      "二 / 8,9,10 / E 405"
+      "二 / 8,9,10 / E 519"
     ]
   },
   {
@@ -64866,7 +64866,7 @@
     "cap": 22,
     "teacher": "林寄雯",
     "times": [
-      "一 / 6,7 / T 411"
+      "一 / 6,7 / T 407"
     ]
   },
   {
@@ -65928,7 +65928,7 @@
     "cap": 60,
     "teacher": "蔡欣吟",
     "times": [
-      "二 / 11,12 / B 512"
+      "二 / 11,12 / B 501"
     ]
   },
   {
@@ -68111,7 +68111,7 @@
     "cap": 105,
     "teacher": "吳姉霙",
     "times": [
-      "二 / 6,7 / L 305"
+      "二 / 6,7 / T 405"
     ]
   },
   {
@@ -74096,7 +74096,7 @@
     "credits": 2,
     "group": "",
     "title": "統計學",
-    "cap": 90,
+    "cap": 110,
     "teacher": "陳姵樺",
     "times": [
       "一 / 6,7 / B 603"
@@ -74116,7 +74116,7 @@
     "credits": "",
     "group": "",
     "title": "統計學",
-    "cap": 90,
+    "cap": 110,
     "teacher": "助教",
     "times": [
       "一 / 5 / B 603"
@@ -76656,8 +76656,8 @@
     "cap": 70,
     "teacher": "白滌清,趙慕芬",
     "times": [
-      "一 / 2 / B 702",
-      "一 / 3,4 / B 702"
+      "一 / 2 / B 704",
+      "一 / 3,4 / B 704"
     ]
   },
   {
@@ -76718,7 +76718,7 @@
     "cap": 110,
     "teacher": "助教",
     "times": [
-      "二 / 1 / B 614"
+      "二 / 1 / B 615"
     ]
   },
   {
@@ -76818,7 +76818,7 @@
     "cap": 160,
     "teacher": "連科雅",
     "times": [
-      "三 / 3,4 / B 119"
+      "三 / 3,4 / Q 409"
     ]
   },
   {
@@ -76898,7 +76898,7 @@
     "cap": 160,
     "teacher": "連科雅",
     "times": [
-      "三 / 3,4 / B 119"
+      "三 / 3,4 / Q 409"
     ]
   },
   {
@@ -77080,8 +77080,8 @@
     "cap": 90,
     "teacher": "張雍昇,許旭昇",
     "times": [
-      "四 / 2,3 / B 302b",
-      "四 / 4 / B 302b"
+      "四 / 2,3 / B 713",
+      "四 / 4 / B 713"
     ]
   },
   {
@@ -80970,7 +80970,7 @@
     "cap": "",
     "teacher": "鍾孟達",
     "times": [
-      "一 / 7,8,9 / Q 412"
+      "一 / 7,8,9 / L 204"
     ]
   },
   {
@@ -82201,7 +82201,7 @@
     "cap": 80,
     "teacher": "王千真",
     "times": [
-      "一 / 7,8 / B 426"
+      "一 / 7,8 / B 615"
     ]
   },
   {
@@ -82221,7 +82221,7 @@
     "cap": 80,
     "teacher": "助教",
     "times": [
-      "一 / 6 / B 426"
+      "一 / 6 / B 615"
     ]
   },
   {
@@ -82561,7 +82561,7 @@
     "cap": 75,
     "teacher": "助教",
     "times": [
-      "二 / 4 / B 608"
+      "二 / 4 / SG 316"
     ]
   },
   {
@@ -83347,7 +83347,7 @@
     "cap": 20,
     "teacher": "鄭啟斌",
     "times": [
-      "二 / 12,13,14 / D 403"
+      "二 / 12,13,14 / D 313"
     ]
   },
   {
@@ -84052,7 +84052,7 @@
     "teacher": "蕭景元",
     "times": [
       "一 / 6 / B 607",
-      "三 / 6,7 / B 601"
+      "三 / 6,7 / B 704"
     ]
   },
   {
@@ -86586,7 +86586,7 @@
     "teacher": "王憲梅",
     "times": [
       "二 / 3,4 / B 912",
-      "三 / 6 / B 701"
+      "三 / 6 / B 703"
     ]
   },
   {
@@ -87109,7 +87109,7 @@
     "teacher": "樓軒宇",
     "times": [
       "一 / 7 / B 614",
-      "二 / 8,9 / B 501"
+      "二 / 8,9 / T 110"
     ]
   },
   {
@@ -87230,7 +87230,7 @@
     "cap": 70,
     "teacher": "陳俊穎",
     "times": [
-      "一 / 8 / B 615",
+      "一 / 8 / B 426",
       "三 / 3,4 / B 507"
     ]
   },
@@ -88623,7 +88623,7 @@
     "teacher": "池秉聰",
     "times": [
       "二 / 6,7 / B 507",
-      "三 / 5 / B 704"
+      "三 / 5 / B 601"
     ]
   },
   {
@@ -90089,7 +90089,7 @@
     "cap": 160,
     "teacher": "助教",
     "times": [
-      "一 / 10 / C 013"
+      "一 / 10 / C 011"
     ]
   },
   {
@@ -91348,7 +91348,7 @@
     "teacher": "徐祥峻",
     "times": [
       "一 / 6 / S 420",
-      "三 / 7,8 / S 102"
+      "三 / 7,8 / C 002"
     ]
   },
   {
@@ -91510,8 +91510,8 @@
     "cap": 175,
     "teacher": "黃逸輝",
     "times": [
-      "四 / 5,6 / C 013",
-      "五 / 4 / C 013"
+      "四 / 5,6 / B 609",
+      "五 / 4 / C 011"
     ]
   },
   {
@@ -93138,7 +93138,7 @@
     "cap": 50,
     "teacher": "陳樫旭",
     "times": [
-      "一 / 2 / S 104",
+      "一 / 2 / S 103",
       "四 / 3,4 / S 102"
     ]
   },
@@ -94327,7 +94327,7 @@
     "teacher": "黃琛瑜",
     "times": [
       "一 / 3 / B 110",
-      "一 / 5,6 / B 501"
+      "一 / 5,6 / B 111"
     ]
   },
   {
@@ -94429,8 +94429,8 @@
     "cap": 85,
     "teacher": "林儹紘",
     "times": [
-      "三 / 3,4 / B 608",
-      "三 / 6 / B 608"
+      "三 / 3,4 / B 616",
+      "三 / 6 / B 708"
     ]
   },
   {
@@ -94710,7 +94710,7 @@
     "cap": 85,
     "teacher": "王千文",
     "times": [
-      "四 / 6,7 / B 429"
+      "四 / 6,7 / B 615"
     ]
   },
   {
@@ -94852,7 +94852,7 @@
     "cap": 85,
     "teacher": "陳志瑋",
     "times": [
-      "一 / 6,7 / B 615"
+      "一 / 6,7 / B 426"
     ]
   },
   {
