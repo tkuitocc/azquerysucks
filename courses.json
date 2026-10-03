@@ -5656,7 +5656,7 @@
     "cap": 65,
     "teacher": "余佳紋",
     "times": [
-      "五 / 3,4 / B 120"
+      "五 / 3,4 / T 404"
     ]
   },
   {
@@ -5976,7 +5976,7 @@
     "cap": 65,
     "teacher": "余佳紋",
     "times": [
-      "五 / 1,2 / B 120"
+      "五 / 1,2 / T 404"
     ]
   },
   {
@@ -6294,7 +6294,7 @@
     "group": "QA",
     "title": "英文（一） 大一不可換班，需繳語言實習費。各班分級對照表:https://reurl.cc/GgkXDy",
     "cap": 72,
-    "teacher": "郭家珍",
+    "teacher": "吳怡芬",
     "times": [
       "五 / 6,7 / L 212"
     ]
@@ -21525,26 +21525,6 @@
     "source": "C04.htm",
     "dept_block": "TGEXB.工學院共同科－日 ELECTIVES COURSES BY COLLEGE OF ENGINEERING",
     "grade": "0",
-    "seq": "1517",
-    "code": "E4212",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "建築工程估價概論",
-    "cap": "",
-    "teacher": "待聘",
-    "times": [
-      "五 / 6,7 / E 787"
-    ]
-  },
-  {
-    "source": "C04.htm",
-    "dept_block": "TGEXB.工學院共同科－日 ELECTIVES COURSES BY COLLEGE OF ENGINEERING",
-    "grade": "0",
     "seq": "1518",
     "code": "E4324",
     "major": null,
@@ -27277,7 +27257,7 @@
     "cap": 80,
     "teacher": "王慧娟",
     "times": [
-      "一 / 9,10 / E 404"
+      "一 / 9,10 / E 401"
     ]
   },
   {
@@ -27798,26 +27778,6 @@
     "source": "F01.htm",
     "dept_block": "TEXBM.智慧製造全英專班 INTERNATIONAL INTENSE MASTER’S PROGRAM IN AI INTELLIGENT MACHINERY AND SUSTAINABLE MANUFACTURING, COLLEGE OF ENGINEERING (ENGLISH-TAUGHT PROGRAM)",
     "grade": "1",
-    "seq": "8205",
-    "code": "E3945",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "人工智慧與機器學習 ◇全英語授課",
-    "cap": "",
-    "teacher": "待聘",
-    "times": [
-      "一 / 8,9,10 / E 811"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TEXBM.智慧製造全英專班 INTERNATIONAL INTENSE MASTER’S PROGRAM IN AI INTELLIGENT MACHINERY AND SUSTAINABLE MANUFACTURING, COLLEGE OF ENGINEERING (ENGLISH-TAUGHT PROGRAM)",
-    "grade": "1",
     "seq": "8206",
     "code": "E4362",
     "major": null,
@@ -27832,26 +27792,6 @@
     "teacher": "何政昌",
     "times": [
       "一 / 2,3,4 / E 238"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TEXBM.智慧製造全英專班 INTERNATIONAL INTENSE MASTER’S PROGRAM IN AI INTELLIGENT MACHINERY AND SUSTAINABLE MANUFACTURING, COLLEGE OF ENGINEERING (ENGLISH-TAUGHT PROGRAM)",
-    "grade": "1",
-    "seq": "8207",
-    "code": "E4363",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "機器學習與深度學習基礎 ◇全英語授課",
-    "cap": "",
-    "teacher": "待聘",
-    "times": [
-      "三 / 2,3,4 / E 826"
     ]
   },
   {
@@ -33055,7 +32995,7 @@
     "cap": 175,
     "teacher": "莫少白",
     "times": [
-      "四 / 6,7 / T 705"
+      "四 / 6,7 / T 411"
     ]
   },
   {
@@ -36234,7 +36174,7 @@
     "cap": "",
     "teacher": "陳瑋靜",
     "times": [
-      "一 / 6,7 / L 417"
+      "一 / 6,7 / H 118"
     ]
   },
   {
@@ -37664,7 +37604,7 @@
     "credits": 2,
     "group": "",
     "title": "資訊與通訊科技發展 ◇講座課程",
-    "cap": "",
+    "cap": 140,
     "teacher": "王英宏",
     "times": [
       "五 / 3,4 / E 787"
@@ -37984,7 +37924,7 @@
     "credits": 2,
     "group": "",
     "title": "台灣科技產業 限三年級以上學生選課。 ◇講座課程",
-    "cap": 120,
+    "cap": 100,
     "teacher": "莊程豪",
     "times": [
       "一 / 3,4 / Q 409"
@@ -44111,7 +44051,7 @@
     "cap": 70,
     "teacher": "彭莉惠",
     "times": [
-      "四 / 3,4 / E 415"
+      "四 / 3,4 / B 429"
     ]
   },
   {
@@ -48493,26 +48433,6 @@
   {
     "source": "TEBXM.htm",
     "dept_block": "TEBXM.機械系碩士班 MASTER’S PROGRAM, DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
-    "grade": "1",
-    "seq": "8553",
-    "code": "T1433",
-    "major": null,
-    "term_order": "0",
-    "class": "B",
-    "group_div": null,
-    "required": "必",
-    "credits": 1,
-    "group": "",
-    "title": "研究方法（一）",
-    "cap": "",
-    "teacher": "顏子評",
-    "times": [
-      "一 / 6 / E 812"
-    ]
-  },
-  {
-    "source": "TEBXM.htm",
-    "dept_block": "TEBXM.機械系碩士班 MASTER’S PROGRAM, DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
     "grade": "2",
     "seq": "8094",
     "code": "E3751",
@@ -49747,26 +49667,6 @@
     "source": "TECXD.htm",
     "dept_block": "TECXD.土木系博士班 DOCTORAL PROGRAM, DEPARTMENT OF CIVIL ENGINEERING",
     "grade": "1",
-    "seq": "9019",
-    "code": "E2615",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "設計思考與認知心理學",
-    "cap": "",
-    "teacher": "鄭晃二",
-    "times": [
-      "四 / 3,4 / K 301"
-    ]
-  },
-  {
-    "source": "TECXD.htm",
-    "dept_block": "TECXD.土木系博士班 DOCTORAL PROGRAM, DEPARTMENT OF CIVIL ENGINEERING",
-    "grade": "1",
     "seq": "9020",
     "code": "E3068",
     "major": null,
@@ -49781,26 +49681,6 @@
     "teacher": "陳珍誠",
     "times": [
       "三 / 8,9 / K 301"
-    ]
-  },
-  {
-    "source": "TECXD.htm",
-    "dept_block": "TECXD.土木系博士班 DOCTORAL PROGRAM, DEPARTMENT OF CIVIL ENGINEERING",
-    "grade": "1",
-    "seq": "9021",
-    "code": "E4051",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "智慧健康建築導論",
-    "cap": "",
-    "teacher": "姚忠達",
-    "times": [
-      "三 / 3,4 / K 301"
     ]
   },
   {
@@ -52181,7 +52061,7 @@
     "credits": 3,
     "group": "",
     "title": "資料結構",
-    "cap": 100,
+    "cap": 85,
     "teacher": "黃仁俊",
     "times": [
       "一 / 1,2 / G 315",
@@ -52202,7 +52082,7 @@
     "credits": "",
     "group": "",
     "title": "資料結構",
-    "cap": 100,
+    "cap": 85,
     "teacher": "助教",
     "times": [
       "三 / 9 / E 309"
@@ -52222,7 +52102,7 @@
     "credits": 3,
     "group": "",
     "title": "資料結構",
-    "cap": "",
+    "cap": 85,
     "teacher": "王英宏",
     "times": [
       "四 / 3,4 / E 411",
@@ -52243,7 +52123,7 @@
     "credits": "",
     "group": "",
     "title": "資料結構",
-    "cap": "",
+    "cap": 85,
     "teacher": "助教",
     "times": [
       "五 / 1 / E 311"
@@ -60679,7 +60559,7 @@
     "cap": 150,
     "teacher": "李慶烈",
     "times": [
-      "一 / 9,10 / E 401",
+      "一 / 9,10 / E 404",
       "四 / 9 / E 830"
     ]
   },
@@ -60840,7 +60720,7 @@
     "cap": 22,
     "teacher": "李世安",
     "times": [
-      "四 / 11,12,13 / E 222"
+      "四 / 11,12,13 / E 219"
     ]
   },
   {
@@ -60881,26 +60761,6 @@
     "teacher": "劉寅春",
     "times": [
       "四 / 14 / D 312"
-    ]
-  },
-  {
-    "source": "TETXJ.htm",
-    "dept_block": "TETXJ.電機系碩專班 EXECUTIVE MASTER’S PROGRAM, DEPARTMENT OF ELECTRICAL AND COMPUTER ENGINEERING",
-    "grade": "1",
-    "seq": "8193",
-    "code": "E1957",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "天線工程",
-    "cap": "",
-    "teacher": "莊彧宙",
-    "times": [
-      "一 / 11,12,13 / D 317"
     ]
   },
   {
@@ -67749,8 +67609,8 @@
     "cap": "",
     "teacher": "吳姉霙",
     "times": [
-      "四 / 3,4 / O 504",
-      "四 / 6,7 / O 504"
+      "四 / 3,4 / L 417",
+      "四 / 6,7 / L 406"
     ]
   },
   {
@@ -69120,7 +68980,7 @@
     "teacher": "曾易聰",
     "times": [
       "一 / 10 / E 304",
-      "四 / 7,8 / E 512"
+      "四 / 7,8 / E 405"
     ]
   },
   {
@@ -69566,8 +69426,8 @@
     "cap": 80,
     "teacher": "鄧有光",
     "times": [
-      "四 / 7,8 / E 405",
-      "四 / 10 / E 405"
+      "四 / 7,8 / E 512",
+      "四 / 10 / E 512"
     ]
   },
   {
@@ -69587,7 +69447,7 @@
     "cap": 80,
     "teacher": "助教",
     "times": [
-      "四 / 9 / E 405"
+      "四 / 9 / E 512"
     ]
   },
   {
@@ -73338,7 +73198,7 @@
     "cap": "",
     "teacher": "黃貴樹",
     "times": [
-      "四 / 7,8 / T 408"
+      "四 / 7,8 / SG 602"
     ]
   },
   {
