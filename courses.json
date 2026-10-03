@@ -576,7 +576,7 @@
     "cap": 69,
     "teacher": "林淑瑩",
     "times": [
-      "五 / 3,4 / SG 319"
+      "五 / 3,4 / S 102"
     ]
   },
   {
@@ -23402,7 +23402,7 @@
     "cap": 160,
     "teacher": "何景榮",
     "times": [
-      "三 / 9,10 / Q 306"
+      "三 / 9,10 / O 306"
     ]
   },
   {
@@ -30875,27 +30875,6 @@
   },
   {
     "source": "F01.htm",
-    "dept_block": "TLFAB.國企系經貿管理組 DIVISION OF INTERNATIONAL ECONOMICS AND MANAGEMENT, DEPARTMENT OF INTERNATIONAL BUSINESS",
-    "grade": "4",
-    "seq": "3292",
-    "code": "B0310",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 3,
-    "group": "",
-    "title": "資料分析 ◇全英語授課",
-    "cap": 60,
-    "teacher": "貝蒂",
-    "times": [
-      "二 / 2 / B 512",
-      "二 / 3,4 / B 512"
-    ]
-  },
-  {
-    "source": "F01.htm",
     "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
     "grade": "1",
     "seq": "2110",
@@ -37468,26 +37447,6 @@
     "teacher": "史薇塔",
     "times": [
       "三 / 6,7 / T 606"
-    ]
-  },
-  {
-    "source": "F12.htm",
-    "dept_block": "TFOUB.歐語系俄文組 DIVISION OF RUSSIAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
-    "grade": "4",
-    "seq": "1411",
-    "code": "F1141",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "俄語華語教學 ◇雙語授課(中文/俄文)",
-    "cap": 175,
-    "teacher": "王開顏",
-    "times": [
-      "二 / 8,9 / T 403"
     ]
   },
   {
@@ -55606,7 +55565,7 @@
     "cap": "",
     "teacher": "陳增源",
     "times": [
-      "五 / 3,4 / E 829"
+      "五 / 3,4 / E 820"
     ]
   },
   {
@@ -67114,26 +67073,6 @@
     "source": "TFOAB.htm",
     "dept_block": "TFOAB.歐語系法文組 DIVISION OF FRENCH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
     "grade": "3",
-    "seq": "1283",
-    "code": "A1530",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "法語教學理論與實務 限三、四年級生",
-    "cap": 175,
-    "teacher": "陳麗娟",
-    "times": [
-      "三 / 6,7 / B 617"
-    ]
-  },
-  {
-    "source": "TFOAB.htm",
-    "dept_block": "TFOAB.歐語系法文組 DIVISION OF FRENCH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
-    "grade": "3",
     "seq": "1284",
     "code": "F1607",
     "major": null,
@@ -75421,26 +75360,6 @@
   {
     "source": "TLBXE.htm",
     "dept_block": "TLBXE.財金系（進學） DEPARTMENT OF BANKING AND FINANCE",
-    "grade": "3",
-    "seq": "6070",
-    "code": "M2311",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 2,
-    "group": "",
-    "title": "財金資料庫",
-    "cap": 60,
-    "teacher": "侯全祐",
-    "times": [
-      "三 / 11,12 / B 1012"
-    ]
-  },
-  {
-    "source": "TLBXE.htm",
-    "dept_block": "TLBXE.財金系（進學） DEPARTMENT OF BANKING AND FINANCE",
     "grade": "4",
     "seq": "6071",
     "code": "B0173",
@@ -81358,7 +81277,7 @@
     "cap": 70,
     "teacher": "助教",
     "times": [
-      "四 / 2 / B 217"
+      "四 / 2 / B 218"
     ]
   },
   {
@@ -81398,7 +81317,7 @@
     "cap": 70,
     "teacher": "助教",
     "times": [
-      "四 / 1 / B 217"
+      "四 / 1 / B 218"
     ]
   },
   {
