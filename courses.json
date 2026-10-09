@@ -23546,6 +23546,26 @@
     ]
   },
   {
+    "source": "C07.htm",
+    "dept_block": "TGFXB.外語學院共同科日 ELECTIVES COURSES BY COLLEGE OF FOREIGN LANGUAGES AND LITERATURES",
+    "grade": "4",
+    "seq": "3352",
+    "code": "X0001",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 0,
+    "group": "",
+    "title": "英語能力檢定 限延修生已修足畢業學分，僅未通過外語檢定畢業門檻者修習(請至課務組辦理選課)。",
+    "cap": "",
+    "teacher": "",
+    "times": [
+      "/ /"
+    ]
+  },
+  {
     "source": "C09.htm",
     "dept_block": "TGRHB.榮譽進階專業－國 HONORS PROGRAM",
     "grade": "0",
@@ -25568,7 +25588,8 @@
     "cap": 80,
     "teacher": "林亦珍",
     "times": [
-      "三 / 5,6 / B 427"
+      "二 / 1 / O 306",
+      "三 / 6 / B 427"
     ]
   },
   {
@@ -25588,7 +25609,7 @@
     "cap": 80,
     "teacher": "助教",
     "times": [
-      "二 / 1 / O 306"
+      "三 / 5 / B 427"
     ]
   },
   {
@@ -26754,26 +26775,6 @@
     "teacher": "陳德如",
     "times": [
       "三 / 3,4 / K 201"
-    ]
-  },
-  {
-    "source": "F01.htm",
-    "dept_block": "TEBXD.機械系博士班 DOCTORAL PROGRAM, DEPARTMENT OF MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING",
-    "grade": "1",
-    "seq": "9103",
-    "code": "E4349",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "選",
-    "credits": 1,
-    "group": "",
-    "title": "進階熱傳應用數值分析 ◇密集授課◇全英語授課",
-    "cap": "",
-    "teacher": "桑德拉",
-    "times": [
-      "二 / 10 / G 409"
     ]
   },
   {
@@ -30526,7 +30527,7 @@
     "cap": 80,
     "teacher": "助教",
     "times": [
-      "二 / 1 / O 306"
+      "三 / 5 / B 427"
     ]
   },
   {
@@ -64988,6 +64989,26 @@
     ]
   },
   {
+    "source": "TFJXB.htm",
+    "dept_block": "TFJXB.日文系（日） DEPARTMENT OF JAPANESE",
+    "grade": "4",
+    "seq": "3349",
+    "code": "X0006",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 0,
+    "group": "",
+    "title": "日語能力檢定 限延修生已修足畢業學分，僅未通過日語檢定畢業門檻者修習(請至課務組辦理選課)。",
+    "cap": "",
+    "teacher": "",
+    "times": [
+      "/ /"
+    ]
+  },
+  {
     "source": "TFJXE.htm",
     "dept_block": "TFJXE.日文系（進學） DEPARTMENT OF JAPANESE",
     "grade": "1",
@@ -67070,6 +67091,26 @@
     ]
   },
   {
+    "source": "TFOAB.htm",
+    "dept_block": "TFOAB.歐語系法文組 DIVISION OF FRENCH, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "4",
+    "seq": "3350",
+    "code": "X0004",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 0,
+    "group": "",
+    "title": "法語能力檢定 限延修生已修足畢業學分，僅未通過法語檢定畢業門檻者修習(請至課務組辦理選課)。",
+    "cap": "",
+    "teacher": "",
+    "times": [
+      "/ /"
+    ]
+  },
+  {
     "source": "TFOGB.htm",
     "dept_block": "TFOGB.歐語系德文組 DIVISION OF GERMAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
     "grade": "1",
@@ -67490,6 +67531,26 @@
     "teacher": "顏徽玲",
     "times": [
       "四 / 3,4 / T 405"
+    ]
+  },
+  {
+    "source": "TFOGB.htm",
+    "dept_block": "TFOGB.歐語系德文組 DIVISION OF GERMAN, DEPARTMENT OF EUROPEAN LANGUAGES AND CULTURES",
+    "grade": "4",
+    "seq": "3351",
+    "code": "X0005",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "選",
+    "credits": 0,
+    "group": "",
+    "title": "德語能力檢定 限延修生已修足畢業學分，僅未通過德語檢定畢業門檻者修習(請至課務組辦理選課)。",
+    "cap": "",
+    "teacher": "",
+    "times": [
+      "/ /"
     ]
   },
   {
@@ -75594,7 +75655,7 @@
     "cap": 80,
     "teacher": "助教",
     "times": [
-      "二 / 1 / O 306"
+      "三 / 5 / B 427"
     ]
   },
   {
@@ -92405,6 +92466,26 @@
     ]
   },
   {
+    "source": "TSPXD.htm",
+    "dept_block": "TSPXD.物理系博士班 DOCTORAL PROGRAM, DEPARTMENT OF PHYSICS",
+    "grade": "2",
+    "seq": "9103",
+    "code": "T8000",
+    "major": null,
+    "term_order": "0",
+    "class": "A",
+    "group_div": null,
+    "required": "必",
+    "credits": 0,
+    "group": "",
+    "title": "論文",
+    "cap": "",
+    "teacher": "莊程豪",
+    "times": [
+      "日 / 2 /"
+    ]
+  },
+  {
     "source": "TSPXM.htm",
     "dept_block": "TSPXM.物理系碩士班 MASTER’S PROGRAM, DEPARTMENT OF PHYSICS",
     "grade": "1",
@@ -94554,26 +94635,6 @@
     "teacher": "高君豪",
     "times": [
       "四 / 8 / Q 201"
-    ]
-  },
-  {
-    "source": "ULSBM.htm",
-    "dept_block": "ULSBM.統計系數科碩士班 MASTER’S PROGRAM IN DATA SCIENCE, DEPARTMENT OF STATISTICS AND DATA SCIENCE",
-    "grade": "2",
-    "seq": "8523",
-    "code": "T8000",
-    "major": null,
-    "term_order": "0",
-    "class": "A",
-    "group_div": null,
-    "required": "必",
-    "credits": 0,
-    "group": "",
-    "title": "論文",
-    "cap": "",
-    "teacher": "陳麗菁",
-    "times": [
-      "六 / 2 /"
     ]
   },
   {
