@@ -27265,6 +27265,26 @@
     "source": "F01.htm",
     "dept_block": "TEIDB.資工系英語班 DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING (ENGLISH-TAUGHT PROGRAM)",
     "grade": "1",
+    "seq": "3356",
+    "code": "T0466",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英文（一） 限全英語專班學生，大一不可換班。 ◇全英語授課",
+    "cap": 80,
+    "teacher": "張玉英",
+    "times": [
+      "一 / 9,10 / E 508"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TEIDB.資工系英語班 DEPARTMENT OF COMPUTER SCIENCE AND INFORMATION ENGINEERING (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
     "seq": "0612",
     "code": "T9607",
     "major": null,
@@ -30991,7 +31011,7 @@
     "cap": 60,
     "teacher": "助教",
     "times": [
-      "五 / 5 / B 113"
+      "五 / 5 / B 130"
     ]
   },
   {
@@ -31252,6 +31272,26 @@
     "teacher": "張慈珊",
     "times": [
       "二 / 3,4 / B 428"
+    ]
+  },
+  {
+    "source": "F01.htm",
+    "dept_block": "TLFBB.國企系國商英語組 DIVISION OF GLOBAL COMMERCE, DEPARTMENT OF INTERNATIONAL BUSINESS (ENGLISH-TAUGHT PROGRAM)",
+    "grade": "1",
+    "seq": "3357",
+    "code": "T0466",
+    "major": null,
+    "term_order": "1",
+    "class": "B",
+    "group_div": null,
+    "required": "必",
+    "credits": 2,
+    "group": "",
+    "title": "英文（一） 限全英語專班學生，大一不可換班。 ◇全英語授課",
+    "cap": 80,
+    "teacher": "張慈珊",
+    "times": [
+      "三 / 8,9 / B 507"
     ]
   },
   {
@@ -35733,7 +35773,7 @@
     "cap": 70,
     "teacher": "助教",
     "times": [
-      "五 / 8 / B 216"
+      "五 / 8 / B 218"
     ]
   },
   {
@@ -75895,7 +75935,7 @@
     "cap": 70,
     "teacher": "助教",
     "times": [
-      "五 / 5 / B 130"
+      "五 / 5 / B 113"
     ]
   },
   {
@@ -79888,7 +79928,7 @@
     "cap": 60,
     "teacher": "助教",
     "times": [
-      "五 / 5 / B 113"
+      "五 / 5 / B 130"
     ]
   },
   {
@@ -82122,7 +82162,7 @@
     "cap": 70,
     "teacher": "助教",
     "times": [
-      "五 / 8 / B 216"
+      "五 / 8 / B 218"
     ]
   },
   {
